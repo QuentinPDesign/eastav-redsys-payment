@@ -31,7 +31,7 @@ module.exports = async (req, res) => {
     const TRANSACTION_TYPE = "0";
 
     const orderNumber = data.orderNumber;
-    const amount = data.amount.toString();
+    const amount = (data.amount || 0).toString();
     const studentEmail = data.studentEmail;
     const courseName = data.courseName;
     const merchantURL = data.merchantURL;
