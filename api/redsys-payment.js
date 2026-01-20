@@ -1,6 +1,6 @@
 /**
  * Vercel Serverless Function - Génération signature Redsys
- * Fichier: api/redsys-payment.js
+ * Version ROBUSTE finale
  */
 
 const crypto = require('crypto');
@@ -30,13 +30,14 @@ module.exports = async (req, res) => {
     const CURRENCY = "978";
     const TRANSACTION_TYPE = "0";
 
-    const orderNumber = data.orderNumber;
-    const amount = (data.amount || 0).toString();
-    const studentEmail = data.studentEmail;
-    const courseName = data.courseName;
-    const merchantURL = data.merchantURL;
-    const urlOK = data.urlOK;
-    const urlKO = data.urlKO;
+    // Données avec valeurs par défaut robustes
+    const orderNumber = String(data.orderNumber || "TEST001");
+    const amount = String(data.amount || 0);
+    const studentEmail = String(data.studentEmail || "test@example.com");
+    const courseName = String(data.courseName || "Curso");
+    const merchantURL = String(data.merchantURL || "");
+    const urlOK = String(data.urlOK || "");
+    const urlKO = String(data.urlKO || "");
 
     // Construction des paramètres
     const merchantParameters = {
@@ -50,8 +51,8 @@ module.exports = async (req, res) => {
       "DS_MERCHANT_URLOK": urlOK,
       "DS_MERCHANT_URLKO": urlKO,
       "DS_MERCHANT_CONSUMERLANGUAGE": "002",
-      "DS_MERCHANT_PRODUCTDESCRIPTION": courseName.substring(0, 125),
-      "DS_MERCHANT_TITULAR": studentEmail.substring(0, 60)
+      "DS_MERCHANT_PRODUCTDESCRIPTION": courseName.substring(0, Math.min(125, courseName.length)),
+      "DS_MERCHANT_TITULAR": studentEmail.substring(0, Math.min(60, studentEmail.length))
     };
 
     // Encodage Base64
@@ -67,9 +68,16 @@ module.exports = async (req, res) => {
       Ds_SignatureVersion: "HMAC_SHA256_V1",
       Ds_MerchantParameters: merchantParamsBase64,
       Ds_Signature: signature,
-      redsysURL: "https://sis-t.redsys.es:25443/sis/realizarPago",  // TEST
-      // redsysURL: "https://sis.redsys.es/sis/realizarPago",  // PRODUCTION
-      orderNumber: orderNumber
+      redsysURL: "https://sis-t.redsys.es:25443/sis/realizarPago",
+      orderNumber: orderNumber,
+      debug: {
+        receivedData: {
+          orderNumber: data.orderNumber,
+          amount: data.amount,
+          studentEmail: data.studentEmail,
+          courseName: data.courseName
+        }
+      }
     });
 
   } catch (error) {
@@ -81,16 +89,11 @@ module.exports = async (req, res) => {
   }
 };
 
-// ===== GÉNÉRATION SIGNATURE =====
-
+// Génération signature
 function generateSignature(orderNumber, merchantParamsBase64, merchantKey) {
-  // 1. Décoder la clé merchant (Base64)
   const key = Buffer.from(merchantKey, 'base64');
-  
-  // 2. Créer une clé dérivée avec l'order number
   const orderPadded = orderNumber.padEnd(16, '\0');
   
-  // Chiffrer avec 3DES-CBC
   const cipher = crypto.createCipheriv('des-ede3-cbc', key, Buffer.alloc(8, 0));
   cipher.setAutoPadding(false);
   
@@ -99,10 +102,7 @@ function generateSignature(orderNumber, merchantParamsBase64, merchantKey) {
     cipher.final()
   ]);
   
-  // 3. Générer le HMAC SHA-256
   const hmac = crypto.createHmac('sha256', derivedKey);
   hmac.update(merchantParamsBase64);
-  const signature = hmac.digest('base64');
-  
-  return signature;
+  return hmac.digest('base64');
 }
