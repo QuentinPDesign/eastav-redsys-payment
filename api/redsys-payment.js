@@ -23,9 +23,8 @@ module.exports = async (req, res) => {
     const data = req.body;
 
     // Clé SHA-256
-    const MERCHANT_KEY = "sq7HjrUOBfKmC576ILgskD5srU870gJ7";
-
-    const MERCHANT_CODE = data.merchantCode || "999008881";
+    const MERCHANT_KEY = "tkkBKNEBXAMrpyEAua+xz1KXpkr54mOO"; // Tes vraies credentials
+    const MERCHANT_CODE = data.merchantCode || "355952300"; // Ton commerce
     const TERMINAL = data.terminal || "1";
     const CURRENCY = "978";
     const TRANSACTION_TYPE = "0";
