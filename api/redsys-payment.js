@@ -67,7 +67,7 @@ module.exports = async (req, res) => {
       Ds_SignatureVersion: "HMAC_SHA256_V1",
       Ds_MerchantParameters: merchantParamsBase64,
       Ds_Signature: signature,
-      redsysURL: "https://sis-t.redsys.es:25443/sis/realizarPago",
+      redsysURL: "https://sis.redsys.es/sis/realizarPago",  // PROD (sans -t)
       orderNumber: orderNumber,
       debug: {
         receivedData: {
