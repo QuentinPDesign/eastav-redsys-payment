@@ -1,152 +1,97 @@
 /**
- * Vercel Serverless Function - Validation webhook Redsys
- * Scénario B - Appelé par Make.com après réception du webhook Redsys
- * VERSION FINALE PRODUCTION
+ * Module Make.com - Traitement Webhook Redsys
+ * À utiliser dans un webhook "Custom webhook" puis module JavaScript
  */
+
 const crypto = require('crypto');
 
-module.exports = async (req, res) => {
-  // CORS Headers
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+// ===== CONFIGURATION =====
+const MERCHANT_KEY = "VOTRE_CLE_SHA256_ICI";  // Même clé que préparation
+
+// ===== RÉCEPTION DES DONNÉES REDSYS =====
+// Redsys envoie ces paramètres en POST
+const receivedParams = {{webhook.Ds_MerchantParameters}};  // Base64
+const receivedSignature = {{webhook.Ds_Signature}};        // Base64
+const signatureVersion = {{webhook.Ds_SignatureVersion}};  // "HMAC_SHA256_V1"
+
+// ===== DÉCODAGE DES PARAMÈTRES =====
+const paramsJSON = Buffer.from(receivedParams, 'base64').toString('utf8');
+const params = JSON.parse(paramsJSON);
+
+// Extraction des données importantes
+const orderNumber = params.Ds_Order;
+const responseCode = params.Ds_Response;  // 0000-0099 = OK, >= 0100 = KO
+const authorizationCode = params.Ds_AuthorisationCode;
+const amount = parseInt(params.Ds_Amount) / 100;  // Reconvertir en euros
+const cardCountry = params.Ds_Card_Country;
+const date = params.Ds_Date;
+const hour = params.Ds_Hour;
+
+// ===== VALIDATION SIGNATURE =====
+function validateSignature(orderNumber, receivedParams, receivedSignature, merchantKey) {
+  // 1. Décode la clé merchant
+  const key = Buffer.from(merchantKey, 'base64');
   
-  // Handle OPTIONS preflight
-  if (req.method === 'OPTIONS') {
-    return res.status(200).end();
-  }
+  // 2. Crée une clé dérivée avec l'order number
+  const cipher = crypto.createCipheriv('des-ede3-cbc', key, Buffer.alloc(8, 0));
+  cipher.setAutoPadding(false);
+  const derivedKey = Buffer.concat([
+    cipher.update(orderNumber, 'utf8'),
+    cipher.final()
+  ]);
   
-  // Only accept POST
-  if (req.method !== 'POST') {
-    return res.status(405).json({ error: 'Method not allowed' });
-  }
+  // 3. Génère le HMAC SHA-256 avec les paramètres reçus
+  const hmac = crypto.createHmac('sha256', derivedKey);
+  hmac.update(receivedParams);
+  const calculatedSignature = hmac.digest('base64');
+  
+  // 4. Compare avec la signature reçue
+  return calculatedSignature === receivedSignature;
+}
 
-  try {
-    const data = req.body;
-    
-    // Clé de production Redsys (identique à redsys-payment.js)
-    const MERCHANT_KEY = "tkkBKNEBXAMrpyEAua+xz1KXpkr54mOO";
-    
-    // Récupérer les paramètres du webhook Redsys
-    const merchantParams = data.Ds_MerchantParameters;
-    const signature = data.Ds_Signature;
-    const signatureVersion = data.Ds_SignatureVersion;
+const isValid = validateSignature(orderNumber, receivedParams, receivedSignature, MERCHANT_KEY);
 
-    // Vérifier que les paramètres obligatoires sont présents
-    if (!merchantParams || !signature) {
-      throw new Error('Missing required parameters: Ds_MerchantParameters or Ds_Signature');
-    }
+// ===== DÉTERMINER LE STATUT =====
+let paymentStatus;
+let isSuccess = false;
 
-    // Décoder les paramètres Base64
-    const decodedParams = Buffer.from(merchantParams, 'base64').toString('utf8');
-    const params = JSON.parse(decodedParams);
-
-    // Extraire le numéro de commande (Redsys renvoie Ds_Order)
-    const orderNumber = String(params.Ds_Order || params.DS_MERCHANT_ORDER);
-    
-    if (!orderNumber) {
-      throw new Error('Order number not found in decoded parameters');
-    }
-
-    // ============= LOGS DE DEBUG =============
-    console.log('=== REDSYS WEBHOOK VALIDATION ===');
-    console.log('Order Number:', orderNumber);
-    console.log('Order Number type:', typeof orderNumber);
-    console.log('Order Number length:', orderNumber.length);
-    console.log('Merchant Key length:', MERCHANT_KEY.length);
-    console.log('Merchant Params preview:', merchantParams.substring(0, 50));
-    console.log('Received Signature:', signature);
-    
-    // Générer la signature attendue
-    const expectedSignature = generateSignature(orderNumber, merchantParams, MERCHANT_KEY);
-    
-    console.log('Expected Signature:', expectedSignature);
-    console.log('Signatures match:', signature === expectedSignature);
-    console.log('===================================');
-    // =========================================
-
-    // Valider la signature
-    const isValid = signature === expectedSignature;
-
-    // Extraire le code de réponse
-    const responseCode = params.Ds_Response || params.DS_MERCHANT_RESPONSE;
-    
-    // Déterminer si le paiement est réussi
-    // Codes 0000-0099 = Succès
-    const isSuccess = isValid && parseInt(responseCode) >= 0 && parseInt(responseCode) <= 99;
-
-    // Construire la réponse pour Make.com
-    return res.status(200).json({
-      isValid: isValid,
-      isSuccess: isSuccess,
-      paymentStatus: isSuccess ? 'approved' : 'rejected',
-      orderNumber: orderNumber,
-      responseCode: responseCode,
-      authorizationCode: params.Ds_AuthorisationCode || params.DS_MERCHANT_AUTHORISATIONCODE,
-      amount: params.Ds_Amount || params.DS_MERCHANT_AMOUNT,
-      transactionDate: params.Ds_Date,
-      transactionHour: params.Ds_Hour,
-      cardCountry: params.Ds_Card_Country,
-      cardBrand: params.Ds_Card_Brand,
-      terminal: params.Ds_Terminal,
-      // Flags pour Make.com
-      shouldUpdateEnrollment: isValid,
-      shouldSendEmail: isSuccess,
-      shouldCreateCalendarEvent: isSuccess,
-      // Tous les paramètres décodés
-      decodedParams: params,
-      // Debug info
-      debug: {
-        receivedSignature: signature,
-        expectedSignature: expectedSignature,
-        orderNumberUsed: orderNumber,
-        orderNumberType: typeof orderNumber,
-        signatureMatch: signature === expectedSignature,
-        merchantKeyLength: MERCHANT_KEY.length
-      }
-    });
-
-  } catch (error) {
-    console.error('❌ Error in webhook validation:', error);
-    return res.status(400).json({
-      success: false,
-      isValid: false,
-      isSuccess: false,
-      error: error.message,
-      stack: process.env.NODE_ENV === 'development' ? error.stack : undefined
-    });
-  }
-};
-
-/**
- * Fonction de génération de signature Redsys
- * Utilise l'algorithme HMAC SHA-256 avec clé dérivée 3DES
- * CETTE FONCTION DOIT ÊTRE IDENTIQUE À CELLE DE redsys-payment.js
- */
-function generateSignature(orderNumber, merchantParamsBase64, merchantKey) {
-  try {
-    // Décoder la clé Base64
-    const key = Buffer.from(merchantKey, 'base64');
-    
-    // Padder le numéro de commande à 16 caractères avec des null bytes
-    const orderPadded = orderNumber.padEnd(16, '\0');
-    
-    // Créer une clé dérivée avec 3DES
-    const cipher = crypto.createCipheriv('des-ede3-cbc', key, Buffer.alloc(8, 0));
-    cipher.setAutoPadding(false);
-    
-    const derivedKey = Buffer.concat([
-      cipher.update(orderPadded, 'utf8'),
-      cipher.final()
-    ]);
-    
-    // Calculer le HMAC SHA-256
-    const hmac = crypto.createHmac('sha256', derivedKey);
-    hmac.update(merchantParamsBase64);
-    
-    return hmac.digest('base64');
-  } catch (error) {
-    console.error('❌ Error generating signature:', error);
-    throw error;
+if (!isValid) {
+  paymentStatus = "Invalid Signature";
+  isSuccess = false;
+} else {
+  const responseInt = parseInt(responseCode);
+  
+  if (responseInt >= 0 && responseInt <= 99) {
+    paymentStatus = "Paid";
+    isSuccess = true;
+  } else if (responseCode === "900") {
+    // Confirmation de préautorisation ou dévolution
+    paymentStatus = "Paid";
+    isSuccess = true;
+  } else {
+    paymentStatus = "Failed";
+    isSuccess = false;
   }
 }
+
+// ===== OUTPUT POUR MAKE =====
+output = {
+  isValid: isValid,
+  isSuccess: isSuccess,
+  paymentStatus: paymentStatus,
+  orderNumber: orderNumber,
+  responseCode: responseCode,
+  authorizationCode: authorizationCode,
+  amount: amount,
+  cardCountry: cardCountry,
+  transactionDate: date,
+  transactionHour: hour,
+  
+  // Données complètes pour logging
+  fullParams: params,
+  
+  // Pour router dans Make
+  shouldUpdateEnrollment: isValid,
+  shouldSendEmail: isValid && isSuccess,
+  shouldCreateCalendarEvent: isValid && isSuccess
+};// JavaScript Document
