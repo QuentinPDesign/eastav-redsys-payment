@@ -1,6 +1,7 @@
 /**
  * Vercel Serverless Function - Validation webhook Redsys
  * Scénario B - Appelé par Make.com après réception du webhook Redsys
+ * VERSION FINALE PRODUCTION
  */
 const crypto = require('crypto');
 
@@ -23,7 +24,7 @@ module.exports = async (req, res) => {
   try {
     const data = req.body;
     
-    // Clé de production Redsys
+    // Clé de production Redsys (identique à redsys-payment.js)
     const MERCHANT_KEY = "tkkBKNEBXAMrpyEAua+xz1KXpkr54mOO";
     
     // Récupérer les paramètres du webhook Redsys
@@ -47,7 +48,7 @@ module.exports = async (req, res) => {
       throw new Error('Order number not found in decoded parameters');
     }
 
-    // Logs de debug pour troubleshooting
+    // ============= LOGS DE DEBUG =============
     console.log('=== REDSYS WEBHOOK VALIDATION ===');
     console.log('Order Number:', orderNumber);
     console.log('Order Number type:', typeof orderNumber);
@@ -62,6 +63,7 @@ module.exports = async (req, res) => {
     console.log('Expected Signature:', expectedSignature);
     console.log('Signatures match:', signature === expectedSignature);
     console.log('===================================');
+    // =========================================
 
     // Valider la signature
     const isValid = signature === expectedSignature;
@@ -86,6 +88,7 @@ module.exports = async (req, res) => {
       transactionHour: params.Ds_Hour,
       cardCountry: params.Ds_Card_Country,
       cardBrand: params.Ds_Card_Brand,
+      terminal: params.Ds_Terminal,
       // Flags pour Make.com
       shouldUpdateEnrollment: isValid,
       shouldSendEmail: isSuccess,
@@ -98,7 +101,8 @@ module.exports = async (req, res) => {
         expectedSignature: expectedSignature,
         orderNumberUsed: orderNumber,
         orderNumberType: typeof orderNumber,
-        signatureMatch: signature === expectedSignature
+        signatureMatch: signature === expectedSignature,
+        merchantKeyLength: MERCHANT_KEY.length
       }
     });
 
@@ -117,6 +121,7 @@ module.exports = async (req, res) => {
 /**
  * Fonction de génération de signature Redsys
  * Utilise l'algorithme HMAC SHA-256 avec clé dérivée 3DES
+ * CETTE FONCTION DOIT ÊTRE IDENTIQUE À CELLE DE redsys-payment.js
  */
 function generateSignature(orderNumber, merchantParamsBase64, merchantKey) {
   try {
@@ -141,7 +146,7 @@ function generateSignature(orderNumber, merchantParamsBase64, merchantKey) {
     
     return hmac.digest('base64');
   } catch (error) {
-    console.error('Error generating signature:', error);
+    console.error('❌ Error generating signature:', error);
     throw error;
   }
 }
