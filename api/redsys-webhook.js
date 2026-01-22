@@ -33,7 +33,7 @@ module.exports = async (req, res) => {
     const params = JSON.parse(decodedParams);
 
     // Extraire le numéro de commande
-    const orderNumber = params.DS_MERCHANT_ORDER || params.Ds_Order;
+    const orderNumber = params.Ds_Order || params.DS_MERCHANT_ORDER;
 
     // Générer la signature attendue
     const expectedSignature = generateSignature(orderNumber, merchantParams, MERCHANT_KEY);
