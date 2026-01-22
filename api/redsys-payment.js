@@ -122,26 +122,3 @@ function generateSignature(orderNumber, merchantParamsBase64, merchantKey) {
     throw error;
   }
 }
-```
-
----
-
-## 🎯 Points clés
-
-1. **Ligne 30** : Terminal avec `padStart(3, '0')` ✅
-2. **Ligne 28** : Même clé que webhook ✅
-3. **Lignes 76-85** : Renvoie SEULEMENT du JSON (pas de HTML) ✅
-4. **Fonction generateSignature** : Identique au webhook ✅
-
----
-
-## 📋 Utilisation dans Make
-
-**Module Update Enrollment :**
-```
-Redsys Order Number: {{5.orderNumber}}
-```
-
-**Module Webhook Response :**
-```
-HTML codé en dur dans Make (comme avant)
