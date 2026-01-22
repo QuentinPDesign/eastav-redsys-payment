@@ -7,8 +7,8 @@ const crypto = require('crypto');
 
 // ===== CONFIGURATION REDSYS =====
 const MERCHANT_CODE = "355952300";  // Ton FUC
-const TERMINAL = "1";
-const MERCHANT_KEY = "VOTRE_CLE_SHA256_ICI";  // À récupérer depuis Canales
+const TERMINAL = "001";
+const MERCHANT_KEY = "tkkBKNEBXAMrpyEAua+xz1KXpkr54mOO";  // À récupérer depuis Canales
 const CURRENCY = "978";  // EUR
 const TRANSACTION_TYPE = "0";  // Autorisation standard
 
