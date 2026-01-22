@@ -23,7 +23,14 @@ module.exports = async (req, res) => {
     const MERCHANT_KEY = "tkkBKNEBXAMrpyEAua+xz1KXpkr54mOO";
     
     const merchantParams = data.Ds_MerchantParameters;
-    const signature = data.Ds_Signature;
+    
+    // ✅ CORRECTION : Convertir Base64 URL-safe vers Base64 standard
+    let signature = data.Ds_Signature;
+    signature = signature.replace(/_/g, '/').replace(/-/g, '+');
+    // Ajouter le padding si manquant
+    while (signature.length % 4) {
+      signature += '=';
+    }
 
     if (!merchantParams || !signature) {
       throw new Error('Missing parameters');
@@ -39,7 +46,8 @@ module.exports = async (req, res) => {
 
     console.log('=== REDSYS WEBHOOK VALIDATION ===');
     console.log('Order Number:', orderNumber);
-    console.log('Received Signature:', signature);
+    console.log('Received Signature (original):', data.Ds_Signature);
+    console.log('Received Signature (converted):', signature);
     
     const expectedSignature = generateSignature(orderNumber, merchantParams, MERCHANT_KEY);
     
