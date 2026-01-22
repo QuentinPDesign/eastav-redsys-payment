@@ -1,78 +1,109 @@
 /**
- * Module Make.com - Préparation paiement Redsys
- * À utiliser dans un module "Tools > Set Variable" ou "HTTP > Make a request"
+ * Vercel Serverless Function - Génération signature Redsys
+ * Scénario A - Création du paiement
+ * Renvoie JSON avec les données pour Make.com
  */
-
 const crypto = require('crypto');
 
-// ===== CONFIGURATION REDSYS =====
-const MERCHANT_CODE = "355952300";  // Ton FUC
-const TERMINAL = "001";
-const MERCHANT_KEY = "tkkBKNEBXAMrpyEAua+xz1KXpkr54mOO";  // À récupérer depuis Canales
-const CURRENCY = "978";  // EUR
-const TRANSACTION_TYPE = "0";  // Autorisation standard
+module.exports = async (req, res) => {
+  // CORS Headers
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+  
+  if (req.method === 'OPTIONS') {
+    return res.status(200).end();
+  }
+  
+  if (req.method !== 'POST') {
+    return res.status(405).json({ error: 'Method not allowed' });
+  }
 
-// ===== DONNÉES DU PAIEMENT =====
-// Ces variables viennent de tes modules précédents Make
-const orderNumber = {{enrollment.recordId}}.substring(3, 15); // Prendre 4-12 chars du record ID
-const amount = Math.round({{session.price}} * 100); // Convertir en centimes
-const studentEmail = {{student.email}};
-const courseName = {{course.name}};
+  try {
+    const data = req.body;
+    
+    // Configuration Redsys PRODUCTION
+    const MERCHANT_KEY = "tkkBKNEBXAMrpyEAua+xz1KXpkr54mOO";
+    const MERCHANT_CODE = data.merchantCode || "355952300";
+    const TERMINAL = "001";  // Toujours 3 chiffres
+    const CURRENCY = "978";
+    const TRANSACTION_TYPE = "0";
+    
+    // Données du paiement
+    const orderNumber = String(data.orderNumber || "TEST001");
+    const amount = String(data.amount || 0);
+    const studentEmail = String(data.studentEmail || "test@example.com");
+    const courseName = String(data.courseName || "Curso");
+    const merchantURL = String(data.merchantURL || "");
+    const urlOK = String(data.urlOK || "");
+    const urlKO = String(data.urlKO || "");
+    
+    // Construction des paramètres
+    const merchantParameters = {
+      "DS_MERCHANT_AMOUNT": amount,
+      "DS_MERCHANT_ORDER": orderNumber,
+      "DS_MERCHANT_MERCHANTCODE": MERCHANT_CODE,
+      "DS_MERCHANT_CURRENCY": CURRENCY,
+      "DS_MERCHANT_TRANSACTIONTYPE": TRANSACTION_TYPE,
+      "DS_MERCHANT_TERMINAL": TERMINAL,
+      "DS_MERCHANT_MERCHANTURL": merchantURL,
+      "DS_MERCHANT_URLOK": urlOK,
+      "DS_MERCHANT_URLKO": urlKO,
+      "DS_MERCHANT_CONSUMERLANGUAGE": "002",
+      "DS_MERCHANT_PRODUCTDESCRIPTION": courseName.substring(0, Math.min(125, courseName.length)),
+      "DS_MERCHANT_TITULAR": studentEmail.substring(0, Math.min(60, studentEmail.length))
+    };
+    
+    // Encodage Base64
+    const merchantParamsJSON = JSON.stringify(merchantParameters);
+    const merchantParamsBase64 = Buffer.from(merchantParamsJSON, 'utf8').toString('base64');
+    
+    // Génération signature
+    const signature = generateSignature(orderNumber, merchantParamsBase64, MERCHANT_KEY);
+    
+    // Logs
+    console.log('=== REDSYS PAYMENT CREATION ===');
+    console.log('Order Number:', orderNumber);
+    console.log('Terminal:', TERMINAL);
+    console.log('Amount:', amount);
+    console.log('Signature:', signature);
+    console.log('================================');
+    
+    // Réponse JSON pour Make.com
+    return res.status(200).json({
+      success: true,
+      Ds_SignatureVersion: "HMAC_SHA256_V1",
+      Ds_MerchantParameters: merchantParamsBase64,
+      Ds_Signature: signature,
+      redsysURL: "https://sis.redsys.es/sis/realizarPago",
+      orderNumber: orderNumber,
+      amount: amount,
+      terminal: TERMINAL
+    });
 
-// URLs de retour (à adapter selon ton domaine)
-const merchantURL = "https://eastav.com/api/redsys-notification"; // Webhook
-const urlOK = "https://eastav.com/payment-success?order=" + orderNumber;
-const urlKO = "https://eastav.com/payment-failed?order=" + orderNumber;
-
-// ===== CONSTRUCTION DES PARAMÈTRES =====
-const merchantParameters = {
-  "DS_MERCHANT_AMOUNT": amount.toString(),
-  "DS_MERCHANT_ORDER": orderNumber,
-  "DS_MERCHANT_MERCHANTCODE": MERCHANT_CODE,
-  "DS_MERCHANT_CURRENCY": CURRENCY,
-  "DS_MERCHANT_TRANSACTIONTYPE": TRANSACTION_TYPE,
-  "DS_MERCHANT_TERMINAL": TERMINAL,
-  "DS_MERCHANT_MERCHANTURL": merchantURL,
-  "DS_MERCHANT_URLOK": urlOK,
-  "DS_MERCHANT_URLKO": urlKO,
-  "DS_MERCHANT_CONSUMERLANGUAGE": "002", // Espagnol
-  "DS_MERCHANT_PRODUCTDESCRIPTION": courseName.substring(0, 125),
-  "DS_MERCHANT_TITULAR": studentEmail.substring(0, 60)
+  } catch (error) {
+    console.error('❌ Error:', error);
+    return res.status(400).json({
+      success: false,
+      error: error.message
+    });
+  }
 };
 
-// ===== ENCODAGE BASE64 =====
-const merchantParamsJSON = JSON.stringify(merchantParameters);
-const merchantParamsBase64 = Buffer.from(merchantParamsJSON, 'utf8').toString('base64');
-
-// ===== GÉNÉRATION SIGNATURE SHA-256 =====
 function generateSignature(orderNumber, merchantParamsBase64, merchantKey) {
-  // 1. Décode la clé merchant (stockée en Base64)
   const key = Buffer.from(merchantKey, 'base64');
+  const orderPadded = String(orderNumber).padEnd(16, '\0');
   
-  // 2. Crée une clé dérivée avec l'order number
   const cipher = crypto.createCipheriv('des-ede3-cbc', key, Buffer.alloc(8, 0));
   cipher.setAutoPadding(false);
+  
   const derivedKey = Buffer.concat([
-    cipher.update(orderNumber, 'utf8'),
+    cipher.update(orderPadded, 'utf8'),
     cipher.final()
   ]);
   
-  // 3. Génère le HMAC SHA-256
   const hmac = crypto.createHmac('sha256', derivedKey);
   hmac.update(merchantParamsBase64);
-  const signature = hmac.digest('base64');
   
-  return signature;
+  return hmac.digest('base64');
 }
-
-const signature = generateSignature(orderNumber, merchantParamsBase64, MERCHANT_KEY);
-
-// ===== OUTPUT POUR MAKE =====
-// Ces variables seront utilisées dans le module suivant
-output = {
-  Ds_SignatureVersion: "HMAC_SHA256_V1",
-  Ds_MerchantParameters: merchantParamsBase64,
-  Ds_Signature: signature,
-  redsysURL: "https://sis.redsys.es/sis/realizarPago",
-  orderNumber: orderNumber
-};// JavaScript Document
