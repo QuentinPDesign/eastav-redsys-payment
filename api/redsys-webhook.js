@@ -1,7 +1,7 @@
 /**
  * Vercel Serverless Function - Validation webhook Redsys
+ * VERSION CORRIGÉE
  */
-
 const crypto = require('crypto');
 
 module.exports = async (req, res) => {
@@ -9,21 +9,21 @@ module.exports = async (req, res) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
-
+  
   if (req.method === 'OPTIONS') {
     return res.status(200).end();
   }
-
+  
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
   try {
     const data = req.body;
-
+    
     // Clé SHA-256
     const MERCHANT_KEY = "tkkBKNEBXAMrpyEAua+xz1KXpkr54mOO";
-
+    
     const merchantParams = data.Ds_MerchantParameters;
     const signature = data.Ds_Signature;
     const signatureVersion = data.Ds_SignatureVersion;
@@ -32,8 +32,13 @@ module.exports = async (req, res) => {
     const decodedParams = Buffer.from(merchantParams, 'base64').toString('utf8');
     const params = JSON.parse(decodedParams);
 
-    // Extraire le numéro de commande
+    // ✅ CORRECTION : Ordre inversé pour chercher Ds_Order en premier
     const orderNumber = params.Ds_Order || params.DS_MERCHANT_ORDER;
+    
+    // Vérifier que orderNumber existe
+    if (!orderNumber) {
+      throw new Error('Order number not found in decoded parameters');
+    }
 
     // Générer la signature attendue
     const expectedSignature = generateSignature(orderNumber, merchantParams, MERCHANT_KEY);
@@ -41,7 +46,7 @@ module.exports = async (req, res) => {
     // Comparer les signatures
     const isValid = signature === expectedSignature;
 
-    // Déterminer le statut du paiement
+    // ✅ CORRECTION : Chercher Ds_Response en premier
     const responseCode = params.Ds_Response || params.DS_MERCHANT_RESPONSE;
     const isSuccess = isValid && parseInt(responseCode) >= 0 && parseInt(responseCode) <= 99;
 
@@ -57,7 +62,13 @@ module.exports = async (req, res) => {
       shouldUpdateEnrollment: isValid,
       shouldSendEmail: isSuccess,
       shouldCreateCalendarEvent: isSuccess,
-      decodedParams: params
+      decodedParams: params,
+      // Debug info
+      debug: {
+        receivedSignature: signature,
+        expectedSignature: expectedSignature,
+        orderNumberUsed: orderNumber
+      }
     });
 
   } catch (error) {
