@@ -11,14 +11,6 @@ const client = new S3Client({
 });
 
 export default async function handler(req, res) {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
-
-  if (req.method === "OPTIONS") {
-    return res.status(200).end();
-  }
-
   const { page } = req.query;
   const command = new GetObjectCommand({
     Bucket: "manualrass",
@@ -27,5 +19,6 @@ export default async function handler(req, res) {
     ResponseContentType: "application/pdf",
   });
   const url = await getSignedUrl(client, command, { expiresIn: 1800 });
-  res.json({ url });
+  const viewerUrl = `https://eastav-global.webflow.io/formacion/manual-rass?pdfurl=${encodeURIComponent(url)}&page=${page || 1}`;
+  res.redirect(viewerUrl);
 }
