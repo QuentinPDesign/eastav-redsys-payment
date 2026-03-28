@@ -1,4 +1,5 @@
 import { S3Client, GetObjectCommand } from "@aws-sdk/client-s3";
+import { getSignedUrl } from "@aws-sdk/s3-request-presigner";
 
 const client = new S3Client({
   region: "auto",
@@ -11,17 +12,14 @@ const client = new S3Client({
 
 export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
-  
+  res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
+  if (req.method === "OPTIONS") return res.status(200).end();
   const command = new GetObjectCommand({
     Bucket: "manualrass",
     Key: "manual final.pdf",
+    ResponseContentDisposition: "inline",
+    ResponseContentType: "application/pdf",
   });
-
-  const response = await client.send(command);
-  
-  res.setHeader("Content-Type", "application/pdf");
-  res.setHeader("Content-Disposition", "inline");
-  res.setHeader("Cache-Control", "private, no-store");
-  
-  response.Body.pipe(res);
+  const url = await getSignedUrl(client, command, { expiresIn: 1800 });
+  res.json({ url });
 }
