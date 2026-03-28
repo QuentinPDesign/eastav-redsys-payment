@@ -15,6 +15,8 @@ export default async function handler(req, res) {
   const command = new GetObjectCommand({
     Bucket: "manualrass",
     Key: "manual final.pdf",
+    ResponseContentDisposition: "inline",
+    ResponseContentType: "application/pdf",
   });
   const url = await getSignedUrl(client, command, { expiresIn: 1800 });
   res.redirect(`${url}#page=${page || 1}`);
