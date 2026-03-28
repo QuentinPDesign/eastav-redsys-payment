@@ -19,5 +19,6 @@ export default async function handler(req, res) {
     ResponseContentType: "application/pdf",
   });
   const url = await getSignedUrl(client, command, { expiresIn: 1800 });
-  res.redirect(`${url}#page=${page || 1}`);
+  res.setHeader('Access-Control-Allow-Origin', '*');
+res.json({ url });
 }
