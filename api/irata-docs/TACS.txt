@@ -1,0 +1,4900 @@
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Training, Assessment and  
+Certification Scheme 
+for personnel engaged in industrial rope access methods 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 2 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+CONTENTS 
+1 
+REVISION HISTORY ...................................................................................................................... 4 
+1.1 
+FOREWORD ............................................................................................................................... 6 
+1.2 
+ACKNOWLEDGEMENTS ............................................................................................................... 6 
+1.3 
+INTRODUCTION ........................................................................................................................... 7 
+1.4 
+SCOPE ...................................................................................................................................... 7 
+2 
+TERMS AND DEFINITIONS ........................................................................................................... 8 
+3 
+LEVELS OF QUALIFICATION ....................................................................................................... 9 
+4 
+GUIDANCE FOR CANDIDATES .................................................................................................. 11 
+4.1 
+SUITABILITY OF CANDIDATES FOR TRAINING .............................................................................. 11 
+4.2 
+PRE-TRAINING REQUIREMENTS: HEALTH AND FITNESS ............................................................... 11 
+4.3 
+PRE-TRAINING REQUIREMENTS: UPGRADING TO LEVELS 2 OR 3 ................................................. 11 
+4.4 
+TRAINING PROGRAMMES .......................................................................................................... 12 
+4.5 
+CONVERSION TO IRATA CERTIFICATION ................................................................................... 12 
+4.6 
+ASSESSMENTS ......................................................................................................................... 12 
+4.7 
+REASSESSMENT ....................................................................................................................... 13 
+4.8 
+COMPLAINTS AND APPEALS ...................................................................................................... 13 
+4.9 
+VALIDITY OF CERTIFICATES....................................................................................................... 14 
+4.10 REVALIDATION TRAINING .......................................................................................................... 14 
+4.11 REFRESHER TRAINING.............................................................................................................. 14 
+4.12 FIRST AID CERTIFICATES .......................................................................................................... 15 
+4.13 LOGBOOKS .............................................................................................................................. 15 
+4.14 HOW TO COMPLETE THE WORK EXPERIENCE SECTION OF A LOGBOOK ....................................... 16 
+5 
+GUIDANCE FOR COMPANIES EMPLOYING IRATA ROPE ACCESS TECHNICIANS............ 18 
+6 
+TRAINING SYLLABUS AND ASSESSMENT: REQUIREMENTS AND GUIDANCE ................. 19 
+6.1 
+GENERAL ................................................................................................................................. 19 
+6.2 
+PLANNING AND MANAGEMENT ................................................................................................... 23 
+6.3 
+EQUIPMENT ............................................................................................................................. 26 
+6.4 
+RIGGING .................................................................................................................................. 29 
+6.5 
+RIGGING FOR RESCUE AND HAULING ........................................................................................ 34 
+6.6 
+ROPE MANOEUVRES ................................................................................................................ 37 
+6.7 
+CLIMBING TECHNIQUES ............................................................................................................ 43 
+6.8 
+ROPE RESCUES ....................................................................................................................... 45 
+6.9 
+CLIMBING RESCUES ................................................................................................................. 49 
+7 
+REQUIREMENTS AND GUIDANCE FOR TRAINERS & TRAINER MEMBER COMPANIES ... 51 
+7.1 
+GENERAL ................................................................................................................................. 51 
+7.2 
+PRE-COURSE INFORMATION ...................................................................................................... 51 
+7.3 
+PROVISION OF TRAINING .......................................................................................................... 51 
+7.4 
+CANDIDATE TO TRAINER RATIOS ............................................................................................... 52 
+7.5 
+THIRD-PARTY TRAINING ............................................................................................................ 53 
+7.6 
+TRAINING VENUES ................................................................................................................... 53 
+7.7 
+ASSESSMENT AND TRAINING AREA ........................................................................................... 53 
+7.8 
+ASSESSMENTS ......................................................................................................................... 55 
+7.9 
+ADMINISTRATION, INCLUDING REGISTRATION AND CERTIFICATION .............................................. 56 
+7.10 RECORD KEEPING .................................................................................................................... 58 
+8 
+REQUIREMENTS AND GUIDANCE FOR IRATA INTERNATIONAL INSTRUCTORS .............. 58 
+8.1 
+OVERVIEW ............................................................................................................................... 58 
+8.2 
+ELIGIBILITY .............................................................................................................................. 58 
+8.3 
+APPLYING FOR TRAINEE INSTRUCTOR STATUS........................................................................... 59 
+8.4 
+REQUIREMENTS FOR INSTRUCTOR STATUS ............................................................................... 59 
+8.5 
+TRAINEE INSTRUCTOR LOGBOOK .............................................................................................. 59 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 3 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+8.6 
+APPLYING FOR INSTRUCTOR STATUS ........................................................................................ 60 
+8.7 
+MAINTAINING INSTRUCTOR STATUS ........................................................................................... 60 
+8.8 
+INSTRUCTOR LOGBOOK ............................................................................................................ 60 
+9 
+REQUIREMENTS AND GUIDANCE FOR IRATA INTERNATIONAL ASSESSORS ................. 61 
+9.1 
+GENERAL ................................................................................................................................. 61 
+9.2 
+ASSESSMENT AREA.................................................................................................................. 62 
+9.3 
+ASSESSMENT CRITERIA AND MARKING SYSTEM ......................................................................... 62 
+9.4 
+ASSESSMENT OUTCOME........................................................................................................... 63 
+9.5 
+THEORY KNOWLEDGE .............................................................................................................. 64 
+9.6 
+PERMISSIBLE ACCOMMODATIONS FOR THE THEORY EXAMINATION ............................................. 64 
+9.7 
+PRACTICAL ASSESSMENT ......................................................................................................... 65 
+9.8 
+PROCEDURE TO BECOME AN IRATA INTERNATIONAL ASSESSOR, ASSESSOR RULES AND 
+MAINTENANCE OF STATUS ........................................................................................................ 66 
+9.9 
+CONDITIONS FOR TERMINATION OF A CANDIDATE’S ASSESSMENT ............................................... 66 
+ 
+Figure 1: Flowchart showing qualification process…………………………………………………………     10 
+Figure 2: Example of how a work experience page within an IRATA Logbook should be completed... 17 
+Figure 3: Summary of the IRATA International Training syllabus……………………………………...21/22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 4 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+ 
+1 REVISION HISTORY 
+ 
+The first edition was published in August 2014.  
+Amendments issued since publication. 
+ 
+Amd. No 
+Date 
+Text affected 
+1. 
+04/03/2015 
+4.4.4 
+4.7/ 4.7.1/ 4.7.2/ 4.7.3 
+4.9/ 4.9.1/ 4.9.2/ 4.9.3/ 4.9.4 
+7.9 
+9.4/ 9.4.1/ 9.4.2/ 9.4.3/ 9.4.4 
+2. 
+25/06/2015 
+4.9.5 
+7.3.2/ 7.3.3/ 7.3.5/ 7.3.6/ 7.10.4 
+8/ 8.1/ 8.2/ 8.3/ 8.4/ 8.5/ 8.6/ 8.7/ 8.8 
+3. 
+12/11/2019 
+4.3.4 
+4.5 
+ 
+4.6.11 
+ 
+4.8 
+ 
+4.9.6 
+ 
+4.13.1/ 4.13.5/ 4.13.10/ 4.13.11 
+ 
+5.1 
+ 
+Figure 3 
+ 
+6.2.2.1 
+ 
+6.4.6.2.4 
+ 
+7.1.4 
+ 
+7.3.5 
+ 
+7.5/ 7.5.1/ 7.5.2/ 7.5.3/ 7.5.4 
+ 
+7.6 
+ 
+7.7.2 
+ 
+7.8.2 
+ 
+7.9.4/ 7.9.5/ 7.9.6/ 7.9.7/ 7.9.8/ 7.9.9/ 7.9.10/ 7.9.11/ 7.9.12/ 7.9.13 
+ 
+7.10.1/ 7.10.3/ 7.10.4 
+ 
+9.1.8/ 9.1.9/ 9.1.10 
+ 
+9.6.1 
+ 
+9.7.1 
+4. 
+20/05/2021 
+4.4.4 
+4.9.3/ 4.9.4 
+7.3.2 
+9.4.3/ 9.4.4/ 9.4.5/ 9.4.6 
+5. 
+16/05/2023 
+1.1 
+2 
+Figure 1 
+4.2.1 
+4.3.1/ 4.3.3 / 4.3.5 
+4.4.4 
+4.5 
+4.6.6/ 4.6.10/ 4.6.11 
+4.7.2 
+4.7.3 
+4.10.4, 4.10.5 
+4.13.4/ 4.13.9/ 4.13.10/ 4.13.12 
+6.1.2 
+6.1.3, 6.1.3.1/ 6.1.3.2/ 6.1.3.3/ 6.1.3.4/ 6.1.3.5/ 6.1.3.6/ 6.1.3.7/ 6.1.3.8/ 6.1.3.9/ 
+6.1.3.10/ 6.1.3.11/ 6.1.3.12/ 6.1.3.13/ 6.1.3.14 
+Figure 3 
+6.2.1.2.5 
+6.2.3.2.3 
+6.2.4.2.4/ 6.2.5.2.4/ 6.2.6.2.3/ 6.2.7.2.3 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 5 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amd. No 
+Date 
+Text affected 
+6.2.9.2.3 
+6.3.1.2.3 
+6.4.2.2.5 
+7.1.4 
+7.3.2, 7.3.3/ 7.3.6 
+7.5.1 
+7.6 
+7.7.12 / 7.7.15 
+7.8.1/ 7.8.2/ 7.8.3 
+7.9.1/ 7.9.2/ 7.9.3/ 7.9.4/ 7.9.5/ 7.9.6/ 7.9.7/ 7.9.8/ 7.9.9/ 7.9.10/ 7.9.11/ 7.9.12/ 
+7.9.13 
+7.10.3 
+8.2.1 
+8.3.1 
+8.4.1 
+8.5.2.1 
+8.8.4 
+9.1.8 
+9.3.2/ 9.3.3/ 9.3.6/ 9.3.7/ 9.3.8/ 9.3.9 
+9.4.2/ 9.4.3/ 9.4.5/ 9.4.6 
+9.5/ 9.5.1/ 9.5.2/ 9.5.3/ 9.5.4/ 9.5.5/ 9.5.6/ 9.5.7 
+9.6/ 9.6.1/ 9.6.2/ 9.6.3/ 9.6.4 
+9.7 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 6 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+1.1 
+Foreword 
+ 
+IRATA International (IRATA) is recognised as the world’s leading authority on industrial rope access. 
+Established in 1988, the association’s aim is the promotion and development of the safe system of work 
+that it has pioneered since its inception, and to support its member companies and trained rope access 
+technicians to enable them to work in a safe and effective manner. 
+ 
+IRATA member companies have to meet specific entrance qualifications and are subject to regular 
+audits to ensure that they meet IRATA’s requirements for quality assurance, safety, Training and 
+working practices. 
+ 
+The benefits of the audits and requirements are reflected in an annual work and safety analysis, where 
+the comparatively low level of accidents and incident rates of IRATA members are reported. The IRATA 
+work and safety analysis can be viewed by visiting www.irata.org. 
+ 
+IRATA produced the first documented certification scheme in 1992 (formerly known as the ‘IRATA 
+General Requirements’ for certification of personnel engaged in industrial rope access methods) as a 
+scheme of Training guidance and qualifications focusing on safety. Since then, IRATA qualifications 
+have become the industry standard requirement for personnel engaged in industrial rope access 
+methods. This revision results from the experience gained in operating the scheme for many years and 
+reflects IRATA’s commitment to continuous improvement. 
+ 
+IRATA's supporting publication, the ‘International Code of Practice’ (ICOP) [TC-102], reflects current 
+best working practice in rope access and is commended by respected organisations such as the United 
+Kingdom’s Health and Safety Executive (HSE) and others. 
+ 
+IRATA member companies are required, as a condition of membership, to comply with the principles of 
+the code of practice; this includes using rope access personnel who have been trained and certified in 
+accordance with this scheme. 
+ 
+IRATA believes that its requirements and recommendations, as laid out in the ‘ICOP’ [TC-102] and in 
+this document, set the standard for industrial rope access worldwide. 
+ 
+Although care has been taken to ensure, to the best of IRATA’s knowledge, that the contents of this 
+document are accurate to the extent that they relate to either matters of fact, accepted practice or 
+matters of opinion; at the time of publication, IRATA assumes no responsibility for any errors or 
+misinterpretations of such contents or any loss or damage arising from or related to their use. 
+ 
+1.2 
+Acknowledgements 
+ 
+IRATA wishes to express its gratitude to the following in respect of the preparation of this scheme, 
+which builds on the excellent work done previously by the writers of the IRATA general requirements 
+for certification of personnel engaged in industrial rope access methods. 
+ 
+Writer/compiler: IRATA International. 
+Review Panel (principal members): IRATA Executive Committee and IRATA Training Committee. 
+Review panel (other members): IRATA Equipment & Standards Committee and IRATA Health & Safety 
+Committee. 
+ 
+A special thank you to our Members and Technicians who have contributed to the production of this 
+document. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 7 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+1.3 
+Introduction  
+IRATA’s rope access system is a safe method of working at height, where Ropes and associated 
+equipment are used to gain access to and egress from the workplace, and to be supported at it. 
+Like any other method of working at height, the application of rope access should be regarded as a 
+complete system, in which planning, management, competence and suitable equipment should be 
+treated with equal importance, as each is dependent on the others to ensure a safe system of work. The 
+‘IRATA International Code of Practice’ (ICOP) [TC-102] explains this in detail, and this document, the 
+IRATA ‘Training, Assessment and Certification Scheme’ (TACS) [TC-101], should be used in 
+conjunction with it. 
+The competence of personnel who are engaged in rope access methods is a key element of IRATA’s 
+rope access system. This document has been developed by IRATA to provide Training and Assessment 
+criteria to develop, maintain and test competence to ensure Training is delivered to the required 
+standard, in a safe and controlled environment by competent and experienced Trainers. Training 
+courses are thorough, and there are different levels of qualification reflecting increasing levels of 
+responsibility. 
+Independent Assessments are designed to test the Candidate’s knowledge, skills and attitudes in 
+relation to the operations performed and to provide independent, impartial judgement on the Candidates’ 
+understanding of the techniques taught during their Training. Certification provides industry with an 
+assured standard of proficiency. Further Training and Assessments are required at regular, defined 
+intervals to maintain Certification. 
+All IRATA member companies and rope access technicians are required to meet all the requirements of 
+this scheme as a condition of membership. Training courses leading to Certification under the scheme 
+may only be carried out by full or probationary Trainer Member Companies of IRATA. 
+ 
+1.4 
+Scope 
+ 
+This document details the requirements of IRATA’s Training, Assessment and Certification Scheme and 
+offers guidance to assist implementation. It provides: 
+a) 
+the levels of certification for new and existing IRATA rope access technicians, and explains the 
+Training syllabuses and Assessment criteria required to attain and revalidate them; 
+b) 
+guidance for Candidates, including pre-training requirements and topics covered; 
+c) 
+requirements and guidance for IRATA Trainer Member Companies; 
+d) 
+requirements and guidance for IRATA Instructors; 
+e) 
+requirements and guidance for IRATA Assessors, including the marking process. 
+The scheme does not include operating procedures: these are drawn up for the specific task by 
+operating companies following the ‘ICOP’ [TC-102]. The ‘ICOP’ [TC-102] also includes more information 
+on the applicability of IRATA’s rope access qualifications in the workplace. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 8 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+2 TERMS AND DEFINITIONS 
+ 
+For the purposes of this ‘Training, Assessment and Certification Scheme’ [TC-101], the following terms 
+and definitions apply: 
+ 
+Note: A wider set of definitions can be found in ‘ICOP’ [TC-102] Part 1, 1.3. 
+Assessment 
+the systematic basis used to evaluate whether a Candidate has demonstrated 
+the required knowledge, skill and awareness in accordance with the 
+requirements of this certification scheme 
+Assessor 
+appointed person who has been proved competent to assess the IRATA 
+International qualifications of a rope access technician 
+Awareness 
+to demonstrate knowledge of a subject or perception of a situation 
+Candidate 
+ 
+individual either seeking to undergo Training or undergoing Assessment 
+Certification 
+ 
+written testimony of qualification 
+Critical 
+an extremely important factor that ensures a process is carried out safely and 
+/or effectively 
+Employer 
+corporate, private or public entity which employs personnel for wages, salary, 
+fees, or other considerations 
+Instructor 
+individual delivering Training who has achieved the IRATA International 
+Instructor Qualification 
+Logbook 
+ 
+IRATA International approved record of work experience 
+Major Discrepancy 
+critical safety issue caused by a Candidate during Assessment, which puts 
+themselves or others at risk 
+Manikin 
+a model of the human body for use as a rescue training aid; also known as a 
+training dummy 
+Minor Discrepancy 
+non-critical safety issue caused by a Candidate during Assessment, which 
+compromises their safety or the safety of others but which is not considered to 
+be a Major Discrepancy 
+Refresher Training 
+Training intended to revise and update knowledge and skills 
+Revalidation Training 
+Training course delivering the entire syllabus at a given level, leading to 
+Assessment and, if successful, renewal of Certification 
+Rope 
+appropriate flexible line used to support, restrain or safeguard a person in 
+combination with other equipment 
+Note: Depending on the context, a Rope is also referred to as an anchor line, working 
+line or safety line 
+Shall 
+verb indicating that the statement is mandatory under IRATA International rules 
+Should 
+ 
+verb indicating that the statement is a recommendation 
+Theory Examination 
+a formal test of a Candidate’s knowledge in rope access techniques 
+Note: This constitutes the non-practical elements of a Level 3 Assessment 
+Trainee 
+ 
+individual undergoing Training 
+Trainer 
+ 
+individual delivering Training 
+Note: Experienced Trainers can become certified as Instructors 
+Training 
+organised programme developed to impart the knowledge and skills necessary 
+for qualification 
+Working Hours 
+hours worked using rope access techniques including rigging, equipment 
+maintenance and inspection 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 9 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+3 
+LEVELS OF QUALIFICATION 
+ 
+3.1 
+Rope access technicians are grouped into three technical grades depending on their 
+experience and level of Assessment. Figure 1 provides a flowchart showing the route to 
+qualification. 
+ 
+3.1.1 
+Level 1 
+ 
+This is a rope access technician who is able to perform a specified range of rope access tasks under 
+the supervision of a Level 3 Rope Access Safety Supervisor. They are: 
+a) 
+able to understand and follow the rope access procedures, method statements and associated 
+risk assessments; 
+b) 
+responsible for pre-use checks of their own rope access equipment; 
+c) 
+able to assist in rigging and other operations, under the guidance of a higher grade; 
+d) 
+able to undertake a simple rescue in descent, and assist in rescue operations. 
+ 
+Note: While in the process of being trained to Level 1, a person is considered to be a Trainee. 
+ 
+3.1.2 
+Level 2 
+ 
+This is an experienced rope access technician who is able to perform more complex tasks under the 
+supervision of a Level 3 Rope Access Safety Supervisor. They are: 
+a) 
+able to demonstrate the skills and knowledge required of Level 1; 
+b) 
+capable of more complex rigging, including re-anchors, deviations and tensioned lines; 
+c) 
+able to undertake rescues from a variety of situations; 
+d) 
+able to assemble and implement hauling systems. 
+ 
+3.1.3 
+Level 3 
+ 
+This is an experienced rope access technician who is responsible for understanding and implementing 
+the rope access procedures, method statements and associated risk assessments, and: 
+a) 
+is able to demonstrate the skills and knowledge required of Levels 1 and 2; 
+b) 
+understands the elements and principles of IRATA’s safe system of work; 
+c) 
+is conversant with relevant work techniques and legislation; 
+d) 
+has an extensive knowledge of advanced rope access rigging and rescue techniques; 
+e) 
+holds an appropriate and current first aid certificate. 
+ 
+A Level 3 can become a Rope Access Safety Supervisor: see ‘ICOP’ [TC-102] Part 2, 2.6.2 for 
+guidance. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 10 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+ 
+Figure 1 – Flowchart showing qualification process 
+IRATA revalidation is required every three years at all levels, following a minimum of four days of Training. 
+Holders of expired IRATA Level 1, 2 or 3 certificates wanting to regain IRATA certification should refer to the 
+‘Procedures for IRATA Certification’ [TC-032ENG] or contact an IRATA Trainer Member Company for further 
+guidance. 
+Rope access technicians not engaged in rope access work for 180 days or more shall attend Refresher Training. 
+To ensure rope access technicians are up to date with certification, IRATA Training and Revalidation 
+Assessment may be undertaken up to 180 days before their Certification expiry date without any time penalty. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 11 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+4 
+GUIDANCE FOR CANDIDATES 
+4.1 
+Suitability of Candidates for Training 
+4.1.1 
+To work safely in rope access requires those engaged in the work to have an appropriate 
+attitude and aptitude. A good level of fitness and physical capability is also required. If 
+unsure, an appraisal session should be arranged with an IRATA Trainer Member Company. 
+4.1.2 
+An aptitude for work at height includes not only having ‘a head for heights’, but also an 
+appropriate level of responsibility and self-reliance. A healthy respect for heights remains an 
+advantage; over-confident or reckless workers may present greater risks than the cautious. 
+4.1.3 
+Rope access work locations are often remote from outside help; it is, therefore, especially 
+important that operatives can be relied upon to behave in a sensible and responsible manner. 
+4.1.4 
+The Trainer Member Company has the right to exclude any Candidate from Training if they 
+have concerns over the Candidate’s health, fitness or attitude to safety during Training. 
+4.2 
+ Pre-training Requirements: Health and Fitness 
+4.2.1 
+Candidates shall be at least 18 years of age on the first date of Training.  
+4.2.2 
+Candidates should be physically fit and unaffected by any disability or medical condition that 
+may prevent them from working safely. They shall ensure that they have an adequate level 
+of fitness, are physically able to perform the tasks expected in terms of strength, agility and 
+co-ordination, and are able to withstand the stresses of the working environment, such as 
+heat, cold, and other inclement weather. 
+4.2.3 
+Candidates are required to declare that they do not have any medical conditions or contra- 
+indications that may prevent them from working safely. The minimum requirement is a self-
+certification statement, see the IRATA ‘Candidate Disclaimer and Liability Release’ [FM-014]. 
+4.2.4 
+It is recommended that prospective employees are in possession of an appropriate medical 
+certificate before starting this kind of work, and that they are reassessed at regular intervals 
+thereafter. 
+4.2.5 
+If a Candidate has a contra-indicated condition which is controlled with medication, they shall 
+obtain a signed doctor’s note to show the Trainer Member Company or Employer that the 
+condition should not prevent that person doing rope access work providing they have access 
+to the required medication. 
+4.2.6 
+Candidates should consider their experience carefully before attempting to progress to a 
+higher level. Candidates without appropriate experience, adequate pre-assessment Training 
+and knowledge of the syllabus are unlikely to meet the required standard when assessed. 
+4.3 
+  Pre-training Requirements: Upgrading to Levels 2 or 3 
+4.3.1 
+Candidates applying to upgrade shall be competent in all practical and theory requirements 
+of their current level prior to attendance of an upgrade course, e.g. an existing Level 1 
+technician attending a Level 2 course shall be capable of performing all Level 1 syllabus 
+requirements prior to the start of a Level 2 course. 
+4.3.2 
+Candidates who are not competent at their existing level may require additional Training. As 
+little time is available on upgrade courses for Refresher Training, pre-course evaluation is 
+recommended to verify the Candidates’ current level of competence. 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 12 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+4.3.3 
+Trainer Member Companies shall verify that Candidates seeking to upgrade have met with 
+the following requirements prior to commencing Training: 
+a) 
+their current Certification will still be valid on the day of Assessment; 
+b) 
+they have the necessary 1 years’ experience and 1000 Working Hours recorded and 
+signed off in their Logbook. See 4.13 for more details on Logbooks. 
+ 
+Note: 1 year experience means a technician is eligible for an upgrade Assessment on the calendar 
+date one year and one day after their previous Assessment; e.g. 1st April 2023 Level 1 Assessment, 
+2nd April 2024 earliest possible Level 2 Assessment. 
+4.3.4 
+Rope access technicians who are upgrading or revalidating shall provide their Logbooks to 
+the IRATA Trainer Member Company prior to the start of the Training course. Where rope 
+access technicians have lost their Logbooks, they shall arrange for a replacement to be 
+issued, completed and verified before Training commences. 
+4.3.5 
+Rope access technicians whose Certification has expired should refer to the ‘Procedures for 
+IRATA Certification’ [TC-032] or contact an IRATA Trainer Member Company for further 
+guidance. 
+4.4 
+    Training Programmes 
+4.4.1 
+Training shall be carried out by full or probationary IRATA Trainer Member Companies. Non- 
+member companies are not permitted to provide IRATA Training. 
+4.4.2 
+Training shall be led by an IRATA Level 3 rope access technician. The maximum Candidate 
+to Trainer ratio shall be six to one (only with a Level 3 Instructor). See 7.4 for more information 
+on Candidate/Trainer ratios. 
+4.4.3 
+The Trainer may have an assistant, who shall be an IRATA rope access technician qualified 
+to the same or higher level as the Trainees. 
+4.4.4 
+A minimum of 4 days Training and the Assessment shall be completed within 60 days from 
+the first date of Training, after which Candidates are required to attend a further minimum 4 
+days Training course. 
+Evidence of qualifying for prior Training shall be presented to the Trainer Member Company 
+prior to Assessment. 
+4.4.5 
+Supporting information shall be available to trainees and shall include as a minimum: 
+• 
+course hand-outs; 
+• 
+relevant equipment instructions; 
+• 
+IRATA International Code of Practice [TC-102]; 
+• 
+IRATA Training, Assessment and Certification Scheme [TC-101]; 
+• 
+IRATA safety bulletins (all available from www.irata.org). 
+4.5 
+    Conversion to IRATA Certification 
+Candidates with rope access qualifications gained outside of the IRATA system may be eligible for 
+conversion into the IRATA certification scheme. The requirements for conversion are available from 
+IRATA Trainer Member Companies. 
+4.6 
+    Assessments 
+4.6.1 
+The purpose of Assessment is to ensure that each Candidate demonstrates the required 
+tasks in a safe manner, in accordance with the requirements of this scheme. 
+4.6.2 
+The Assessor shall not require tasks that are outside the relevant syllabus. 
+4.6.3 
+IRATA Assessments shall only be carried out by IRATA Assessors who are independent of 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 13 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+the Candidate, the Candidate’s Employer and the organisation providing Training. 
+4.6.4 
+Before starting the Assessment, the Assessor and Trainer Member Company shall agree 
+how the responsibility for the health and safety of the Candidates is to be managed. 
+4.6.5 
+All Candidates shall be fully briefed by the Assessor before and during the Assessment. 
+4.6.6 
+All Candidates are required to undergo a practical Assessment, where they shall 
+demonstrate their competency as per the required ‘TACS’ [TC-101] syllabus items. Where 
+appropriate, the Assessor may explore the Candidate’s knowledge further by discussion.  
+Candidates being assessed for Level 3 certification will additionally be required to sit a 
+Theory Examination. Candidates shall comply with examination and Assessment rules. If a 
+Candidate is in breach of the rules, the Assessment shall be terminated, resulting in a fail.  
+4.6.7 
+Candidates may be asked to carry out an exercise, or exercises, that include more than one 
+element of the Assessment.  
+4.6.8 
+There are two possible overall results: pass or fail. To pass the Assessment, the Candidate 
+shall successfully complete all the required elements of the syllabus at the relevant level. 
+The Assessment ends and the Candidate fails if one Major Discrepancy or three Minor 
+Discrepancies are committed during the Assessment. For more information on Assessment 
+criteria see clause 9.3. 
+4.6.9 
+The Candidate shall be able to obtain clarification of any requirement from the Assessor at 
+any time during the Assessment. 
+4.6.10 
+The Assessor shall inform the Candidate of discrepancies and shall explain the safety 
+issue(s) arising from the situation, when they occur and when safe to do so. 
+4.6.11 
+The Candidate shall sign the IRATA ‘Technician Assessment Form’ [FM-025] prior to the 
+Assessment. At the end of the Assessment, the Assessor shall debrief each Candidate and 
+inform them of their Assessment outcome.  
+4.6.12 
+Where a Candidate has failed to reach the required standard, the Assessor may specify that 
+more Training is required. This should be completed before reassessment. 
+4.7 
+    Reassessment 
+4.7.1 
+Candidates failing to attain a pass grade at their desired level are permitted to apply for a 
+reassessment. 
+Note: This includes Candidates whose Certification expires within 60 days following their original 
+Assessment date. 
+4.7.2 
+Reassessment shall take place within 60 days of the original Assessment date, after which 
+Candidates are required to attend a further Training course in full. 
+4.7.3 
+Candidates reassessing for IRATA certification shall provide a copy of their previous 
+‘Technician Assessment Form’ [FM-025] at the time of reassessment. Candidates unable to 
+provide evidence of their previous Training shall be required to attend a Training course in 
+full prior to re-assessment. 
+4.8 
+    Complaints and Appeals 
+Complaints can be submitted through the IRATA website (www.irata.org) or by writing to 
+complaints@irata.org. The ‘IRATA Complaints and Appeals Procedure’ [MP-256] is available from 
+www.irata.org. 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 14 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+4.9 
+    Validity of Certificates 
+4.9.1 
+Certification at all levels is valid for three years or until the next Assessment. 
+Note: In some circumstances, early revalidation can mean certificates are valid for up to 3 ½ years. 
+4.9.2 
+After the expiry date on the certificate has passed, rope access technicians are no longer 
+certified to carry out rope access operations. 
+4.9.3 
+In exceptional circumstances IRATA may withdraw a technician’s Certification prior to its 
+expiry date. Such circumstances include a lack of regard to safety issues, inability to operate 
+in a safe manner, abuse of IRATA Certification and falsification of information. 
+Note: Failure at Assessment, whether upgrade or revalidation, may result in the withdrawal of IRATA 
+technician Certification. 
+4.9.4 
+Certificates are issued in the name of the rope access technician, not the Employer, 
+irrespective of who has paid for the course. A change of Employer for a rope access 
+technician, therefore, is not a cause for reassessment. 
+Note: All Employers should ensure that their employees’ or sub-contractors’ IRATA certificates are 
+current by verifying validity at www.irata.org. 
+4.10 
+      Revalidation Training 
+4.10.1 
+IRATA certificates shall be renewed within three years of the date of Assessment. 
+Revalidation courses are subject to the same requirements stipulated in section 4.4. 
+4.10.2 
+If Revalidation Training and successful Assessment are completed in the 180-day period 
+prior to the expiry of a current certificate, a new certificate shall be issued with an expiry date 
+three years from the date of expiry of the previous certificate. 
+4.10.3 
+All revalidating Candidates are required to complete a minimum of four days Training prior 
+to Assessment. 
+4.10.4 
+Any Level 2 or Level 3 rope access technician undertaking revalidation after the expiry of 
+their previous certificate, should refer to the ‘Procedures for IRATA Certification’ [TC-032] or 
+contact an IRATA Trainer Member Company for further guidance.  
+4.10.5 
+Rope access technicians wishing to revalidate or upgrade who anticipate expiry of their 
+Certification due to medical reasons can, prior to expiry, contact an IRATA Trainer Member 
+Company. The IRATA Trainer Member Company shall document the reasons for the planned 
+expiry and ensure there are suitable grounds for in-date Certification to be delayed by liaising 
+with the IRATA Head Office directly. 
+4.11     Refresher Training 
+4.11.1 
+If rope access technicians are not using rope access techniques regularly, they should be 
+evaluated for competence prior to the commencement of operational duties. Refresher 
+Training in particular techniques may be required and the amount of operational supervision 
+necessary afterwards may need to be adjusted, depending on the outcome of a risk 
+assessment. 
+4.11.2 
+If rope access technicians do not use rope access methods for a period of more than 180- 
+days, they are required to undergo Refresher Training. The Training should be appropriate 
+for each individual and should be recorded in their Logbook (see ‘ICOP’ [TC-102] Part 2, 
+2.5.2.8). Refresher Training: 
+a) 
+shall be carried out by an IRATA Level 3 rope access technician; 
+b) 
+shall not be carried out during operational duties; 
+c) 
+may involve the need to undergo a full Training course. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 15 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+4.12 
+First Aid Certificates 
+Level 3 rope access technicians and employing companies are both responsible for ensuring that all 
+first aid certificates are appropriate and current during operational duties. 
+4.13     Logbooks 
+4.13.1 
+Logbooks are issued by IRATA Head Office and shall be maintained by the rope access 
+technician. 
+Logbook entry verification signatures and company contact details shall only be provided by 
+the following persons: 
+a) 
+an IRATA Level 3 technician who was directly involved in the supervision of the rope 
+access activities; 
+b) 
+a Director, General Manager, Rope Access Manager, or Technical Authority of the 
+rope access company responsible for the undertaking of the rope access activities; 
+c) 
+a rope access site Project Manager who is responsible for the project management of 
+the worksite where the rope access activities were undertaken. 
+4.13.2 
+Each Logbook issued carries a unique serial number. 
+Note: This is different from the rope access technician’s unique IRATA number. 
+4.13.3 
+For identification purposes, each Logbook shall include the rope access technician’s unique 
+IRATA number and the rope access technician’s photograph, which shall be signed by the 
+technician themselves. 
+4.13.4 
+The Logbook shall be used to record the rope access technician’s experience and Training 
+undertaken, including the total hours engaged in rope access, the type and variety of work 
+undertaken, and when the work took place. Rope access technicians wishing to revalidate 
+or upgrade cannot be considered for Assessment without a correctly maintained and up to 
+date Logbook. 
+4.13.5 
+All IRATA Assessments shall be recorded in the rope access technician’s Logbook. The 
+original course Training dates, location and course title (e.g. Level 2 upgrade) shall be 
+recorded in the boxes provided. Failed Assessments shall be recorded in the ‘Record of 
+Training Courses Attended’ section of the Candidate’s Logbook. The word ‘Fail’ shall be 
+recorded in the box titled ‘Other information’ with the date clearly recorded in the same box. 
+The Assessor shall record their IRATA number and signature in the box titled ‘Training 
+Organisation & Course Stamp’. 
+4.13.6 
+Work using other harness-based access methods such as fall arrest or work restraint should 
+be recorded but hours logged solely for these methods do not count towards upgrade 
+requirements. 
+4.13.7 
+Hours accrued while being trained in rope access should be logged, but do not count towards 
+the Working Hours required to upgrade. 
+4.13.8 
+Hours accrued while working as a rope access Trainer or assistant are considered to be 
+Working Hours and, therefore, count towards upgrades. 
+4.13.9 
+Level 3 rope access technicians are responsible for the accuracy of their own Logbooks. 
+Where possible, they should ask the Employer to countersign them. When signing the 
+Logbooks of rope access technicians under their supervision, the verifier shall ensure that 
+the entries are completed correctly and logged hours are accurate.  
+4.13.10 
+Logbook entries shall be made after the end of each period of qualifying rope access 
+activities (see clause 4.14.5). These entries shall be legible and made using a ball-point pen 
+in either blue or black ink. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 16 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+4.13.11 
+If any rope access technician loses their Logbook, they shall contact IRATA immediately to 
+arrange for a replacement. Technicians shall obtain credible references (see clause 4.13.1) 
+for all lost Logbook hours. 
+Where lost hours are required to move up a level, e.g. Level 1 to Level 2, the technician 
+shall obtain credible reference documents to verify the hours in the replacement Logbook 
+before Training commences. Maintaining a scanned copy of a Logbook can facilitate the 
+process of completing a replacement Logbook. 
+4.13.12 
+Fraudulent misuse or alteration of an IRATA Logbook may result in the suspension or 
+withdrawal of the rope access technician’s IRATA Certification. 
+4.14     How to Complete the Work Experience Section of a Logbook 
+4.14.1 
+Under the heading ‘Date’, work shall be recorded in the Logbook in time periods of no more 
+than two weeks. Where rope access technicians work on more than one site in a day, the 
+tasks should be entered separately. 
+4.14.2 
+Under the heading ‘Employing company’, the name of the employing company shall be 
+recorded. 
+4.14.3 
+Under the heading ‘Details of task being undertaken’, both the nature of the work and the 
+access methods employed shall be described; e.g.: 
+• 
+window cleaning: descent on Ropes; basic rigging; 
+• 
+installing fall-arrest nets: aid-climbing; retrievable rigging; 
+• 
+inspection of steelwork: ascent and descent on Ropes; aid climbing; tensioned lines. 
+4.14.4 
+Under the heading ‘Location’, rope access technicians shall briefly describe the type of 
+structure worked on; e.g.: 
+• 
+concrete tower block; 
+• 
+steel-framed warehouse; 
+• 
+flare stack; oil platform. 
+4.14.5 
+Under the heading ‘Hours worked’, an accurate reflection of the time spent directly engaged 
+in rope access activities shall be recorded. In addition to time spent on the main task noted 
+under Details of task being undertaken, this may include time spent rigging and de-rigging 
+Ropes, inspecting rope access equipment, and toolbox talks. It shall not include other time 
+spent on site such as meal-breaks, waiting for permits or down-time due to weather. For this 
+reason, logged hours are typically less than those paid or entered on timesheets. 
+4.14.6 
+Under the heading ‘Max height worked’, an accurate reflection of the maximum height spent 
+working at height while carrying out rope access tasks shall be recorded. 
+4.14.7 
+Under the heading ‘Supervisor’s signature’, all Logbook entries shall be countersigned by 
+the supervising Level 3 rope access technician, who shall log their name (printed clearly), 
+signature and unique IRATA number. 
+Note: Rope access technicians wishing to upgrade who are unable to provide Level 3 signatures should 
+contact an IRATA Trainer Member Company prior to booking on a course. 
+4.14.8 
+Under the heading ‘Total hours for this page’, the total hours logged on that page shall be 
+added up and recorded. 
+4.14.9 
+Under the heading ‘Running total of hours worked’, hours carried over from the previous 
+page are added to the ‘Total hours for this page’ and then recorded; see Figure 2 for an 
+example. Figure 2 assumes the running total of hours worked from the previous page is 
+2300. Adding the total hours of 148 for this page gives a running total of 2448 hours worked. 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 17 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+ 
+WORK EXPERIENCE 
+Date 
+Employing company 
+Details of task being undertaken 
+Location 
+Hours  
+worked 
+Max height 
+worked 
+Supervisor’s signature 
+ 
+02-13 
+January 
+ 2023 
+XYZ Offshore 
+Inspection Services 
+Ascending/descending, passing 
+re-anchors. Painting. 
+Offshore platform XYZ,  
+North Sea 
+x 
+5 
+0 
+30 m 
+ 
+A N Other 3/xxxxx 
+ 
+A N Other 
+ 
+23-27 
+January  
+2023 
+XYZ Offshore 
+Inspection Services 
+Climbing with fall arrest lanyards, 
+descent, rope-to-rope transfer. 
+NDT Inspection. 
+Offshore platform XYZ,  
+North Sea 
+x 
+2 
+2 
+28 m 
+ 
+A N Other 3/xxxxx 
+ 
+A N Other 
+ 
+06-17 
+February 
+2023 
+XYZ Offshore 
+Inspection Services 
+Horizontal aid climbing, 
+ascent/descent, passing 
+deviations. NDT Inspection. 
+Offshore platform XYZ,  
+North Sea 
+x 
+4 
+6 
+25 m 
+ 
+A N Other 3/xxxxx 
+ 
+A N Other 
+ 
+20-24 
+February 
+2023 
+XYZ Offshore 
+Inspection Services 
+Rigging Y hangs and rope/edge 
+protection with Level 3, 
+descending. Window cleaning. 
+Glass hi-rise, London 
+x 
+3 
+0 
+90 m 
+ 
+A N Other 3/xxxxx 
+ 
+A N Other 
+Total hours for this page 
+x 
+1 
+4 
+8 
+Running total of hours worked 
+2 
+4 
+4 
+8 
+ 
+Figure 2 – Example of how a work experience page within an IRATA Logbook should be 
+completed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 18 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+ 
+5 
+GUIDANCE FOR COMPANIES EMPLOYING IRATA ROPE 
+ACCESS TECHNICIANS 
+5.1 
+To comply with the ‘IRATA Membership Requirements’ [QP-300], member companies shall 
+ensure that their employees' or ‘sub-contractors' IRATA certificates are current and, in the case 
+of Level 3s, that they hold an appropriate and current first aid qualification. Assessment results 
+are recorded both in the rope access technician’s Logbook and on the IRATA Online System 
+(IOS). 
+5.2 
+Employers should maintain their employees’ level of ability. Refresher Training is appropriate 
+for rope access technicians who are not regularly engaged in rope access work, with specific 
+requirements for those who have not been engaged in rope access for 180-days or more. 
+Refresher Training may be either a refresher course or a full course at the appropriate level. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 19 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+ 
+6 
+TRAINING SYLLABUS AND ASSESSMENT: REQUIREMENTS 
+AND GUIDANCE 
+6.1 
+    General 
+6.1.1 
+To help ensure a safe system of work, rope access technicians need to be competent. To 
+be considered competent, rope access technicians need to have sufficient professional or 
+technical Training, knowledge, actual experience and authority to enable them to carry out 
+the required tasks properly. Competence is developed in Training by addressing three 
+elements: 
+a) 
+knowledge, which is delivered by a range of methods, including classroom-based 
+lessons, lectures and presentations delivered by the Trainer, and through self-directed 
+learning using study materials supplied by the Trainer Member Company; 
+b) 
+skills, which are taught through observation of practical demonstrations and 
+subsequent practice of the syllabus elements by the Candidate under the direction of 
+the Trainer; 
+c) 
+attitudes, which are developed by explaining the importance of personal responsibility 
+in creating and maintaining a safe system of work. 
+Note: Training programmes and procedures can vary between Training providers, while still meeting 
+the requirements of the ‘TACS’ [TC-101]. 
+6.1.2 
+The following elements of competence are assessed by the Assessor: 
+a) 
+knowledge is assessed by means of theory examination and by discussion during 
+practical demonstrations; 
+b) 
+skills are assessed by the demonstration of practical elements of this syllabus; 
+c) 
+attitudes are assessed by observation of Candidates’ respect for safe practice. 
+6.1.3 
+A summary of the Training syllabus is given in Figure 3. Syllabus elements covered at 
+Assessment are described in 6.1.3.1 to 6.1.3.12. These syllabus elements vary, depending 
+on the level being assessed. 
+6.1.3.1 
+At Level 1, Candidates are assessed on all elements of the Level 1 syllabus. At Level 2 and 
+Level 3 it is not normally practicable to cover every practical element of the syllabus during 
+Assessment. Assessors shall select a representative number of practical elements meeting 
+the criteria given in clauses 6.1.3.2 to 6.1.3.8. 
+6.1.3.2 
+Level 1 Candidates shall demonstrate all of the rope manoeuvres except passing wide re-
+anchors. 
+6.1.3.3 
+Level 1 Candidates shall demonstrate all of the climbing techniques except vertical aid 
+climbing. 
+6.1.3.4 
+Level 1 Candidates shall demonstrate two rescues: 
+a) 
+in descent from a separate set of Ropes; 
+b) 
+by lowering with a pre-rigged rig-for-rescue system. 
+6.1.3.5 
+Level 2 Candidates shall demonstrate ascent, descent, changeovers, passing wide re- 
+anchors plus at least four other rope manoeuvres. 
+6.1.3.6 
+Level 2 and Level 3 Candidates shall demonstrate vertical aid climbing. 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 20 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.1.3.7 
+Level 2 and Level 3 Candidates shall demonstrate at least one of each of the following rescue 
+exercises at Assessment: 
+a) 
+rig-for-rescue; 
+b) 
+hauling; 
+c) 
+de-weighting on ropes, e.g. rescue from ascending devices; 
+d) 
+de-weighting from structure, e.g. aid climb, fall arrest lanyards; 
+e) 
+passing an obstruction, e.g. deviation, Rope-to-Rope, re-anchor. 
+6.1.3.8 
+Level 3 Candidates shall complete one or more planning exercises covering: 
+a) 
+anchor selection; 
+b) 
+rigging and emergency planning; 
+c) 
+hazard identification; 
+d) 
+selection of equipment; 
+e) 
+access method and personnel; 
+f) 
+third-party protection and exclusion zones. 
+ 
+Completion of the ‘Job Planning Form’ [HS-061], may be used to fulfil this requirement. 
+However, Candidates or Assessors may use their own format. 
+6.1.3.9 
+Level 3 Candidates shall demonstrate a complex rig-for-rescue exercise involving a team of 
+rope access technicians. This exercise should include making a written plan for the exercise. 
+6.1.3.10 
+Level 3 Candidates shall demonstrate implementation of a method statement. 
+6.1.3.11 
+Level 3 Candidates shall complete an equipment inspection report. 
+6.1.3.12 
+Level 3 Candidates shall answer 10 theory questions (see clause 9.5.2). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 21 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+ 
+Syllabus item 
+Level 1 
+Level 2 
+Level 3 
+Ref 
+Planning and management 
+6.2 
+IRATA International system 
+6.2.1 
+Legal framework 
+6.2.2 
+Hazard identification and risk assessment 
+6.2.3 
+Selection of access method 
+6.2.4 
+Selection of personnel and competence 
+6.2.5 
+Safety method statement 
+6.2.6 
+Exclusion zones, permits to work etc. 
+6.2.7 
+Planning for emergencies 
+6.2.8 
+First aid and suspension intolerance 
+6.2.9 
+Equipment 
+6.3 
+Selection of equipment 
+6.3.1 
+Care and maintenance of equipment 
+6.3.2 
+Pre-use checking of equipment 
+6.3.3 
+Detailed and interim inspections 
+6.3.4 
+Assembly of equipment and buddy check 
+6.3.5 
+Rigging 
+6.4 
+General 
+6.4.1 
+Anchor selection 
+6.4.2 
+Knots and rope handling 
+6.4.3 
+Basic anchor system 
+6.4.4 
+Y hangs 
+6.4.5 
+Hazard avoidance and rope protection 
+6.4.6 
+Re-anchors 
+6.4.7 
+Deviations 
+6.4.8 
+Retrievable rigging 
+6.4.9 
+Work restraint lines 
+6.4.10 
+Vertical fall arrest systems 
+6.4.11 
+Tensioned lines 
+6.4.12 
+Rigging for rescue and hauling 
+6.5 
+General 
+6.5.1 
+Lowering systems 
+6.5.2 
+Hauling systems 
+6.5.3 
+Cross haul 
+6.5.4 
+Complex rescue systems (team exercise) 
+6.5.5 
+ 
+Key 
+ 
+ Demonstrate competence; understand and apply technique 
+ 
+ Show awareness of technique/use under direct supervision 
+ 
+ Awareness not required at this level 
+ 
+Figure 3 – Summary of the IRATA International Training syllabus (Page 1 of 2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 22 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+ 
+Syllabus item 
+Level 1 
+Level 2 
+Level 3 
+Ref 
+Rope manoeuvres 
+6.6 
+General 
+6.6.1 
+Back-up devices 
+6.6.2 
+Descent 
+6.6.3 
+Ascent 
+6.6.4 
+Changeovers 
+6.6.5 
+Descent using ascending devices 
+6.6.6 
+Ascent using a descending device 
+6.6.7 
+Single deviation 
+6.6.8 
+Double deviation 
+6.6.8 
+Rope-to-rope transfers 
+6.6.9 
+Re-anchors* 
+6.6.10 
+Passing mid-rope knots 
+6.6.11 
+Edge obstructions at the top 
+6.6.12 
+Use of work seats (comfort seats) 
+6.6.13 
+Passing mid-rope protection 
+6.6.14 
+Climbing techniques 
+6.7 
+General 
+6.7.1 
+Horizontal aid climbing 
+6.7.2 
+Vertical aid climbing 
+6.7.3 
+Climbing with fall arrest equipment 
+6.7.4 
+Rope rescues 
+6.8 
+General 
+6.8.1 
+Rescue from descent mode 
+6.8.2 
+Rescue from ascent mode 
+6.8.3 
+Passing a deviation with a casualty** 
+6.8.4 
+Rope-to-rope transfer with a casualty 
+6.8.5 
+Passing a small re-anchor with a casualty 
+6.8.6 
+Mid-transfer rescue 
+6.8.7 
+Passing mid-rope knots with a casualty 
+6.8.8 
+Use of tensioned ropes for rescue 
+6.8.9 
+Climbing rescues 
+6.9 
+Rescue from an aid climb 
+6.9.1 
+Rescue from fall arrest equipment 
+6.9.2 
+Rescue from an aid climb – short connection 
+6.9.3 
+*Level 1: small re-anchor (< 1.5 m); Level 2 and Level 3: wide re-anchor (> 1.5 m) 
+**Level 2: single-anchor deviation; Level 3: double-anchor deviation 
+ 
+Key 
+ 
+ Demonstrate competence; understand and apply technique 
+ 
+ Show awareness of technique/use under direct supervision 
+ 
+ Awareness not required at this level 
+ 
+Figure 3 – Summary of the IRATA International Training syllabus (Page 2 of 2) 
+ 
+Note: For conversion Candidates, the required IRATA syllabus items in Figure 3 may vary depending on the 
+certification scheme that they are converting from. 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 23 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.2 
+    Planning and Management 
+6.2.1 
+IRATA International System 
+6.2.1.1 
+Overview 
+IRATA’s safe system of work comprises of three main elements: 
+a) 
+the ‘International Code of Practice’ (ICOP) [TC-102]; 
+b) 
+the ‘Training, Assessment and Certification Scheme’ (TACS) [TC-101]; 
+c) 
+audited member companies and their operating procedures. 
+6.2.1.2 
+Assessment Requirements and Guidance 
+6.2.1.2.1 
+All Candidates shall show awareness of the three elements listed in 6.2.1.1 and the role of 
+each in forming a safe system of work. 
+6.2.1.2.2 
+All Candidates shall show awareness of IRATA’s requirement that all rope access work is 
+carried out within the management framework of an audited member company. 
+6.2.1.2.3 
+All Candidates shall show awareness of the ‘ICOP’ [TC-102] requirement for supervision by 
+a Level 3 Rope Access Safety Supervisor, see ‘ICOP’ [TC-102] Part 2, 2.6.2. 
+6.2.1.2.4 
+All Candidates shall show awareness of the levels of rope access technician competence, 
+the role of Logbooks, and the requirements for revalidation and progression between levels. 
+6.2.1.2.5 
+Level 3 Candidates shall demonstrate familiarity with the scope and content of the ‘ICOP’ 
+[TC-102]. 
+6.2.2 
+Legal Framework 
+6.2.2.1 
+Overview 
+In most countries, a legal framework exists for the control of health and safety in the workplace. In many 
+cases, IRATA’s system provides controls that exceed the requirements of such legislation; however, 
+there may be exceptions. 
+Members may contact their IRATA Regional Advisory Committee (RAC) for further information. RAC 
+contact details are available at www.irata.org. 
+6.2.2.2 
+Assessment Requirements and Guidance 
+6.2.2.2.1 
+All Candidates shall show awareness of IRATA’s system and its relationship to legal 
+requirements. 
+6.2.2.2.2 
+Level 3 Candidates shall demonstrate familiarity with the legal framework of their operating 
+country, including any regulations that may be relevant to rope access activities. 
+6.2.2.2.3 
+Trainers and Assessors should ensure all content is relevant to any specific local legislative 
+requirements. 
+6.2.3 
+Hazard Identification and Risk Assessment 
+6.2.3.1 
+Overview 
+Risk assessment is a careful examination of hazards, and potential hazards, that could cause harm to 
+people, and an assessment of any precautions required to prevent harm, see ‘ICOP’ [TC-102] Part 2, 
+2.2.4 and ‘ICOP’ [TC-102] Part 3, Annex A. Member companies should ensure individuals tasked with 
+assessing the risk of carrying out rope access activities are competent to do so. 
+Note: In-depth Training for risk assessment is not within the scope of this document. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 24 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.2.3.2 
+Assessment Requirements and Guidance 
+6.2.3.2.1 
+All Candidates shall show awareness of the role of risk assessment within the process of 
+planning and managing rope access activities. 
+6.2.3.2.2 
+Level 3 Candidates shall demonstrate understanding of the risk assessment process, and 
+shall be capable of identifying hazards that may affect rope access activities, e.g. falls from 
+height; weather; falling tools and equipment; unusual loads; rope stretch; sharp edges; 
+anchor failure; equipment failure; emergency evacuation; rescue provision for 
+stranded/injured rope access technicians. These may be identified when completing the ‘Job 
+Planning Form’ [HS-061], or a form in the Assessor or Candidate’s own format. 
+6.2.3.2.3 
+Assessors should note that hazard identification exercises may be practical and/or theory-
+based. 
+6.2.4 
+Selection of Access Method 
+ 
+6.2.4.1 
+Overview 
+ 
+A variety of methods for work at height exist and a pre-work analysis is required to be carried out to 
+determine the most appropriate method for the task and location. See ‘ICOP’ [TC-102] Part 2, 2.2.3. 
+ 
+6.2.4.2 
+Assessment Requirements and Guidance 
+ 
+6.2.4.2.1 
+All Candidates shall show awareness of the requirement to confirm that rope access is a 
+suitable method for the task. 
+ 
+6.2.4.2.2 
+Level 3 Candidates shall demonstrate their understanding by assessing the suitability of rope 
+access for a variety of scenarios. 
+ 
+6.2.4.2.3 
+Level 3 Candidates shall be capable of identifying common situations where other access 
+methods such as Mobile Elevating Work Platforms (MEWPs), or using work restraint or fall 
+arrest systems would be more appropriate. 
+ 
+6.2.4.2.4 
+Assessors should note that access method exercises may be practical and/or theory-based. 
+6.2.5 
+Selection of Personnel and Competence 
+ 
+6.2.5.1 
+Overview 
+The selection of personnel for a rope access team is heavily dependent on the task and needs to take 
+account of a number of factors, including: 
+a) 
+the number of rope access technicians required; 
+b) 
+levels of competence and experience in rope access; 
+c) 
+levels of competence and experience in any other relevant trade (e.g. Non-Destructive Testing); 
+d) 
+the rescue plan. 
+For some operational tasks, further Training may be required before a team is deemed competent. 
+See ‘ICOP’ [TC-102] Part 2, 2.3 and 2.11.6. 
+6.2.5.2 
+Assessment Requirements and Guidance 
+6.2.5.2.1 
+All Candidates shall show awareness of the requirements for supervision and rescue 
+provision under the IRATA system. See ‘ICOP’ [TC-102] Part 2, 2.11.11. 
+ 
+6.2.5.2.2 
+All Candidates shall show awareness of the limits of their level of Training with regard to 
+work practices, rescue provision and supervision. 
+ 
+6.2.5.2.3 
+Level 3 Candidates shall be capable of specifying a suitable team, including numbers of rope 
+access technicians, levels of competence and roles, for a variety of scenarios. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 25 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.2.5.2.4 
+Assessors should note that team selection exercises may be practical and/or theory-based. 
+6.2.6 
+Safety Method Statement 
+6.2.6.1 
+Overview 
+A safety method statement is an effective way of producing an action plan for a safe system of work. It 
+considers the findings of the risk assessment and states the sequence of procedures necessary for the 
+safe execution of the task. It should take into account access, egress and permits to work, and should 
+incorporate a rescue plan covering all foreseeable eventualities. See ‘ICOP’ [TC-102] Part 2, 2.2.5. 
+6.2.6.2 
+Assessment Requirements and Guidance 
+6.2.6.2.1 
+All Candidates shall show awareness of the role of the safety method statement and the 
+importance of following it. 
+6.2.6.2.2 
+Level 3 Candidates shall be capable of implementing a safety method statement, including 
+briefing their team. They shall be capable of identifying when it may be necessary to revise 
+a safety method statement and the procedure to be followed when doing so. 
+6.2.6.2.3 
+Assessors should note safety method statement exercises may be practical and/or theory-
+based. 
+6.2.7 
+Exclusion Zones, Protection of Third Parties and Permits to Work 
+6.2.7.1 
+Overview 
+It is very difficult to remove the risk of objects being dropped when working at height. Therefore, an 
+exclusion zone should be established below the work area to reduce the risk to third parties. In some 
+situations, it may be necessary similarly to prevent access to the area where the ropes are rigged, or 
+any other area where third parties may come into conflict with rope access activities. Such conflicts are 
+often managed by the use of permit to work systems. See ‘ICOP’ [TC-102] Part 2, 2.11.8. 
+6.2.7.2 
+Assessment Requirements and Guidance 
+6.2.7.2.1 
+All Candidates shall show awareness of the need for creating and maintaining exclusion 
+zones, and the role of permit to work systems. 
+6.2.7.2.2 
+Level 2 and Level 3 Candidates shall demonstrate an understanding of the process and 
+requirements for creating and maintaining exclusion zones, including permit to work systems, 
+size requirements, types of barriers and policing. 
+6.2.7.2.3 
+Assessors should note that exclusion zone exercises may be practical and/or theory-based. 
+6.2.8 
+Planning for Emergencies 
+6.2.8.1 
+Overview 
+All safety method statements for rope access should incorporate a plan for emergencies, including 
+evacuation of the worksite (e.g. in case of fire) and a rescue plan. See ‘ICOP’ [TC-102] Part 2, 2.2.5 and 
+2.2.6. The rescue plan should include: 
+a) 
+designated anchor points; 
+b) 
+required equipment; 
+c) 
+team size; 
+d) 
+team competence; 
+e) 
+supervision arrangements; 
+f) 
+a reliable communication system; 
+g) 
+step-by-step procedure for rescue; 
+h) 
+first aid provision; 
+i) 
+contingency plan covering possible complications. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 26 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.2.8.2 
+Assessment Requirements and Guidance 
+6.2.8.2.1 
+All Candidates shall show awareness of evacuation and rescue plans. 
+6.2.8.2.2 
+Level 3 rope access technicians shall be capable of preparing and implementing both 
+evacuation and rescue plans. These may be completed on the ‘Job Planning Form’ [HS-
+061], or in the Candidate’s own format. 
+6.2.8.2.3 
+Trainers should explain the importance of being prepared for rescue, including the use of 
+releasable anchor systems and the use of pre-rigged rescue kits. Trainers should also 
+explain the importance of Refresher Training. 
+6.2.8.2.4 
+Assessors should use this exercise to plan the complex rescue exercise, see 6.5.5. 
+6.2.9 
+First Aid and Suspension Intolerance 
+6.2.9.1 
+Overview 
+6.2.9.1.1 
+Rope access often takes place in locations remote from outside help, so ideally all rope 
+access technicians should be trained in basic first aid. Level 3 rope access technicians are 
+required to hold a current first aid certificate, which should be appropriate to their work and 
+its location. 
+Note: First aid training is outside the scope of this document and should be organised by operating 
+companies with reference to the work being carried out and its location. 
+6.2.9.1.2 
+Suspension intolerance is a condition in which a person suspended in a harness can 
+experience certain unpleasant symptoms, which can lead to unconsciousness and 
+eventually death (see ‘ICOP’ [TC-102] Part 3, Annex G for more information). 
+6.2.9.2 
+Assessment Requirements and Guidance 
+6.2.9.2.1 
+All Candidates shall show awareness of current advice on suspension intolerance, including 
+its causes, symptoms and treatment. 
+6.2.9.2.2 
+All Candidates shall demonstrate methods of managing a rescue in such a way that it causes 
+the minimum of discomfort to the casualty. Trainers shall emphasize in all rescue scenarios 
+the need for a prompt first aid response and the potential for suspension intolerance, 
+including its effects on the casualty. 
+6.2.9.2.3 
+Trainers shall emphasize in all rescue scenarios the potential for suspension intolerance and 
+its effects. Trainers should ensure that rescue Manikins or weight bags are used where 
+possible. Where live casualties are used, the use of work seats should be encouraged, and 
+the Trainer should ensure the casualty moves their limbs regularly, particularly the legs, to 
+maintain blood flow (even when feigning unconsciousness or other immobility during 
+exercises). 
+ 
+6.3 
+    Equipment 
+6.3.1 
+Selection of Equipment 
+6.3.1.1 
+Overview 
+Planning for a task should include the selection of appropriate equipment. Equipment should be selected 
+based on its suitability for purpose, with reference to appropriate standards (some countries may have 
+specific requirements) and manufacturer’s recommendations. See ‘ICOP’ [TC-102] Part 2, 2.7. 
+ 
+Note: Some or all of the equipment used in Training might not be the same as that used by a Candidate’s Employer. 
+It is the responsibility of the Employer to ensure that their employees are trained and competent in the use of the 
+particular equipment issued to them. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 27 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.3.1.2 
+Assessment Requirements and Guidance 
+6.3.1.2.1 
+All Candidates shall show awareness of the process by which equipment is selected, based 
+on both fitness for purpose and conformance with relevant standards and legislation. 
+ 
+6.3.1.2.2 
+Level 3 Candidates shall be capable of selecting suitable items of equipment for a given work 
+task and be able to identify situations where other equipment is more appropriate. 
+ 
+6.3.1.2.3 
+Assessors should note that equipment selection exercises may be practical and/or theory-
+based. 
+6.3.2 
+Care and Maintenance of Equipment 
+6.3.2.1 
+Overview 
+Over its lifetime, rope access equipment is subject to conditions that may cause deterioration in strength 
+or performance. Such factors include wear and tear, abrasion, extremes of temperature, ultra-violet light 
+and certain chemicals. Therefore, all equipment should be subjected to regular inspections, which fall 
+into three types: pre-use checks, detailed inspections and interim inspections. Items have to be 
+identifiable so that they can be traced back to relevant inspection records and certificates. See ‘ICOP’ 
+[TC-102] Part 2, 2.8, 2.10 and Part 3, Annexes H, I and J. 
+ 
+6.3.2.2 
+Assessment Requirements and Guidance 
+ 
+6.3.2.2.1 
+All Candidates shall be aware of common factors that may damage equipment and basic 
+good practice to be followed when handling, identifying and storing it. 
+6.3.2.2.2 
+Level 3 Candidates shall demonstrate an understanding of appropriate marking and storage 
+procedures for rope access equipment. 
+6.3.3 
+Pre-use Checking of Equipment 
+6.3.3.1 
+Overview 
+As a minimum, a pre-use check of equipment consists of a brief inspection carried out before use. 
+However, it is wise to monitor the condition of equipment continuously, where possible. 
+6.3.3.2 
+Assessment Requirements and Guidance 
+6.3.3.2.1 
+All Candidates shall demonstrate functional, visual and tactile pre-use checks of all personal 
+equipment. 
+6.3.3.2.2 
+Level 2 and Level 3 Candidates shall demonstrate functional, visual and tactile pre-use 
+checks of all ropes and rigging equipment. 
+6.3.3.2.3 
+Assessors should explore Candidates’ ability and knowledge of checking equipment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 28 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.3.4 
+Detailed and Interim Inspections 
+6.3.4.1 
+Overview 
+All rope access equipment should be maintained within a formal inspection procedure that ensures all 
+items are subject to a detailed inspection by a competent person at intervals not exceeding 6 months. 
+Where equipment is used in arduous conditions or exceptional events have occurred, further inspections 
+(called interim inspections) should be carried out. See ‘ICOP’ [TC-102] Part 3, Annex H. 
+6.3.4.2 
+Assessment Requirements and Guidance 
+6.3.4.2.1 
+All Candidates shall show awareness of the need for regular recorded examinations of all 
+rope access equipment, both at suitable intervals and following arduous conditions or 
+exceptional events. Candidates shall also show awareness of the process to be followed 
+when items are to be quarantined or retired. 
+6.3.4.2.2 
+Level 3 Candidates shall make out an inspection report on the condition of damaged or worn 
+equipment provided. This may be on the IRATA ‘Level 3 Equipment Inspection Report’ [HS-
+019], or in the Candidates’ own format. Level 3 Candidates shall understand the limits of 
+their level of competence in carrying out detailed inspections. 
+Note: In-depth Training for equipment inspection is not within the scope of this document. Member 
+companies should ensure individuals tasked with inspecting rope access equipment are competent to 
+do so. 
+6.3.4.2.3 
+Trainers shall emphasize the need to be able to identify failure, damage, and wear and tear 
+to all rope access equipment, and the ways in which items can be tracked and controlled. 
+Trainers should offer visual aids or examples of rejected equipment. 
+6.3.4.2.4 
+For Level 3 Candidates, Assessors should present items from a selection of worn or 
+damaged equipment to the Candidates for correct identification of the faults. 
+6.3.5 
+Assembly of Personal Equipment, and ‘Buddy’ Checks 
+ 
+6.3.5.1 
+Overview 
+ 
+All Candidates shall be capable of fitting and assembling their personal rope access and fall arrest 
+equipment. This includes the tying, dressing and setting of knots; e.g. those used for attaching ropes to 
+anchors, or to create knotted ‘cow’s tail’ lanyards. See ‘ICOP’ [TC-102] Part 2, 2.11.5. 
+ 
+6.3.5.2 
+Assessment Requirements and Guidance 
+ 
+6.3.5.2.1 
+All Candidates shall be capable of performing a ‘buddy’ check of a rope access technician 
+wearing similar equipment. 
+ 
+6.3.5.2.2 
+Level 2 and Level 3 Candidates shall be capable of fitting and assembling personal rope 
+access equipment, for themselves and others using a variety of equipment. 
+ 
+6.3.5.2.3 
+Trainers shall emphasize the correct selection, fitting and adjustment of the harness, 
+connecting all components to the appropriate attachment points and the correct uses for the 
+various categories of harnesses, in particular the appropriate use of all harness attachment 
+points. 
+ 
+6.3.5.2.4 
+Trainers shall explain the purpose and benefits of ‘buddy’ checks, and common issues that 
+can be identified. 
+ 
+6.3.5.2.5 
+Assessors should start the Assessment with the equipment separated into its component 
+parts. 
+ 
+6.3.5.2.6 
+When assessing “buddy” checks, Assessors may introduce faults for Candidates to identify. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 29 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.4 
+    Rigging 
+6.4.1 
+General Guidance 
+Rigging is the method by which Ropes are connected to the anchors; see ‘ICOP’ [TC-102] 2.11.2 and 
+2.11.3. When rigging Ropes (anchor lines), rope access technicians should consider: 
+a) 
+suitability and location of anchors; 
+b) 
+positioning the Ropes for the work task; 
+c) 
+options and methods for rescue; 
+d) 
+avoidance or mitigation of hazards; e.g. abrasive surfaces; sharp edges; heat sources; 
+e) 
+angle loading. 
+6.4.2 
+Anchor Selection 
+6.4.2.1 
+Overview 
+Rope access operations utilise a variety of anchors, from purpose-engineered steelwork and eye bolts 
+to temporary ground anchors, weight-boxes and natural anchors such as trees. Rope access technicians 
+with the responsibility for selecting anchors should ensure they are competent to do so. Further Training 
+may be necessary. Detailed guidance is provided in ‘ICOP’ [TC-102] Part 2, 2.11.2 and ‘ICOP’ [TC-102] 
+Part 3, Annex F. 
+6.4.2.2 
+Assessment Requirements and Guidance 
+6.4.2.2.1 
+All Candidates shall show awareness of minimum recommended strength requirements for 
+rope access anchors. 
+6.4.2.2.2 
+All Candidates shall show awareness of the limits of their competence with regard to the 
+selection and installation of rope access anchors. 
+6.4.2.2.3 
+Level 3 Candidates shall be capable of selecting suitable structural elements to be used as 
+rope access anchors. 
+6.4.2.2.4 
+Trainers should present Candidates with a variety of anchors and discuss their suitability. 
+6.4.2.2.5 
+Assessors should note that anchor selection exercises may be practical and/or theory-based. 
+6.4.3 
+Knots and Rope Handling 
+6.4.3.1 
+Overview 
+Although sewn terminations are now widely available, tying knots remains a core skill in rope access. 
+Knots provide a great deal of flexibility when rigging Ropes to anchors and can help reduce impact 
+loads, e.g. in a fall. Basic Rope handling skills such as coiling and bagging facilitate transporting 
+equipment and can prevent problems such as entanglement. 
+6.4.3.2 
+Assessment Requirements and Guidance 
+6.4.3.2.1 
+All Candidates shall demonstrate the coiling and bagging of Ropes. 
+6.4.3.2.2 
+All Candidates shall demonstrate tying, dressing and setting the following knots, and have 
+an awareness of their strengths, applications and limitations: 
+a) 
+figure-of-eight on a bight; 
+b) 
+double figure-of-eight on a bight (‘bunny’ knot); 
+c) 
+figure-of-nine on a bight; 
+d) 
+alpine butterfly; 
+e) 
+scaffold or ‘barrel’ knot; 
+f) 
+stopper knot. 
+Note: The demonstration, tying, dressing and setting of these knots are a minimum requirement at 
+Level 1. However, Training could include a wider variety of knots. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 30 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.4.3.2.3 
+Level 2 and Level 3 Candidates shall demonstrate appropriate Rope joining knots, choking 
+of Ropes and slings, and knowledge of relevant applications, strengths and limitations. 
+6.4.3.2.4 
+Trainers shall explain the methods, uses and hazards when bagging Ropes. 
+6.4.3.2.5 
+Trainers should ensure that Candidates are able to tie, dress and set the knots correctly. 
+Candidates should be able to identify the knots by name, understand their main applications 
+and any limitations of use, and be capable of re-threading appropriate knots. 
+6.4.3.2.6 
+Assessors may assess the tying of knots combined with other elements of the Assessment, 
+e.g. while rigging. Assessors shall allow Level 2 and 3 Candidates to use other appropriate 
+knots not listed above. 
+6.4.4 
+Basic Anchor System 
+6.4.4.1 
+Overview 
+As a minimum, a basic anchor system consists of two Ropes, each with its own anchor connection. 
+Where a suitable structure is present, Ropes can be simply rigged to two similar anchor slings or strops 
+placed next to each other. See ‘ICOP’ [TC-102] Part 2, 2.11.2 and ‘ICOP’ [TC-102] Part 3, Annex F. 
+6.4.4.2 
+Assessment Requirements and Guidance 
+6.4.4.2.1 
+All Candidates shall demonstrate the rigging of a basic anchor system. Level 2 and 3 
+Candidates shall be expected to demonstrate rigging at height. 
+6.4.4.2.2 
+Trainers shall include the basic principles of rigging and attachments in rope access work, 
+e.g. that each Rope should have its own separate anchor. Where practicable, both the 
+working line and the safety line should be connected to both anchors for added security, so 
+that if one should fail, the impact load on the second anchor would be minimized. Knots 
+should be dressed and set. Emphasis should also be placed on the use of different types of 
+slings and rigging equipment, appropriate to the structure. 
+6.4.4.2.3 
+Assessors may observe demonstrations at ground level for Level 1 Candidates. A variety of 
+knots and methods is acceptable. 
+6.4.5 
+Y hangs 
+6.4.5.1 
+Overview 
+Where Ropes are to be rigged from two separate structural elements or bolt anchors, the rigging of a Y- 
+hang confers three advantages: precise positioning of Ropes, sharing of loads on the anchors, and 
+reduced impact loads in the event of anchor failure. See ‘ICOP’ [TC-102] Part 2, 2.11.2. 
+6.4.5.2 
+Assessment Requirements and Guidance 
+6.4.5.2.1 
+All Candidates shall demonstrate the rigging of a small Y hang between anchors less than 
+one metre apart. 
+6.4.5.2.2 
+All Candidates shall show awareness of the issues of angle loading and potential swings 
+associated with large or wide Y hangs. 
+6.4.5.2.3 
+Level 2 and Level 3 Candidates shall demonstrate the rigging of a Y hang between wider 
+anchor points, where the consequence of failure of any one item needs consideration; e.g. 
+the use of four anchors rather than two. 
+6.4.5.2.4 
+Level 2 and Level 3 Candidates shall be expected to demonstrate rigging at height. 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 31 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.4.5.2.5 
+Trainers shall expand on the instruction for the basic anchor system and explain the need to 
+avoid large angles wherever feasible. Anchors shall be equally loaded and positional 
+adjustment shall be demonstrated. 
+6.4.5.2.6 
+Trainers shall emphasize the consequences of failure of any one item of equipment, and the 
+need for redundancy where a swing could cause injury to personnel, or damage to equipment 
+or property. Inclusion of extra rigging Rope may be appropriate in some circumstances. 
+6.4.5.2.7 
+Assessors may observe demonstrations at ground level for Level 1 Candidates. A variety of 
+knots and methods is acceptable. 
+6.4.6 
+Hazard Avoidance and Rope Protection 
+6.4.6.1 
+Overview 
+Hazards such as sharp edges, abrasive surfaces, corrosive substances and heat sources are common 
+in the workplace and may damage Ropes which contact them or come into close proximity. Wherever 
+feasible, such hazards should be removed or contained (e.g. by isolating hot pipes). Ropes should be 
+rigged to avoid any remaining serious hazards, using techniques such as Y hangs, re-anchors and 
+deviations. Other methods, such as canvas rope protectors, offer a limited degree of protection and may 
+be appropriate for less serious hazards. See ‘ICOP’ [TC-102] Part 2, 2.7.10 and ‘ICOP’ [TC-102] Part 3, 
+Annex P. 
+6.4.6.2 
+Assessment Requirements and Guidance 
+6.4.6.2.1 
+All Candidates shall show awareness of the potential consequences of such hazards 
+affecting equipment and of methods for removing, avoiding, containing or reducing them. All 
+Candidates shall show awareness of how their movement on the Ropes may increase the 
+risk from such hazards. 
+6.4.6.2.2 
+All Candidates shall demonstrate attaching wrap-around style rope protectors. 
+6.4.6.2.3 
+Level 2 and Level 3 Candidates shall be capable of identifying common hazards and shall 
+demonstrate selecting and implementing appropriate methods of rigging or protection. 
+6.4.6.2.4 
+Trainers shall emphasize the application of the hierarchical approach (as is detailed in ‘ICOP’ 
+[TC-102] Part 2, 2.7 and 2.11, and Annex P), which prioritizes the removal of hazards before 
+considering avoidance through rigging methods or mitigation through Rope protection. The 
+level of protection offered by various Rope protection methods should be explained. 
+Consideration should be given to arranging separate protection for each Rope. 
+IRATA Training courses shall include all mandatory Training support tools provided by 
+IRATA such as the IRATA ‘Edge and Rope Management Video’ (available at www.irata.org). 
+6.4.6.2.5 
+Assessors should look for the appropriate choice of method and that adequate protection is 
+achieved. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 32 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.4.7 
+Re-anchors 
+6.4.7.1 
+Overview 
+A re-anchor (commonly called a re-belay) is a secondary set of anchors installed at any distance below 
+the primary anchors. Ropes may be re-anchored for a number of reasons, including positioning the 
+Ropes for work, avoiding hazards, or to reduce Rope stretch. Basic requirements for strength and rigging 
+methods are the same as for the primary anchors. 
+6.4.7.2 
+Assessment Requirements and Guidance 
+6.4.7.2.1 
+Level 2 and 3 Candidates shall demonstrate the correct rigging of a re-anchor at height. For 
+Level 2 Candidates, the offset shall be less than 1.5 m. For Level 3 Candidates, the offset 
+may be any distance apart. 
+6.4.7.2.2 
+Trainers shall emphasize the consequences of failure of any one item of equipment. Rigging 
+should consider ease of use and take account of options and methods for rescue. Generally, 
+shallow re-anchor loops make both access and rescue more difficult, particularly where the 
+offset is large. 
+6.4.7.2.3 
+Assessors should note that a variety of knots and methods is acceptable. 
+6.4.8 
+Deviations 
+6.4.8.1 
+Overview 
+Deviations are a method of rigging which allows re-direction of the path of the Ropes. Ropes may be 
+deviated to provide more accurate positioning for the rope access technician or to avoid hazards. Unlike 
+re-anchors, deviations allow positioning with a system rigged for rescue. On a continuously overhanging 
+structure, or to constrain movement, a series of deviations may be used. Deviations can be divided into 
+two types: 
+a) 
+single-anchor deviations are used to deviate the Ropes (or the working line alone) by a small 
+angle only. Single-anchor deviations are only appropriate where their failure would not result in 
+serious consequences (such as a large swing into a structure, or contact with a sharp edge) and 
+are normally rigged as a single anchor system; 
+b) 
+double-anchor deviations may deviate the Ropes by a greater angle and distance than a single- 
+anchor deviation, and allow the Ropes and user to be protected against more serious hazards 
+such as a sharp edge or a large swing into a structure. Such a deviation utilises a double anchor 
+system, with suitably rated anchors and connection components, to provide protection against 
+failure of any one item. Where a large angle is created, users should consider whether a re-anchor 
+may be more appropriate. 
+6.4.8.2 
+Assessment Requirements and Guidance 
+6.4.8.2.1 
+Level 2 and 3 Candidates shall demonstrate the correct rigging of either type of deviation 
+described in 6.4.8.1, with due regard to the angle and distance required to achieve the 
+repositioning and ease of use when passing in both ascent and descent modes. For Level 2 
+Candidates, the type of deviation required shall be specified. Level 3 Candidates shall 
+choose the appropriate type of deviation for a given situation. 
+6.4.8.2.2 
+Trainers shall explain which type of deviation is appropriate for which situation, and where 
+other types of rigging (such as re-anchors) may be more appropriate. Anchor loading and 
+required anchor strength in relation to the angle of deflection of the Rope should be 
+explained. 
+6.4.8.2.3 
+Assessors should note that a variety of knots and methods is acceptable. 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 33 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.4.9 
+Retrievable Rigging 
+6.4.9.1 
+Overview 
+Retrievable rigging methods (often called ‘pull-throughs’) allow Ropes to be installed or retrieved 
+remotely. They should be considered to be temporary rigging for access or egress and, therefore, are 
+not normally considered appropriate for rescues. 
+6.4.9.2 
+Assessment Requirements and Guidance 
+6.4.9.2.1 
+Level 2 and Level 3 Candidates shall demonstrate the correct rigging of a pull-through from 
+both the ground and from the anchor points. 
+6.4.9.2.2 
+Trainers shall emphasize the need to protect the Ropes against potential abrasion. Good 
+rope management shall be explained to ensure two independent systems are maintained 
+and to avoid cross loading of connectors. 
+6.4.9.2.3 
+Assessors should note that Candidates need only demonstrate one pull-through at 
+Assessment, at the Assessor’s discretion. A variety of methods is acceptable. 
+6.4.10 
+Work Restraint Lines 
+6.4.10.1 
+Overview 
+Work restraint is a technique whereby a person is prevented by means of personal fall protection 
+equipment from reaching zones where the risk of a fall from height exists. 
+6.4.10.2 
+Assessment Requirements and Guidance 
+6.4.10.2.1 Level 2 and Level 3 Candidates shall demonstrate appropriate rigging of work restraint lines. 
+Candidates shall ensure that the restraint method does indeed prevent them from entering 
+a fall hazard zone and shall demonstrate knowledge of work restraint equipment, including 
+where and when it is appropriate to use it within rope access. 
+6.4.10.2.2 Trainers shall emphasize that this access method restrains users within a safe area where 
+they remain supported by the structure. Trainers should explain that work restraint lines can 
+be rigged in a variety of ways, from a simple fixed-length lanyard anchored to a single anchor, 
+to a system including an adjustable lanyard running along a second horizontal line anchored 
+at both ends. Allowance shall be made for any potential sag and stretch of the line, 
+particularly when work restraint lines are long or when using a system running on a horizontal 
+anchor line. 
+6.4.10.2.3 Assessors shall verify Candidates’ understanding and rigging of work restraint systems. The 
+use of one point of attachment or single lines for work restraint may be appropriate. 
+6.4.11 
+Vertical Fall Arrest Systems 
+6.4.11.1 
+Overview 
+On certain structures (e.g. fixed ladders) it may be appropriate to rig a temporary fall arrest system for 
+ease of access. 
+6.4.11.2 
+Assessment Requirements and Guidance 
+6.4.11.2.1 Level 2 and Level 3 Candidates shall demonstrate rigging a temporary fall arrest system to 
+protect a vertical climb. 
+6.4.11.2.2 Trainers shall explain when it is appropriate to use such a system, the requirements for 
+anchor strength and considerations for rescue. 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 34 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.4.11.2.3 Assessors shall ensure Candidates take account of clearance distances and the number of 
+users permitted by the manufacturer. 
+6.4.12 
+Tensioned Lines 
+6.4.12.1 
+Overview 
+Ropes can be tensioned between two sets of anchors to facilitate horizontal or diagonal movement. 
+Additional working and safety lines are required to control movement when using diagonal tensioned 
+lines. 
+6.4.12.2 
+Assessment Requirements and Guidance 
+6.4.12.2.1 Level 2 and Level 3 Candidates shall demonstrate rigging tensioned lines at any positional 
+angle. 
+6.4.12.2.2 Trainers should emphasize that high loads may be placed on the anchors due to the creation 
+of wide rigging angles and, therefore, Ropes should be under as little tension as is practical. 
+Trainers should explain how to share the rope access technician’s load across both Ropes; 
+this reduces loadings on equipment and minimizes sag. Care should also be taken to 
+minimize the length of back-up lanyards; this reduces fall distances (and, therefore, impact 
+loads) in the event of equipment failure. Options and methods for rescue should be 
+discussed, particularly the incorporation of releasable rigging at one or both ends of the 
+tensioned lines. 
+6.4.12.2.3 Assessors should note that a variety of rigging methods is acceptable. 
+6.5 
+    Rigging for Rescue and Hauling 
+6.5.1 
+General 
+6.5.1.1 
+Overview 
+6.5.1.1.1 
+Options and methods for rescue should be considered at the planning stage and a site- 
+specific rescue plan should be included in the safety method statement. Rope access 
+technicians should be provided with the Training and equipment necessary to implement the 
+rescue plan. 
+6.5.1.1.2 
+Rescue systems can be broadly divided into two types: 
+a) 
+‘rig-for-rescue’, where a team implements a pre-rigged lowering or hauling system; 
+b) 
+‘intervention’ rescues, where a rope access technician is able to directly assist a 
+casualty, and perform an accompanied ascent or descent, passing any obstructions 
+they may encounter. 
+Rescue plans should consider using rig-for-rescue systems, where feasible. Some rescue 
+plans may require a combination of the two types. 
+6.5.1.2 
+Assessment Requirements and Guidance 
+6.5.1.2.1 
+All Candidates shall show awareness of rigging for rescue and of the benefits of doing so. 
+Casualty care and the possibility of suspension intolerance should be taken into account. 
+Care shall be taken in all rescues to maintain an effective back-up system, and to minimize 
+tangled Ropes and Rope-against-Rope abrasion. 
+6.5.1.2.2 
+Trainers shall emphasize that loading on equipment during rescues often exceeds one 
+person. This reduces the factor of safety on equipment strength and may require more 
+careful management of devices to reduce potential dynamic loads. 
+6.5.1.2.3 
+Trainers should explain how rigged-for-rescue systems can expedite rescue, avoid two- 
+person loads and reduce the need for the rescuer to compromise their own safety. All users 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 35 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+should understand the principles and operation of the system. Precautions to avoid 
+accidental movement should be demonstrated. 
+6.5.1.2.4 
+Assessors shall satisfy themselves that the Candidate has adequately addressed all 
+teamwork, rescue management, communication and safety issues. Assessors should be 
+aware that tangles, poor management of the back-up device or excess slack in the safety 
+line would constitute a discrepancy. 
+6.5.2 
+Lowering Systems 
+6.5.2.1 
+Overview 
+In many situations where the top anchors are easily accessible and a clear descent can be achieved, 
+rescue can be expedited by rigging the Ropes as a releasable lowering system. 
+6.5.2.2 
+Assessment Requirements and Guidance 
+6.5.2.2.1 
+All Candidates shall demonstrate the operation of a simple pre-rigged-for-rescue system, to 
+enable evacuation of a casualty by an unimpeded lower. 
+6.5.2.2.2 
+Level 2 and Level 3 Candidates shall demonstrate rigging a lowering system. 
+6.5.2.2.3 
+Trainers shall emphasize the benefits of such a system to simplify and speed up rescue. 
+Trainers shall demonstrate the addition of extra equipment to create a hauling system. 
+6.5.2.2.4 
+Assessors shall ensure the system functions as intended and that it remains secure when 
+not in operation. Assessors should also look for careful control of both Ropes during the 
+lower. 
+6.5.3 
+Hauling Systems 
+6.5.3.1 
+Overview 
+Where access to the structure is only possible from above, evacuation may require lifting a casualty. 
+Where a need for a hauling type of rescue has been identified, the rescue plan should ensure equipment 
+is in place to perform the lift quickly and efficiently. Depending on the situation, the hauling system may 
+be either a: 
+a) 
+lowering system as in 6.5.2, plus extra equipment; 
+b) 
+complete system used throughout to lower, suspend and lift the rope access technician; 
+c) 
+system that can be added to existing rigged Ropes using a third Rope and extra equipment. 
+Note: Such techniques can also be used for lifting tools or materials. Before using rope access equipment for this 
+purpose, potential consequences should be considered, e.g. overloading or increased wear. 
+6.5.3.2 
+Assessment Requirements and Guidance 
+6.5.3.2.1 
+All Candidates shall show awareness of the use of hauling systems for rescue. 
+6.5.3.2.2 
+Level 2 and Level 3 Candidates shall demonstrate rigging of all three hauling systems and 
+their operation to allow evacuation of a casualty to a platform or stance. Hauling exercises 
+may be conducted from platform(s) or suspended on equipment at height (hanging haul). 
+6.5.3.2.3 
+Trainers shall explain the advantages of a pre-rigged system and when an additional system 
+may be appropriate. 
+6.5.3.2.4 
+Trainers shall emphasize the use of a pulley system, the need for a suitable back-up and an 
+understanding of mechanical advantages and loads on the equipment. Trainers should 
+explain how to haul the casualty to a platform stance and bring the casualty to rest on the 
+platform. This may include moving the casualty over safety barriers and the use of a tag line. 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 36 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.5.3.2.5 
+Assessors shall look for the efficient implementation of the system and correct use of 
+equipment. 
+6.5.3.2.6 
+Assessors shall be satisfied that the Candidate has a general awareness of the potential 
+difficulties that could be encountered and has an understanding of the mechanical 
+advantages and loads on the equipment, in particular, those that could result in equipment 
+failure. 
+6.5.3.2.7 
+Assessors should note that Candidates need only demonstrate one hauling exercise at 
+Assessment, at the Assessor’s discretion. A variety of methods is acceptable. 
+6.5.4 
+Cross Haul 
+6.5.4.1 
+Overview 
+Moving a casualty around or through three-dimensional obstacles can be achieved with a cross-haul 
+system. 
+6.5.4.2 
+Assessment Requirements and Guidance 
+6.5.4.2.1 
+Level 2 and Level 3 Candidates shall demonstrate a cross haul of a casualty between two 
+points. 
+6.5.4.2.2 
+Trainers should explain how two (or more) sets of haul/lower Ropes and back-up systems 
+are rigged and connected to the casualty. The casualty shall be transferred horizontally using 
+the two systems. 
+6.5.4.2.3 
+Assessors should look for a cross haul that avoids the potential for an out-of-control swing, 
+(e.g. one caused by the failure of a single item of equipment) by the use of an appropriate 
+back-up. Where two persons are involved in the cross-haul rescue, Assessors should be 
+satisfied that appropriate communication is maintained. 
+6.5.5 
+Complex Rescue Systems (Team Exercise) 
+6.5.5.1 
+Overview 
+Moving a casualty to a safe area may require a rescue system which incorporates several elements. 
+Careful planning is required and this exercise should incorporate the requirements and guidance given 
+in 6.2.8. 
+6.5.5.2 
+Assessment Requirements and Guidance 
+6.5.5.2.1 
+Level 3 Candidates shall Take into Account: 
+a) 
+Team management. Candidates shall make the most effective use of their given 
+team, taking into account the skill level of each member. Candidates shall position 
+themselves so that they are in the most suitable place to co-ordinate the work task 
+and likely rescue scenario. 
+b) 
+Communication. Candidates shall communicate their intentions within the team so 
+that each team member is clear on their role for the planned method of work and 
+rescue. Clear instructions shall be given to each team member during each stage of 
+the team rescue. Consideration shall also be given to communicating with emergency 
+services and other site personnel. 
+c) 
+Equipment. Candidates shall select suitable and sufficient equipment for the given 
+task, taking into consideration the competence of the individual team members and 
+compatibility of components. 
+d) 
+Casualty management. Candidates shall demonstrate best practice when managing 
+the casualty’s needs, including keeping the casualty upright, providing comfort 
+measures (e.g. a work seat or stretcher) and limiting the time spent immobile in 
+suspension. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 37 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.5.5.2.2 
+Level 3 Candidates shall demonstrate planning and rigging a complex rope access system, 
+and then carrying out the associated team exercise. The system should allow evacuation of 
+a casualty around three-dimensional obstacles. 
+6.5.5.2.3 
+Trainers should note that this exercise is designed to test the Candidate’s ability both to 
+create and implement a rescue plan. 
+6.5.5.2.4 
+Assessors should plan this exercise to allow Candidates between 45 and 60 minutes to plan 
+and rig the exercise, and 15 to 30 minutes for the execution of the rescue. Assessors may 
+use this exercise to check for a satisfactory completion of the ‘Job Planning Form’ [HS-061]. 
+6.6 
+    Rope Manoeuvres 
+6.6.1 
+General 
+6.6.1.1 
+Overview 
+When working in suspension, technicians are required to maintain two independent safety attachments. 
+These attachments may be lanyards connected to anchors, or via devices installed on the Ropes. In 
+some situations, more than two points of safety attachment may be required to protect against any 
+potential out-of-control swing (pendulum) or movement that may cause injury to personnel or damage 
+to equipment or property. Likely situations include wide Rope-to-Rope transfers, wide re-anchors and 
+double-anchor deviations, where failure of any one part of the safety system could lead to an out-of- 
+control swing, even though the Candidate has two other independent safety attachments. 
+6.6.1.2 
+Assessment Requirements and Guidance 
+6.6.1.2.1 
+Candidates shall maintain two independent safety attachments when employing rope access 
+techniques, unless the Candidate is: 
+a) 
+in a safe area; 
+b) 
+using a work restraint or travel restriction system; 
+c) 
+using a fall arrest system; 
+d) 
+using another type of fall protection system (e.g. fall arrest nets, airbags). 
+Note: ‘ICOP’ [TC-102] Part 3, Annex K covers basic rope access manoeuvres. 
+6.6.1.2.2 
+For Level 1 Candidates, all manoeuvres should be completed on a pre-rigged course. 
+6.6.1.2.3 
+Level 2 and Level 3 Candidates may be required both to rig Ropes and then to perform 
+manoeuvres on their own rigging. 
+6.6.1.2.4 
+Depending on the exact circumstances, failure to protect against an out-of-control swing shall 
+be classed as a Major Discrepancy and, thus, the Assessment would result in a failure. 
+6.6.2 
+Back-up Devices 
+6.6.2.1 
+Overview 
+Although back-up devices are rarely required to prevent or arrest a fall in the workplace, correct 
+management of these devices is essential at all times to ensure their successful deployment in the event 
+of a fall. 
+6.6.2.2 
+Assessment Requirements and Guidance 
+6.6.2.2.1 
+All Candidates shall demonstrate throughout the whole of the Assessment the use of a back- 
+up device (and device lanyard, where appropriate) in accordance with best practice, the 
+IRATA Trainer Member Company’s risk assessment and the manufacturer’s instructions. 
+This includes checking the position and function of the back-up device at appropriate times. 
+ 
+Note: Some countries may have specific requirements for the selection of back-up systems. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 38 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.6.2.2.2 
+Level 2 and Level 3 Candidates shall demonstrate familiarity with a range of back-up devices 
+and alternative systems, e.g. descent on two descending devices; controlling a safety line. 
+6.6.2.2.3 
+Trainers shall emphasize the need for correct use and handling of the back-up system 
+including, where applicable: 
+a) 
+device lanyard selection and use; 
+b) 
+placement in a high position to minimize any potential fall; 
+c) 
+avoiding unnecessary handling; 
+d) 
+avoiding dropping the device; 
+e) 
+avoidance of tangles; 
+f) 
+clearance distance. 
+6.6.2.2.4 
+When using a back-up device during rescue, hauling and lowering, Trainers should stress 
+the need to minimize potential fall distances and resultant impact loads. 
+6.6.2.2.5 
+Trainers shall explain alternative systems and when they may be appropriate. 
+6.6.2.2.6 
+Assessors shall emphasize the importance of the back-up system throughout the 
+Assessment. 
+6.6.3 
+Descent 
+6.6.3.1 
+Overview 
+The controlled descent of Ropes is a core technique in rope access. Rope access technicians must be 
+able to control their speed and stop as required. See ‘ICOP’ [TC-102] Part 3, Annex K. 
+Note: The German term ‘abseil’, which translates as ‘down rope’, is often used as is, in some parts of the world, the 
+French term ‘rappel’. 
+6.6.3.2 
+Assessment Requirements and Guidance 
+6.6.3.2.1 
+All Candidates shall demonstrate attaching a descending device and back-up device to a set 
+of pre-rigged Ropes. Before descending, Candidates shall demonstrate checking the 
+position and function of the back-up device. During descent, Candidates shall demonstrate 
+safe control of the rope exiting the descending device (the ‘tail’ rope). Candidates shall 
+demonstrate stopping and locking off the descending device. 
+6.6.3.2.2 
+Trainers shall pay particular attention to: 
+a) 
+pre-descent safety and function checks; 
+b) 
+safe control of the descending device and correct use of the back-up device; 
+c) 
+the effects of differing conditions (e.g. environmental) on the Rope’s properties and 
+their effect on controlling the descent; 
+d) 
+awareness of obstructions and checking of anchor points prior to attaching equipment; 
+e) 
+the correct threading of the descending device and the security of connector gates; 
+f) 
+avoiding tangles in Ropes and lanyards; 
+g) 
+access to the Ropes, which may be from a number of different positions, e.g. direct 
+from a safe area, from an aid climb or from a work restraint system. 
+6.6.3.2.3 
+Assessors shall allow a variety of techniques and equipment for the manoeuvre, with the 
+emphasis being on the correct attachment to Ropes, a controlled descent and correct 
+management of the back-up device. 
+6.6.4 
+Ascent 
+6.6.4.1 
+Overview 
+Climbing a Rope (ascending an anchor line) is the second basic technique in rope access and is 
+accomplished by the alternate use of two ascending devices, typically a chest ascender and a handled 
+ascender with a foot loop. See ‘ICOP’ [TC-102] Part 3, Annex K. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 39 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.6.4.2 
+Assessment Requirements and Guidance 
+6.6.4.2.1 
+All Candidates shall demonstrate attaching ascending devices and the back-up device to a 
+set of pre-rigged Ropes, then ascending the Ropes and then detaching from the Ropes to 
+another system or safe area. 
+6.6.4.2.2 
+Trainers shall place emphasis on correct attachment to the Rope using ascending devices, 
+pre-ascent safety checks and the need to avoid impact loading of ascending equipment. It is 
+important to note that an ascending device is only considered to be a point of attachment if 
+it is loaded statically. Trainers should encourage Candidates to use good technique to avoid 
+unnecessary fatigue. 
+6.6.4.2.3 
+Assessors shall place emphasis on safe practice during ascents, including correct 
+management of the back-up device. 
+6.6.5 
+Changeovers 
+6.6.5.1 
+Overview 
+Changing from ascent mode to descent mode, and vice-versa, is an essential basic technique in rope 
+access and forms the basis of many other manoeuvres. 
+6.6.5.2 
+Assessment Requirements and Guidance 
+6.6.5.2.1 
+All Candidates shall demonstrate changing from ascent mode to descent mode and vice- 
+versa. 
+6.6.5.2.2 
+Trainers shall ensure that Candidates are closely supervised while initially learning this 
+manoeuvre and emphasize the handling skills required for their personal rope access 
+equipment. Trainers should emphasize the need for correct management of the back-up 
+device when changing direction. 
+6.6.5.2.3 
+Assessors shall look for cross loading of connectors and ease of installation and removal of 
+personal rope access equipment. 
+6.6.6 
+Descent Using Ascending Devices 
+6.6.6.1 
+Overview 
+With the correct technique, it is possible for a rope access technician to descend a Rope while in 
+suspension on ascending devices. 
+6.6.6.2 
+Assessment Requirements and Guidance 
+6.6.6.2.1 
+All Candidates shall demonstrate descending using ascending devices without releasing the 
+ascending device from the Rope. 
+6.6.6.2.2 
+Trainers shall explain that this is a repositioning technique for use over short distances 
+(usually less than a few metres) and that ascending devices shall not be detached from the 
+Rope. 
+ 
+6.6.6.2.3 
+Assessors should check that the ascending devices are not removed during this manoeuvre. 
+6.6.7 
+Ascent Using a Descending Device 
+6.6.7.1 
+Overview 
+With the correct technique, it is possible for a rope access technician to ascend a Rope while in 
+suspension on a descending device. 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 40 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.6.7.2 
+Assessment Requirements and Guidance 
+6.6.7.2.1 
+All Candidates shall demonstrate ascending using a descending device and an ascending 
+device and foot loop. 
+6.6.7.2.2 
+Trainers shall explain that this is a repositioning technique over short distances while 
+maintaining control of the ‘tail’ rope. 
+6.6.7.2.3 
+Assessors should look for appropriate control of the descent device. 
+6.6.8 
+Deviations 
+6.6.8.1 
+Overview 
+Deviations allow re-direction of the path of the Ropes from the anchor points, either to provide more 
+accurate positioning for the rope access technician or to avoid abrasion and other potential causes of 
+damage to the Ropes. See clause 6.4.8 for rigging requirements. 
+6.6.8.2 
+Assessment Requirements and Guidance 
+6.6.8.2.1 
+All Candidates shall demonstrate passing a single-anchor deviation in both ascent and 
+descent modes. 
+6.6.8.2.2 
+All Candidates shall demonstrate passing a double-anchor deviation in both ascent and 
+descent modes. 
+6.6.8.2.3 
+Trainers shall ensure all Candidates understand the two different types of deviations and the 
+need for single or double protection as appropriate. Trainers shall stress the need to avoid 
+out-of-control swings when passing deviations. Normally, no equipment needs to be 
+removed from the working line or safety line in order to pass a deviation. 
+6.6.8.2.4 
+Assessors should note that a small out-of-control swing shall be considered a Minor 
+Discrepancy. However, a swing that could cause injury to personnel or damage to equipment 
+or property shall be considered a Major Discrepancy. 
+6.6.9 
+Rope-to-Rope Transfers 
+6.6.9.1 
+Overview 
+Horizontal movement while in suspension can be achieved by transferring from one set of Ropes to 
+another. 
+6.6.9.2 
+Assessment Requirements and Guidance 
+6.6.9.2.1 
+All Candidates shall demonstrate transferring from one set of Ropes to another set of Ropes, 
+which may be at any distance apart. 
+6.6.9.2.2 
+Trainers shall draw attention to the possibility of out-of-control swings, and the need for four 
+points of attachment where necessary. Candidates may use two back-up devices but shall 
+have the practical knowledge of using an appropriate knot as the secondary back-up. 
+6.6.9.2.3 
+Assessors should note that a variety of recognized techniques is acceptable, but failure to 
+install or maintain appropriate back up on one side of a wide Rope-to-Rope transfer which 
+leaves the possibility of a large out-of-control-swing shall be considered a Major 
+Discrepancy. 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 41 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.6.10 
+Re-anchors 
+6.6.10.1 
+Overview 
+A re-anchor (commonly called a re-belay) is a secondary set of anchors installed at any distance below 
+the primary anchors. See 6.4.7 for rigging requirements. 
+6.6.10.2 
+Assessment Requirements and Guidance 
+6.6.10.2.1 All Candidates shall demonstrate, in both ascent and descent modes, passing a re-anchor 
+whose offset shall be less than 1.5 m. 
+6.6.10.2.2 Level 2 and Level 3 Candidates shall demonstrate passing a re-anchor whose offset may be 
+any distance apart. 
+6.6.10.2.3 Trainers shall emphasize that a back-up has to protect against any potential out-of-control 
+swing or movement that may cause injury to personnel or damage to equipment or property. 
+Therefore, a wide re-anchor (or ‘loop’) may require techniques similar to a Rope-to-Rope 
+transfer and the use of two back-up devices. 
+6.6.10.2.4 Assessors should note that a variety of techniques is acceptable for this manoeuvre. 
+6.6.10.2.5 Assessors should note that a small out-of-control swing shall be considered a Minor 
+Discrepancy. However, a swing that could cause injury to personnel or damage to equipment 
+or property shall be considered a Major Discrepancy. 
+6.6.11 
+Passing Mid-rope Knots 
+6.6.11.1 
+Overview 
+Knots may be tied mid-rope, either to isolate minor damage or to join Ropes of insufficient length. 
+6.6.11.2 
+Assessment Requirements and Guidance 
+6.6.11.2.1 All Candidates shall demonstrate passing mid-rope knots in both ascent and descent modes. 
+Knots shall be in both Ropes, and may be level or offset. 
+6.6.11.2.2 Level 2 and Level 3 Candidates shall demonstrate identifying, isolating and passing minor 
+damage in a Rope by tying appropriate knots (Level 1s should be capable of doing so under 
+supervision). In addition, Level 2 and Level 3 Candidates may be required to tie knots to join 
+Ropes. See also clause 6.4.3. 
+6.6.11.2.3 Trainers shall emphasize that in the workplace damaged Rope should be replaced as soon 
+as possible. Knots may complicate rescue; therefore, knots joining Ropes should be avoided 
+wherever possible. Knots used to isolate damaged Rope shall be considered an emergency 
+temporary measure. Single knots used to isolate damage should not be used as a safety 
+attachment. 
+6.6.11.2.4 Assessors should note that a variety of techniques and knots is acceptable for this 
+manoeuvre. Damage to Rope may be simulated with the use of marker tape or similar 
+methods. 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 42 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.6.12 
+Edge Obstructions at the Top 
+6.6.12.1 
+Overview 
+The edges of roofs, platforms, cliffs, cavities and other drops may be unprotected or surrounded by edge 
+protection such as guardrails or parapet walls. In many cases, the edge presents both an awkward 
+obstruction for the rope access technician and a contact hazard to the Ropes. 
+6.6.12.2 
+Assessment Requirements and Guidance 
+6.6.12.2.1 All Candidates shall demonstrate passing a top edge obstruction, where anchor points are 
+at or near right angles to the line of descent, in both ascent and descent modes. 
+6.6.12.2.2 Trainers shall ensure Candidates take care to attach their equipment correctly before 
+approaching the edge and explain the use of appropriate rope protection. Trainers shall draw 
+attention to hazards associated with edges, including rope stretch and the potential for 
+impact loads. 
+6.6.12.2.3 Assessors should look for appropriate safe control during this manoeuvre, and avoidance of 
+impact loads and cross loads on equipment. 
+6.6.13 
+Use of Work Seats (Comfort Seats) 
+6.6.13.1 
+Overview 
+Work seats are often added to a rope access harness to improve comfort while in suspension. See 
+‘ICOP’ [TC-102] Part 2, 2.7.11. 
+6.6.13.2 
+Assessment Requirements and Guidance 
+6.6.13.2.1 All Candidates shall demonstrate the correct attachment and use of a work seat. 
+6.6.13.2.2 Trainers shall emphasize that the work seat is not typically part of the personal fall protection 
+system, but is intended to provide additional comfort only. 
+6.6.13.2.3 Assessors should note that a variety of seats and techniques is acceptable. 
+6.6.14 
+Passing Mid-rope Protection 
+6.6.14.1 
+Overview 
+Wrap-around canvas rope protectors may be installed mid-rope to protect the Ropes against minor 
+abrasive hazards. 
+6.6.14.2 
+Assessment Requirements and Guidance 
+6.6.14.2.1 All Candidates shall demonstrate passing and replacing mid-rope protection in either ascent 
+or descent mode. Normally, separate protectors should be used for each Rope. 
+6.6.14.2.2 Trainers should ensure that Candidates are able to pass the rope protectors and reinstate 
+them in the appropriate place, including securing them either to the structure or the Rope, as 
+required. Trainers should ensure such exercises are carried out in a realistic practical setting, 
+i.e. at a potential contact hazard on a structure. 
+6.6.14.2.3 Assessors should look for safe and appropriate use of rope protectors and their correct 
+installation. 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 43 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.7 
+    Climbing Techniques 
+6.7.1 
+General 
+6.7.1.1 
+Overview 
+6.7.1.1.1 
+Various techniques exist for direct progression on a structure using personal fall protection 
+equipment. These techniques can be broadly split into two methods: 
+a) 
+‘aid’ climbing suspended by work positioning lanyards (such as cow’s tails); 
+b) 
+climbing with fall arrest equipment (such as energy-absorbing lanyards or pre-installed 
+fall arrest systems). 
+In some situations, a combination of the two methods may be used. Guidance on other 
+methods, such as lead climbing, is provided in ‘ICOP’ [TC-102] Part 3, Annex L. 
+6.7.1.1.2 
+The different methods require specific Training with particular reference to their application, 
+and the type of equipment and attachment points used. 
+6.7.1.2 
+Assessment Requirements and Guidance 
+6.7.1.2.1 
+All Candidates shall understand the principles of fall factors and clearance distances, and 
+their relevance to the different methods of climbing. Guidance on fall factors, clearance 
+distances and associated risks is provided in ‘ICOP’ [TC-102] Part 3, Annex Q. 
+6.7.1.2.2 
+Level 3 Candidates shall be able to apply their knowledge by assessing the suitability of the 
+methods of climbing for a variety of scenarios and structures. 
+6.7.1.2.3 
+Assessors should note a variety of methods and equipment is acceptable. 
+6.7.2 
+Horizontal Aid Climbing 
+6.7.2.1 
+Overview 
+Horizontal aid climbing is a technique which is commonly used by rope access technicians to allow them 
+to move across the underside of a structure such as a roof or bridge. 
+6.7.2.2 
+Assessment Requirements and Guidance 
+6.7.2.2.1 
+All Candidates shall demonstrate horizontal aid climbing, progressing primarily in suspension 
+by moving along: 
+a) 
+a series of fixed anchors; 
+b) 
+with the use of moveable anchors such as strops or slings. 
+6.7.2.2.2 
+Trainers shall emphasize the need for a minimum of two independent safety attachments at 
+all times; therefore, the use of at least three lanyards is required. Trainers shall emphasize 
+the need to select suitably positioned and unquestionably reliable anchors and also the need 
+to minimize potential fall distances and impact loads. 
+6.7.2.2.3 
+Assessors should be aware that this exercise is intended to demonstrate the Candidate’s 
+ability both to move across the structure and to change from aid climbing to Ropes and vice 
+versa. 
+6.7.2.2.4 
+Suitable aid climbs for Assessment should cover at least 5 m of horizontal movement and, 
+using movable anchors, should pass at least two separate obstructions. 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 44 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.7.3 
+Vertical Aid Climbing 
+6.7.3.1 
+Overview 
+Vertical aid climbing is a technique which allows rope access technicians to climb a structure such as a 
+steel lattice tower or a series of bolt anchors in a wall. 
+6.7.3.2 
+Assessment Requirements and Guidance 
+6.7.3.2.1 
+Level 2 and Level 3 Candidates shall demonstrate vertical aid climbing, progressing primarily 
+in suspension in an upward direction. 
+6.7.3.2.2 
+Trainers shall explain the suitability of different types of lanyards and emphasize the need to 
+minimize potential fall factors, distances and impact loads. 
+6.7.3.2.3 
+Assessors should note that a variety of lanyards and techniques is acceptable. 
+6.7.3.2.4 
+Suitable aid climbs for Assessment should cover a vertical distance of at least 3 m. 
+6.7.4 
+Climbing with Fall Arrest Equipment 
+6.7.4.1 
+Overview 
+When it is not feasible to use a personal fall protection system that prevents a fall, fall arrest equipment 
+can be used to mitigate the distance and consequences of a fall. In a fall arrest system, the user’s 
+primary attachment to the structure is via their hands and feet, with the equipment attached so as to 
+prevent the collision of the user with the ground or structure in a fall. Fall arrest equipment can be divided 
+into two broad categories: pre-installed systems and personal lanyards. 
+Note: Some jurisdictions have specific requirements for fall arrest Training. 
+6.7.4.2 
+Assessment Requirements and Guidance 
+6.7.4.2.1 
+All Candidates shall demonstrate a vertical climb with the use of a pre-installed temporary or 
+permanent fall arrest system. 
+6.7.4.2.2 
+All Candidates shall demonstrate climbing using a twin-tailed fall arrest lanyard, maintaining 
+appropriate attachments at all times. Candidates shall demonstrate changing to and from 
+work positioning (i.e. supported by a work positioning lanyard such as a cow’s tail) during 
+this exercise. 
+6.7.4.2.3 
+Trainers should ensure Candidates understand the specific equipment requirements of fall 
+arrest systems, including a full body harness, an energy absorber and appropriate 
+connectors, which meet the requirements of recognized standards. 
+6.7.4.2.4 
+Trainers should ensure Candidates are able to identify safe anchor points, that they connect 
+to them correctly and that they understand the need for an adequate clearance distance 
+below. Specific guidance on clearance distances is typically provided in manufacturers’ 
+instructions. 
+6.7.4.2.5 
+Assessors shall confirm the Candidates’ understanding of fall arrest techniques and 
+equipment limitations and that the fall arrest equipment is used safely. 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 45 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.8 
+Rope Rescues 
+6.8.1 
+General 
+6.8.1.1 
+Overview 
+6.8.1.1.1 
+If rigging a system for rescue is not considered feasible, intervention rescues may be 
+considered in the rescue plan. Such rescues can often be simplified if an additional set of 
+Ropes and equipment is available. Required equipment should be specified in the rescue 
+plan and prepared to enable rapid deployment. To test fully Candidates’ skills, Assessment 
+tends to concentrate on intervention rescues using existing Ropes and rigging; however, 
+rope access technicians should be aware that pre-planned systems would normally be the 
+first choice at work. Care should be taken in all rescues to maintain the back-up device in 
+the correct position, and to minimize tangled Ropes and Rope-against-Rope abrasion. 
+6.8.1.1.2 
+Trainers shall emphasize that loading on equipment during rescues often exceeds the 
+loading normally allowed for one person. This reduces safety factors on equipment strength, 
+and may require more careful management of devices to reduce the potential for high 
+dynamic loads. The Trainer shall explain: 
+a) 
+assessing the risk; 
+b) 
+asking for assistance; 
+c) 
+casualty management and first aid; 
+d) 
+knowledge of suspension intolerance and related appropriate attachments and 
+positioning of the casualty; 
+e) 
+appropriate equipment and attachments, knowledge of increased loading of 
+equipment and extra precautions required. 
+6.8.1.2 
+Assessment Requirements and Guidance 
+Assessors should be aware that a low position of the back-up device or excess slack in the safety line 
+would constitute a discrepancy. This could be either minor, or major, where it would constitute a fail. 
+6.8.2 
+Rescue of a Casualty Who is in Descent Mode 
+6.8.2.1 
+Overview 
+Most rope access work is carried out while in descent mode; therefore, all rope access technicians 
+should be capable of carrying out a rescue of a co-worker suspended by a descending device. 
+6.8.2.2 
+Assessment Requirements and Guidance 
+6.8.2.2.1 
+All Candidates shall demonstrate the rescue of an ‘unconscious’ casualty (i.e. feigning 
+immobility) in descent mode, from an adjacent set of Ropes. 
+Note: It is essential that the person feigning immobility regularly moves the lower limbs to protect 
+against the onset of symptoms of suspension intolerance. 
+6.8.2.2.2 
+Level 2 and 3 Candidates shall demonstrate a descent rescue using the casualty’s own 
+Ropes. 
+6.8.2.2.3 
+Trainers shall emphasize that Candidates may be required to approach the casualty from 
+above or below. 
+6.8.2.2.4 
+Assessors shall check that sufficient safety attachments are maintained for both casualty 
+and rescuer, and that a controlled descent is made. 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 46 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.8.3 
+Rescue of a Casualty Who is in Ascent Mode 
+6.8.3.1 
+Overview 
+Rescues from ascent mode are strenuous, as the casualty has to be lifted to disengage the teeth of the 
+ascending device’s came from the Rope. Where rope access technicians vary in size and/or ability, the 
+viability of this method needs to be carefully assessed before being accepted in a rescue plan. 
+6.8.3.2 
+Assessment Requirements and Guidance 
+6.8.3.2.1 
+Level 2 and Level 3 Candidates shall demonstrate a mid-rope rescue of an ‘unconscious’ 
+casualty, i.e. feigning immobility, while suspended on ascending devices. The rescuer should 
+be able to ascend or descend to a casualty, de-weight the casualty and descend to the 
+ground. 
+Note: It is essential that the person feigning immobility regularly moves the lower limbs to protect 
+against the onset of symptoms of suspension intolerance. 
+6.8.3.2.2 
+Trainers shall ensure that the Candidate is able to demonstrate a rescue from ascent mode 
+of an ‘unconscious’ casualty, using both of the following methods: 
+a) 
+from a separate set of Ropes; 
+b) 
+using only the casualty’s own Ropes. 
+6.8.3.2.3 
+Assessors should note that Candidates need only demonstrate one rescue from ascent 
+mode during Assessment, at the Assessor’s discretion. 
+6.8.4 
+Passing a Deviation with a Casualty 
+6.8.4.1 
+Overview 
+Deviations may be rigged to position Ropes or avoid obstructions. These may not be compatible with 
+lowering systems, so the rescue plan needs to ensure sufficient competence within the team to deal 
+with them. See clause 6.4.8 for more information on deviations. 
+6.8.4.2 
+Assessment Requirements and Guidance 
+6.8.4.2.1 
+Level 2 Candidates shall demonstrate descending with a casualty through a single-anchor 
+deviation. 
+6.8.4.2.2 
+Level 3 Candidates shall demonstrate descending with a casualty through a double-anchor 
+deviation. 
+6.8.4.2.3 
+Trainers should emphasize the avoidance of out-of-control swings and potential slack in the 
+safety line. 
+6.8.4.2.4 
+Assessors should look for a safe and efficient passage through the deviation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 47 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.8.5 
+Rope-to-Rope Transfer with a Casualty 
+6.8.5.1 
+Overview 
+Horizontal movement with a casualty can be achieved by performing a Rope-to-Rope transfer. Such a 
+manoeuvre could be used during a rescue to avoid obstructions or to return to an access point from 
+underneath a structure such as a platform or bridge. 
+6.8.5.2 
+Assessment Requirements and Guidance 
+6.8.5.2.1 
+Level 2 and Level 3 Candidates shall demonstrate transferring, with a casualty, from one set 
+of Ropes to another set of Ropes rigged more than 3 m apart. 
+Note: This exercise should be started on one set of Ropes, not with the casualty in the middle of the 
+transfer: see clause 6.8.7 for rescues dealing with more complicated situations. 
+6.8.5.2.2 
+Trainers should emphasize: 
+a) 
+good casualty management; 
+b) 
+maintaining four appropriate points of attachment when required; 
+c) 
+the potential for the use of the casualty’s personal equipment. 
+6.8.5.2.3 
+Assessors should look for a Rope-to-Rope transfer that avoids the potential for an out-of-
+control swing, e.g. one caused by the failure of a single item of equipment, by the use 
+of appropriate back-ups. 
+6.8.6 
+Passing a Small Re-anchor with a Casualty 
+6.8.6.1 
+Overview 
+Small re-anchors (commonly called re-belays) may be rigged to avoid obstructions or to reduce rope 
+stretch on long drops. These may not be compatible with lowering systems, and the rescue plan needs 
+to ensure sufficient competence within the team to deal with them. 
+6.8.6.2 
+Assessment Requirements and Guidance 
+6.8.6.2.1 
+With the casualty located above the re-anchor at the start of the exercise, Level 2 and Level 
+3 Candidates shall demonstrate descending with a casualty through a small re-anchor, with 
+an offset of no more than 1.5 m. See clause 6.8.7 for rescues dealing with more complicated 
+situations. 
+6.8.6.2.2 
+Trainers should emphasize the avoidance of tangles with the re-anchor loops. 
+6.8.6.2.3 
+Assessors should look for a lack of tangles. 
+6.8.7 
+Mid-transfer Rescue 
+6.8.7.1 
+Overview 
+A difficult rescue situation may arise where a casualty is suspended midway across a transfer 
+manoeuvre. 
+6.8.7.2 
+Assessment Requirements and Guidance 
+6.8.7.2.1 
+Level 3 Candidates shall demonstrate the rescue of an ‘unconscious’ casualty, i.e. feigning 
+immobility, who is suspended: 
+a) 
+at any point during a wide (more than 3 m apart) Rope-to-Rope transfer; 
+b) 
+at any point whilst crossing a wide (more than 1.5 m offset) re-anchor (also known as 
+a ‘loop’). 
+The Candidate shall attend to the casualty, manoeuvre them out of the situation, and return 
+them to a safe platform such as the floor. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 48 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+ 
+Note: It is essential that the person feigning immobility regularly moves the lower limbs to protect 
+against the onset of symptoms of suspension intolerance. 
+6.8.7.2.2 
+Trainers shall stress the consequences of failure of any one item of equipment and the need 
+for four safety attachment points. 
+6.8.7.2.3 
+Assessors should look for a rescue that avoids the potential for an out-of-control swing, e.g. 
+one caused by the failure of a single item of equipment, by the use of an appropriate back-
+up. 
+6.8.7.2.4 
+Assessors should note that Candidates need only demonstrate one mid-transfer rescue 
+during Assessment, at the Assessor’s discretion. 
+6.8.8 
+Passing Mid-rope Knots with a Casualty 
+6.8.8.1 
+Overview 
+Mid-rope knots are occasionally created either to extend Ropes or to isolate small areas of damage. 
+Such knots can complicate rescue. With proper planning, the complications can often be minimized or 
+avoided. 
+6.8.8.2 
+Assessment Requirements and Guidance 
+6.8.8.2.1 
+Level 3 Candidates shall demonstrate descending with a casualty passing a set of mid-rope 
+knots, taking into account any stretch in the Ropes. The rescuer may take full advantage of 
+the casualty’s personal equipment. 
+6.8.8.2.2 
+Trainers should ensure that knots are pre-tied in the working lines and safety lines. These 
+knots may be offset or at the same level. Assessors should look for efficiency in the use of 
+the additional equipment provided via the casualty and in the execution of the exercise. 
+6.8.8.2.3 
+Assessors should look for a lack of tangles. 
+6.8.9 
+Use of Tensioned Ropes for Rescue 
+6.8.9.1 
+Overview 
+Ropes can be tensioned between two sets of anchors to facilitate horizontal or diagonal movement, 
+either for access or as part of a rig-for-rescue system. 
+6.8.9.2 
+Assessment Requirements and Guidance 
+6.8.9.2.1 
+Level 3 Candidates shall demonstrate the use of tensioned Ropes for rescue purposes. 
+6.8.9.2.2 
+Trainers should ensure that during this manoeuvre Candidates keep the casualty above the 
+ground during a horizontal or diagonal transfer, while using a pair of tensioned Ropes. 
+Anchors should be equalized and the load shared between the two Ropes. 
+6.8.9.2.3 
+Assessors should note that tensioned Ropes may be rigged as part of a planned evacuation 
+procedure and that this exercise may be assessed as part of the complex rescue, see clause 
+6.5.5. 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 49 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.9 
+Climbing Rescues 
+6.9.1 
+Rescue from an Aid Climb 
+6.9.1.1 
+Overview 
+Where rope access technicians are climbing directly on the structure, either by aid climbing techniques 
+or with fall arrest equipment, planning needs to consider rescue methods. Team selection should take 
+account of the time taken to reach and rescue a casualty. In some situations, techniques such as 
+assisted aid climbing (rope access technician suspended on remotely controlled work-positioning 
+Ropes) can allow straightforward lowering of a casualty. 
+6.9.1.2 
+Assessment Requirements and Guidance 
+6.9.1.2.1 
+Level 2 and Level 3 Candidates shall demonstrate the rescue of a casualty who is suspended 
+by work-positioning lanyards. 
+6.9.1.2.2 
+Trainers should note that the rescuer shall climb to the casualty with sufficient equipment, 
+including Ropes (this may be a kit pre-rigged by the rescuer). The rescuer may remain either 
+on the structure and lower the casualty to safety or rig Ropes and descend with the casualty. 
+6.9.1.2.3 
+Assessors should note that Candidates need only demonstrate one climbing rescue during 
+Assessment, at the Assessor’s discretion. 
+6.9.2 
+Rescue from Fall Arrest Equipment 
+6.9.2.1 
+Overview 
+Wherever the use of fall arrest equipment has been selected as a suitable access method, planning 
+needs to consider rescue methods. Fall arrest systems typically allow longer potential falls than rope 
+access systems and, therefore, typically carry a greater risk of injury. 
+6.9.2.2 
+Assessment Requirements and Guidance 
+6.9.2.2.1 
+Level 2 and Level 3 Candidates shall demonstrate the rescue of a casualty who is suspended 
+either by a fall arrest system (temporary or permanent) or by twin-tailed fall arrest lanyards. 
+When suspended by fall arrest equipment, casualties shall ensure they maintain a second 
+safety attachment. 
+6.9.2.2.2 
+Trainers should note that the rescuer shall climb to the casualty with sufficient equipment, 
+including Ropes (this may be a kit pre-rigged by the rescuer). The rescuer may remain either 
+on the structure and lower the casualty to safety or rig Ropes and descend with the casualty.  
+As with all IRATA rescues, two independent safety attachments shall be maintained at all 
+times. 
+6.9.2.2.3 
+Assessors should note that Candidates need only demonstrate one climbing rescue during 
+Assessment, at the Assessor’s discretion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 50 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+6.9.3 
+Rescue from an Aid Climb with the Casualty on a Short Connection 
+6.9.3.1 
+Overview 
+Aid climb rescues can be particularly complicated if the casualty is attached to the structure by a very 
+short connection. This is especially so if the short connection consists of all-metal connections and only 
+one connector is used (e.g. connecting the harness D-ring direct to a bolt anchor with a karabiner). For 
+this reason, rope access safety supervisors should ensure rope access technicians avoid the use of 
+such attachments in the workplace. The short connection used in the Assessment should be a two- 
+connector attachment into a bolt anchor or a one-connector attachment into a short wire-strop anchor. 
+Note: Rescue from a one-connector attachment into a bolt anchor may be discussed but is not required at 
+Assessment. 
+6.9.3.2 
+Assessment Requirements and Guidance 
+6.9.3.2.1 
+Level 3 Candidates shall demonstrate the rescue of an ‘unconscious’ casualty, i.e. feigning 
+immobility, from an aid climb, where the casualty is directly attached by a short connection 
+and where there are no higher anchors. 
+Note: It is essential that the person feigning immobility regularly moves the lower limbs to protect 
+against the onset of symptoms of suspension intolerance. 
+6.9.3.2.2 
+Trainers should note that the casualty shall be directly attached to the anchor point with a 
+short connection. The rescuer shall not use any higher anchor points. 
+6.9.3.2.3 
+Assessors should take into account the difficulty in carrying out this type of rescue and 
+concentrate their Assessment on safety aspects of the exercise. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 51 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+7 
+REQUIREMENTS AND GUIDANCE FOR TRAINERS & 
+TRAINER MEMBER COMPANIES 
+7.1 
+    General 
+7.1.1 
+The IRATA ‘Training, Assessment and Certification Scheme’ (TACS) [TC-101] and the 
+IRATA ‘International Code of Practice’ (ICOP) [TC-102] shall be followed during Training 
+operations. 
+7.1.2 
+Only full Trainer Member Companies or probationary Trainer Member Companies of IRATA 
+may register Candidates. 
+7.1.3 
+The IRATA Trainer Member Company shall take total responsibility for any Training carried 
+out in its name. 
+7.1.4 
+Only certified IRATA Trainer Member Companies are permitted to conduct IRATA Training 
+and provide for IRATA Assessments. 
+7.1.5 
+Suspended IRATA Member Companies are not permitted to conduct IRATA Training, nor 
+the provision of IRATA Assessments. 
+7.2 
+    Pre-course Information 
+7.2.1 
+Candidates should be provided with information detailing the applicability and requirements 
+of the course and this scheme. This should include: 
+a) 
+the level of physical fitness required; 
+b) 
+any medical contra-indications or disabilities that may prevent them from working 
+safely; 
+c) 
+the basic requirements of this scheme, i.e. a minimum four-day Training course 
+followed by pass/fail Assessment by an external IRATA Assessor; logged Working 
+Hours; supervision requirements and revalidation every three years; upgrade 
+requirements. 
+7.3 
+    Provision of Training 
+7.3.1 
+Rope access Training shall be delivered by an IRATA Level 3 rope access technician, whose 
+name and IRATA number shall be included on the ‘Technician Assessment Form’ [FM-025]. 
+The Level 3 Trainer may have an assistant, who shall be an IRATA qualified rope access 
+technician. 
+7.3.2 
+Training programmes shall comprise at least 30 hours Training over a minimum of 4 days. 
+This time is specific to the level of course and will not normally include any refresher time for 
+lower-level requirements. Trainer Member Companies shall ensure that Training 
+programmes are suitable for the Trainee’s ability and be aware that the minimum 
+requirements may not be sufficient. The IRATA Assessment shall be conducted on a 
+calendar date which is separate from the calendar dates of the Training provided and shall 
+be independent of any Training activities. Further training shall not be provided to Candidates 
+on the commencement and for the duration of their Assessment. 
+7.3.3 
+A minimum of 4 days Training and Assessment shall be completed within 60 days from the 
+first date of Training, after which Candidates are required to attend a further Training course 
+in full prior to Assessment.  
+Evidence of qualifying prior Training must be presented to the Trainer Member Company 
+and the Assessor prior to Assessment. 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 52 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+7.3.4 
+Trainer Member Companies shall provide the Trainer with access to all the IRATA 
+documentation included in the ’Trainer File' available on the IRATA website. This includes 
+reference material, sample questions, additional guidance on Training topics and 
+Assessments, and also amendments and reminders. 
+7.3.5 
+It is essential that Candidates are properly trained in both the methods and the equipment 
+they use at work. Candidates shall be made aware of a variety of available equipment, and 
+the advantages and disadvantages of each shall be explained. The equipment used during 
+practical Training shall be noted on the ‘Technician Assessment Form’ [FM-025] in the box 
+marked ‘Equipment used in Training’. 
+7.3.6 
+Trainer Member Companies shall ensure that language issues are provided for in the 
+delivery of Training and Assessment. Training programmes can be severely affected by 
+language problems and additional time should be allowed for both Training and Assessment. 
+Training manuals, manufacturer’s user instructions and other course resources are essential 
+Training aids and serving as reference material for technicians and should be provided in a 
+suitable language. Translations of the IRATA ‘ICOP’ [TC-102] and other documents are 
+available on the IRATA website. 
+7.4 
+    Candidate to Trainer Ratios 
+7.4.1 
+All Training shall be delivered by a Level 3 rope access technician.  
+Note: Level 3 rope access technicians with extensive Training experience can gain additional 
+Certification as IRATA rope access Instructors, see clause 8. 
+7.4.2 
+A Level 3 rope access technician may take sole responsibility for the Training of up to four 
+Candidates, who may be at any IRATA level. 
+7.4.3 
+A Level 3 rope access Instructor may take sole responsibility for the Training of up to six 
+Candidates, who may be at any IRATA level. 
+7.4.4 
+A Level 2 rope access technician may not take sole responsibility for Training but may assist 
+the Level 3 rope access technician or Instructor in Training up to two additional Level 1 
+Candidates. 
+7.4.5 
+A Level 1 rope access technician may assist the Level 3 rope access technician or Instructor 
+in Training. No additional Candidates above the maximums specified in 7.4.2, 7.4.3 and 7.4.4 
+are permitted. 
+7.4.6 
+Examples of training ratios in practice are: 
+a) 
+a Level 3 rope access technician with a Level 1 assistant may train up to four 
+candidates, who may be at any IRATA level; 
+b) 
+a Level 3 rope access Instructor with a Level 1 assistant may train up to six 
+Candidates, who may be at any IRATA level; 
+c) 
+a Level 3 rope access technician with a Level 2 assistant may train up to six 
+Candidates, at least two of whom must be Level 1 Candidates; 
+d) 
+a Level 3 rope access Instructor with a Level 2 assistant may train up to eight 
+Candidates, at least two of whom must be Level 1 Candidates; 
+e) 
+two Level 3 rope access technicians may train up to eight Candidates, at any IRATA 
+level; 
+f) 
+two Level 3 rope access Instructors may train up to twelve Candidates, at any IRATA 
+level. 
+7.4.7 
+The ratios listed in 7.4.2 to 7.4.4 are maximums and are only recommended under ideal 
+conditions. Where complicating factors such as mixed levels or language difficulties occur, 
+or inexperienced Trainers or assistants are used, lower ratios should be used. 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 53 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+7.5 
+     Third-party Training 
+7.5.1 
+Third-party IRATA Training is not permitted. IRATA Training can only be provided by a 
+certified IRATA Trainer Member Company at their audited and certified training venue(s). 
+For further information refer to the ‘Training Venue Approval Policy’ [QP-314]. 
+7.5.2 
+Subject to clause 7.5.4, advertisements provided by IRATA members, and/or other parties, 
+regarding the provision of IRATA Training shall clearly state that such Training is being 
+provided by an IRATA certified member company at their IRATA approved training venue(s). 
+In such cases advertisements shall clearly stipulate the IRATA member company name and 
+IRATA membership number of the member providing the Training. 
+7.5.3 
+Subject to clause 7.5.2, only IRATA member companies may use the IRATA logo. 
+7.5.4 
+It is not permissible for non-IRATA member companies, who undertake rope access 
+activities, to advertise the provision of IRATA Training or use the IRATA logo in any form. 
+7.6 
+    Training Venues 
+All training venues intended for the provision of IRATA Training and Assessment shall be subject to 
+audit and approval by IRATA. Compliance with the ‘IRATA Membership Requirements’ [QP-300] will be 
+verified at IRATA audit and subject to the approval of an IRATA audit panel. IRATA Trainer Member 
+Companies shall ensure a pre-course risk assessment is carried out in accordance with the IRATA ‘Pre-
+Training Course Internal Audit’ [FM-006] and is kept current. For further information, refer to the ‘IRATA 
+Membership Requirements’ [QP-300] and the ‘Training Venue Approval Policy’ [QP-314]. 
+7.7 
+Assessment and Training Area 
+7.7.1 
+Training shall only be delivered if appropriate Training facilities, sites and structure (meeting 
+the requirements of the ‘Pre-Training Course Internal Audit’ [FM-006]) are available for the 
+duration of the course. The Training area shall be controlled to minimize risk to Trainees. To 
+assist in achieving this, Trainers shall complete and document a hazard identification and 
+risk assessment for the training venue and shall explain this to Candidates during the course 
+induction. The Trainer Member Company shall ensure that this risk assessment is reviewed 
+at appropriate intervals. 
+7.7.2 
+The ‘Pre-Training Course Internal Audit’ [FM-006] shall be updated each time there is a 
+significant change to the Training resources that may give rise to a change in risk. It is 
+mandatory for the ‘Pre-Training Course Internal Audit’ [FM-006] to be updated each time a 
+new lead Trainer is used. The completed form shall be posted on the wall in the training 
+venue for visiting Assessors, auditors and Trainees to see. 
+7.7.3 
+IRATA Trainer Member Company insurance shall be in date and shall specify rope access 
+Training with the expiry date noted on the ‘Pre-Training Course Internal Audit’ [FM-006]. 
+7.7.4 
+IRATA Certification for all rope access Training personnel shall be in date with the expiry 
+date noted on the ‘Pre-Training Course Internal Audit’ [FM-006]. 
+7.7.5 
+All IRATA Level 3 rope access Trainers and Instructors shall have attended appropriate first 
+aid Training. Certification shall be in date with the expiry date noted on the ‘Pre-Training 
+Course Internal Audit’ [FM-006]. 
+7.7.6 
+Appropriate emergency and first aid provision shall be available during Training. 
+7.7.7 
+Appropriate facilities for classroom theory and examination shall be available. 
+7.7.8 
+Normal welfare facilities shall be available. 
+7.7.9 
+The Training area shall have adequate lighting levels. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 54 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+7.7.10 
+Training courses shall be delivered without conflicting activities and excessive noise levels. 
+7.7.11 
+Provision to exclude third parties shall be made. 
+7.7.12 
+Up to date copies of the IRATA ‘ICOP’ [TC-102] and the IRATA ‘TACS’ [TC-101] shall be 
+made available to Trainees in an appropriate language, where possible. This may be either 
+in printed or electronic form. 
+7.7.13 
+A specific risk assessment shall be made for the training venue. The venue’s risk 
+assessment, including assessment of foreseeable misuse of equipment, shall be available 
+for visiting Assessors and Trainees to see. 
+7.7.14 
+A live ‘casualty’ risk assessment shall be carried out prior to commencement of Training. A 
+work seat is recommended for all live casualties. 
+7.7.15 
+Rescue Manikins weighing at least 70 kg shall be available for rescue exercises. Manual 
+handling precautions shall apply. Rescue Manikins are particularly useful for rescue 
+exercises as they give the Trainee rescuer experience of casualty handling without the risk 
+of injuring a live ‘casualty’. 
+7.7.16 
+Masses (e.g. specific load lifting bags or steel weights) weighing at least 70 kg shall be 
+available for hauling exercises. Manual handling precautions shall apply. 
+7.7.17 
+Rescue plans with appropriate rescue equipment shall be available. These shall be included 
+in the Trainer Member Company method statement/risk assessments. The rescue method 
+for the generic situations shall be identified with considerations for two-person loads and use 
+of live casualties, including equipment and techniques used for two-person loads. 
+7.7.18 
+A procedure to ensure sub-contracted Trainers are adequately briefed on Training 
+procedures and which acknowledges revisions prior to the course commencing shall be in 
+place. This is particularly relevant where a Trainer has not worked at the venue previously. 
+7.7.19 
+Training procedures for the management of Training shall be available on site. 
+7.7.20 
+The Trainer file shall be available with current IRATA documents for the Trainer during the 
+Training course and shall include: 
+a) 
+IRATA ‘International Code of Practice’ (ICOP) [TC-102]; 
+b) 
+IRATA ‘Training, Assessment and Certification Scheme’ (TACS) [TC-101]; 
+c) 
+IRATA safety bulletins; 
+d) 
+IRATA Trainer Member Company Training manual; 
+e) 
+Manufacturers’ equipment user instructions for all types of equipment present during 
+Training. 
+Note: The latest versions of IRATA documents are available from www.irata.org. 
+7.7.21 
+Suitable rope access equipment shall be available in sufficient quantities for all parts of the 
+syllabus taught. 
+7.7.22 
+Rope access equipment shall be inspected at suitable intervals by a competent person. 
+Records of equipment inspection shall be up to date, including load rating, lifespan etc. 
+Declarations of conformity shall be kept if applicable, including those for sub-contractors’ 
+equipment. 
+7.7.23 
+Rope access equipment shall be stored properly and securely. 
+7.7.24 
+Rope access and lifting equipment shall be sufficiently marked to allow traceability to 
+inspection records. 
+7.7.25 
+Anchors shall meet minimum static strength requirements. Detailed guidance is provided in 
+‘ICOP’ [TC-102] Part 2, 2.11.2 and ‘ICOP’ [TC-102] Part 3, Annex F. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 55 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+7.7.26 
+Equipment such as anchors and scaffolds shall have inspection/testing records available. 
+7.7.27 
+Safety signage shall be present and clear demarcation of the Training area shall be 
+established. 
+7.7.28 
+Training structures used to support persons, e.g. steelwork or platforms, shall display 
+signage indicating their loading capacity and loading direction (e.g. number of persons per 
+beam or platform). 
+7.7.29 
+An area to ascend and descend against a flat wall/surface shall be made available. This area 
+should have a working height of at least 6 m. 
+ 
+Note: The term ‘working height’ means an area which is accessible during Training, as opposed to the 
+maximum height of the building. 
+7.7.30 
+An area to ascend and descend in free-hanging space shall be available. The working height 
+of this area is recommended to be at least 7 m, but shall not be less than 6 m. 
+7.7.31 
+Obstructions such as re-anchors, deviations, mid-rope protection and Rope-to-Rope 
+transfers should be rigged at least 3.5 m above the ground. 
+7.7.32 
+Platforms and stances near the top of the Training area are required, including an area to 
+simulate top edge obstruction, e.g. a parapet wall, a flat roof edge or the top of a cliff, so that 
+the Ropes pass through a 90-degree angle between the anchor points and the ground. 
+7.7.33 
+An area that allows aid climbing in suspension using work-positioning lanyards attached to 
+fixed and mobile anchors is required. These exercises, which shall include the use of foot 
+loops (étriers) shall be performed over a distance of at least 5 m (horizontal) and 3 m 
+(vertical). Obstructions shall be in place (e.g. joints/junctions in steel) so that the Trainee has 
+to plan to remove their mobile anchors to allow them to pass by the obstructions safely. 
+7.7.34 
+An area is required with a height of at least 5 m, where climbing using fall arrest lanyards 
+can be performed using a structure such as a simulated pylon, tower or lattice frame. This 
+structure shall allow the Trainee to be supported in a work position during the fall arrest 
+climbing exercise. 
+7.7.35 
+The working line and safety line should each have its own separate anchor. However, both 
+lines may be connected to both anchors for added security. 
+7.7.36 
+Suitable anchors shall be available to rig horizontal and diagonal tensioned lines. 
+7.7.37 
+Suitable anchors shall be available to rig three-dimensional exercises for team exercises 
+(see 6.5.5). For example, a team exercise may involve moving a load (casualty or object) 
+over and/or through a series of obstacles, utilising techniques such as cross-hauls and 
+tensioned lines. Team exercises shall be planned and managed so that they can be 
+completed in one go, without the need to stop midway through to move to a different area. 
+7.8 
+    Assessments 
+7.8.1 
+It is the responsibility of the IRATA Trainer Member Company to ensure that all relevant 
+documentation relating to the Candidate is appropriate, checked and available prior to 
+Assessment (e.g. adequate logged experience). If in doubt on any point, the Assessor should 
+be consulted in advance. 
+7.8.2 
+Prerequisite documentation and/or information shall be provided by the Candidate and/or 
+TMC to the Assessor, to enable the Assessor to perform pre-assessment verification checks.  
+The Assessor shall verify the: 
+a) 
+Candidate’s identification by means of their government issued photo identification; 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 56 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+b) 
+Candidate’s date of birth by means of their government issued photo identification 
+(Candidate shall be at least 18 years of age on the first date of Training); 
+c) 
+Candidate’s health declaration by means of the signed ‘Candidate Disclaimer and 
+Liability Release’ [FM-014ENG]; 
+d) 
+IRATA certification of Candidates being assessed for an upgrade is still valid on the 
+date of Assessment, or where expired, the Candidate has met the additional 
+requirements to undergo Assessment as stipulated in the ‘TACS’ [TC-101ENG]; 
+e) 
+Candidate’s IRATA Logbook Working Hours meet the requirements stipulated in 
+clause 4.3.3 by means of the technician’s Logbook; 
+f) 
+Candidate’s Logbook has been correctly maintained; 
+g) 
+Candidate’s previous Training and Assessment record history, by means of the 
+Candidate’s Logbook and/or previous copy of the ‘Technician Assessment Form’ [FM-
+025] (if applicable); 
+h) 
+TMC representative and the Candidate have signed the ‘Technician Assessment 
+Form’ [FM-025] prior to commencing Assessment; 
+i) 
+Translator (if required) has signed the ‘Translator Declaration’ [FM-294ENG] (provided 
+by TMC); 
+j) 
+(for conversion) IRATA Conversion Approval Letter (and checks as specified within 
+the letter) to check the level being assessed to. 
+ 
+Candidates who do not provide evidence to meet with the prerequisites and/or have not 
+agreed and signed the ‘Terms and Conditions of Assessment’ on the ‘Technician 
+Assessment Form’ [FM-025] are not permitted to proceed to Assessment. 
+ 
+7.8.3 
+The Trainer Member Company shall ensure a Level 3 technician is in attendance throughout 
+the Assessment in order to provide rescue cover and first aid support; and shall have 
+thorough knowledge of the Training provided to the Candidates being assessed. 
+7.8.4 
+During the Assessment, Trainers shall not assist Candidates in any way, unless instructed 
+to do so by the Assessor. 
+7.9 
+    Administration, Including Registration and Certification 
+7.9.1 
+Trainer Member Companies shall enter the required information for each Candidate on the 
+IOS Assessment Day Form (ADF), a minimum of 48 hours prior to the Assessment date. 
+7.9.2 
+The Trainer Member Company shall upload an up-to-date colour digital portrait photograph 
+of the Candidate to the IOS, a minimum of 48 hours prior to the Assessment date. The 
+photograph shall meet the following requirements: 
+a) 
+the photograph shall be clear and sharp and show a true likeness of the Candidate;  
+b) 
+the photograph shall only include the Candidate’s head and shoulders; 
+c) 
+the file shall be saved in jpeg format; 
+d) 
+the file size shall be 300 pixels wide by 400 pixels high; 
+e) 
+the photograph shall not display company names or branding; 
+f) 
+hats or head coverings are not permitted except when worn for religious reasons and 
+only if the full facial features are clearly visible. 
+7.9.3 
+Following the completion of the Assessment, the Assessor shall distribute the ‘Trainer 
+Member Company’ copy of the ‘Technician Assessment Form’ [FM-025] to the Trainer 
+Member Company and the ‘Candidate’ copy of the ‘Technician Assessment Form’ [FM-025] 
+to the Candidate.  
+IRATA Head Office shall be notified by the Assessor of the Assessment serial numbers of 
+any spoiled forms with reason(s), which shall subsequently be destroyed by the Assessor. 
+Where the contingency paper-based Theory Examination has been used, the Assessor shall 
+provide the signed and completed ‘Examination Rules’ and the ‘Answer Sheet’ to the Trainer 
+Member Company. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 57 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+7.9.4 
+The IRATA Trainer Member Company shall process the forms through the IOS. 
+Note: All completed Assessment forms are processed through IRATA, including failures. 
+7.9.5 
+Trainer Member Companies shall submit the following completed document records to 
+registration@irata.org: 
+• 
+the ‘Trainer Member Company’ copy of the 'Technician Assessment Form’ [FM-025] 
+(including those for failed Assessments); 
+• 
+the ‘Assessment Day Form’ [FM-042ENG]; 
+• 
+contingency paper-based Theory ‘Examination Rules’ and ‘Answer Sheets’ (if 
+applicable); 
+• 
+‘Translator Declarations’ [FM-294ENG] (if applicable). 
+7.9.6 
+Registrations entered on the IOS will not be processed until the forms stipulated in clause 
+7.9.5 have been received by IRATA Head Office.  
+7.9.7 
+Submission of documentation to the IRATA Head Office should be within 30 days after the 
+Assessment. Registration and the issue of certificates, Logbooks and ID cards should be 
+completed within a further 30 days. The period from the Assessment date to the issue of a 
+certificate is normally not more than 60 days. 
+7.9.8 
+The ‘Technician Assessment Form’ [FM-025] is valid for a period of 60 days and provides 
+evidence of the practical Assessment outcome. IRATA Certification is subject to verification 
+by IRATA Head Office. Certification will be granted to Candidates upon successfully meeting 
+all certification requirements. 
+7.9.9 
+The cost of initial registration, revalidation and upgrade, are detailed in the ‘IRATA Price List’ 
+[FM-200ENG]. Successful technicians shall receive a certificate, a photo identification card 
+(ID card) and, for new technicians, a Logbook is issued stating the level and type of certificate 
+awarded and the expiry date. This documentation is issued directly to the Candidate, unless 
+requested otherwise by the IRATA Trainer Member Company. 
+7.9.10 
+A fee is charged for all replacement documents as detailed in the published ‘IRATA Price 
+List’ [FM-200ENG]. 
+7.9.11 
+The Candidate’s name that is registered with IRATA on the IOS shall be their legal name, as 
+it appears on their government issued identification. 
+7.9.12 
+The registration of rope access technicians may only be carried out by the IRATA Trainer 
+Member Company that carried out the Training. 
+7.9.13 
+Candidates shall ensure that they notify IRATA without undue delay, if their contact details 
+change.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 58 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+7.10 
+     Record Keeping 
+7.10.1 
+All Candidate Assessment records are maintained within the IOS. 
+7.10.2 
+IRATA Trainer Member Companies may have access to the IRATA rope access technician 
+database to verify details of named employees or prospective named employees with regard 
+to their IRATA certification and record of Training. 
+7.10.3 
+Trainer Member Companies shall ensure all evidence used to meet Training and 
+Assessment criteria is held securely for a period of four years. This shall include records of: 
+• 
+‘Technician Assessment Forms’ [FM-025]; 
+• 
+‘Assessment Day Forms’ [FM-042ENG]; 
+• 
+‘Candidate Disclaimer and Liability Release’ [FM-014] forms; 
+• 
+conversion supporting documentation; 
+• 
+Trainer’s first aid certification; 
+• 
+Contingency paper-based Theory ‘Examination Rules’ and ‘Answer Sheets’; 
+• 
+completed ‘Translator Declarations’ [FM-294ENG]. 
+ 
+ 
+8 
+REQUIREMENTS AND GUIDANCE FOR IRATA 
+INTERNATIONAL INSTRUCTORS 
+8.1 
+Overview 
+8.1.1 
+The role of the Trainer is to ensure that all Candidates are trained in accordance with this 
+document. As a minimum requirement, rope access Training shall be delivered by an IRATA 
+Level 3 rope access technician (see clause 7.3). IRATA Level 3 rope access technicians with 
+sufficient Training experience may gain additional certification as IRATA rope access 
+Instructors (Level 3/I). 
+8.1.2 
+To become an IRATA L3/I, the applicant first needs to register with IRATA as a Trainee 
+Instructor. Once sufficient experience has been gained as a Trainee Instructor, Candidates 
+submit their completed Trainee Instructor Logbook for Assessment to the IRATA Head 
+Office, and complete an online examination. 
+8.1.3 
+It is strongly recommended that all Instructors have a formal external teaching qualification 
+to assist them in the delivery of Training. 
+8.1.4 
+IRATA Instructors are issued an Instructor Logbook, which will be used to log Training 
+experience going forward, and must revalidate their status annually (see clause 8.7). 
+8.2 
+    Eligibility 
+8.2.1 
+All rope access technicians wishing to become Trainee Instructors are required to hold an 
+appropriate and current first aid qualification. 
+8.2.2 
+IRATA Level 3 rope access technicians are eligible to register with IRATA as Trainee 
+Instructors. 
+8.2.3 
+IRATA Level 2 rope access technicians may register with IRATA as Trainee Instructors and 
+begin to log their Training experience, but may not teach or log Level 2 or Level 3 topics until 
+they are qualified at IRATA Level 3. 
+8.2.4 
+IRATA Level 1 rope access technicians are not eligible to apply for Trainee Instructor status, 
+but may assist an IRATA Level 3 Trainer or Instructor during a Training course (see clause 
+7.4.5). 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 59 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+8.3 
+    Applying for Trainee Instructor Status 
+8.3.1 
+Eligible rope access technicians should complete a ‘Trainee Instructor Application Form’ 
+[FM-066] and return it to IRATA Head Office. A registration fee will be charged in line with 
+the published ‘IRATA Price List’ [FM-200ENG]. Once the application has been received, 
+verified, and approved, IRATA Head Office will issue a uniquely numbered Trainee Instructor 
+Logbook to those successfully meeting the requirements. 
+8.4 
+    Requirements for Instructor Status 
+8.4.1 
+Trainee Instructors shall meet several criteria before they are eligible to apply for Instructor 
+status: 
+a) 
+hold a current IRATA Level 3 certificate; 
+b) 
+hold an appropriate and current first aid certificate; 
+c) 
+have been witnessed to competently deliver all ‘TACS’ [TC-101] syllabus items; 
+d) 
+have at least 400 hours total logged experience delivering IRATA Training courses; 
+e) 
+successfully train (i.e. pass at Assessment) at least 30 Candidates including at least 
+6 Candidates at each IRATA level; 
+f) 
+maintain an overall pass rate of at least 60% of Candidates; 
+g) 
+attend at least one Instructor/Assessor workshop per year. 
+ 
+Items c) to g) are recorded in the Trainee Instructor Logbook, see clause 8.5. for further 
+guidance. 
+ 
+After submitting the Logbook, Candidates are required to pass the online Instructor 
+examination, see clause 8.6. 
+8.5 
+    Trainee Instructor Logbook 
+8.5.1 
+Trainee Instructor Logbooks each carry a unique serial number, and include the Trainee  
+Instructor’s photograph and details. 
+8.5.2 
+The Logbook consists of the following three sections which shall be completed prior to 
+application of Instructor status. 
+8.5.2.1 
+Record of Instructor/Assessor Workshop Attendance 
+Trainee Instructors shall attend a minimum of one Instructor/Assessor workshop per calendar year, 
+between 1st April to 31st March. The Logbook shall be taken to the workshop and countersigned by the 
+chairperson to validate attendance. Workshops are listed on the IRATA website www.irata.org. 
+Note: Trainee Instructors completing the requirements of clause 8.4.1 in less than a year may apply for Instructor 
+status before attending an Instructor/Assessor workshop. 
+8.5.2.2 
+Syllabus Items 
+Trainee Instructors shall log each syllabus item they have taught. To verify the Training has been 
+delivered to a competent standard, these must be countersigned by either the Level 3 Instructor (if 
+present), or by the technical authority of the Trainer Member Company. All syllabus items must be 
+completed to be eligible for application for Instructor status. 
+8.5.2.3 
+Training Experience 
+Trainee Instructors shall log the IRATA Training courses they have delivered, including hours, number 
+of Candidates trained at each level and Assessment result. To be eligible to apply for Instructor status, 
+the Trainee Instructor shall successfully train (i.e. pass at Assessment) at least 30 Candidates including 
+at least 6 Candidates at each IRATA level, over a minimum of 400 logged hours.  
+The overall pass rate shall not be less than 60%. A maximum of 30 hours and 4 Candidates shall be 
+logged per course. Enter only Candidates who have been directly trained by the Trainee Instructor, not 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 60 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+the overall numbers on the course. Hours spent delivering Refresher Training should be recorded but 
+do not count towards the total. 
+Note: There is no suggested time limit for completion of the Trainee Instructor Logbook. 
+8.6 
+    Applying for Instructor Status 
+8.6.1 
+On completion of the requirements set out in the Trainee Instructor Logbook. Trainee 
+Instructors can apply for Instructor status by completing an ‘Application for Instructor Status’ 
+[FM-067], returning it to the IRATA Head Office along with a copy of the completed Trainee 
+Instructor Logbook. A registration fee will be charged in line with the published ‘IRATA Price 
+List’ [FM-200ENG]. 
+8.6.2 
+If satisfied with the Logbook, IRATA will provide the Trainee Instructor with instructions to 
+complete an online examination, whereby they will be tested on knowledge of the ‘TACS’ 
+[TC-101] to verify that they have an understanding of the scheme process requirements. 
+8.6.3 
+On successful completion of this online examination, the Trainee Instructor will be awarded 
+Instructor status. The IRATA Head Office will issue a certificate, ID card and uniquely 
+numbered Instructor Logbook normally within 60-days, which shall be used to log Training 
+experience going forward. 
+8.6.4 
+If the IRATA Head Office does not consider that the Trainee Instructor Logbook meets the 
+requirements, the Candidate is notified in writing. 
+8.7 
+    Maintaining Instructor Status 
+8.7.1 
+IRATA Level 3 Instructors shall meet the requirements of an IRATA Level 3 as listed in clause 
+3.1.3. In addition, IRATA Instructor status shall be revalidated annually. Instructors wishing 
+to maintain their status shall: 
+a) 
+train a minimum of six successful Candidates between Instructor revalidations; 
+b) 
+attend a minimum of one Instructor/Assessor workshop per year; 
+c) 
+maintain an up-to-date record of the requirements of clause 8.7.1 a) and clause 8.7.1 
+b) in their Instructor Logbook; 
+d) 
+complete an IRATA ‘Instructor Revalidation’ [FM-068] form, and return it to the IRATA 
+Head Office. A fee is charged in line with the published ‘IRATA Price List’ [FM-
+200ENG]. 
+8.7.2 
+If the requirements of clause 8.7.1 are not met annually, the Instructor shall automatically 
+revert to Trainee Instructor status until these requirements are met. 
+8.8 
+Instructor Logbook 
+8.8.1 
+The Instructor Logbook is a record of IRATA rope access Training experience. The Instructor 
+Logbook is used to record the: 
+a) 
+date Training took place; 
+b) 
+Trainer Member Company on whose behalf the Training has been carried out; 
+c) 
+location of the Training carried out; 
+d) 
+levels to which they were trained; 
+e) 
+number of Candidates trained; 
+f) 
+outcome of each Assessment (pass/fail rate); 
+g) 
+name of the Assessor assessing the trained Candidates. 
+8.8.2 
+The Logbook also records any IRATA Instructor/Assessor workshops attended by the 
+individual. Instructors shall attend at least one IRATA Instructor/Assessor workshop per 
+calendar year. 
+8.8.3 
+It is the responsibility of the Instructor to ensure their Logbook is kept up to date and is 
+available on Assessment day for the IRATA Assessor to sign. 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 61 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+8.8.4 
+If an Instructor loses their Logbook, they shall request a replacement immediately via the 
+IRATA website www.irata.org. It is suggested that Candidates maintain either a scanned or 
+photocopied back-up of their Logbook. 
+Note: A fee is charged for replacement Logbooks in-line with the published ‘IRATA Price List’ [FM-
+200ENG]. 
+9 
+REQUIREMENTS AND GUIDANCE FOR IRATA 
+INTERNATIONAL ASSESSORS 
+9.1 
+    General 
+9.1.1 
+The primary role of the Assessor is to ensure that each Candidate demonstrates 
+performance of the required tasks in a safe manner, in accordance with the IRATA ‘TACS’ 
+[TC-101]. 
+9.1.2 
+An Assessor shall not direct Candidates to perform tasks outside the current syllabus. 
+9.1.3 
+Assessors should make their instructions clear and remember they are there to assess the 
+Candidate, not to offer further Training. 
+9.1.4 
+IRATA Assessments shall only be carried out by IRATA Assessors who are currently 
+independent of the Candidate, the Candidate’s Employer, and the organisation providing the 
+Training. The Assessor shall be on the list of Assessors valid to carry out Assessments, as 
+available on the IRATA website (www.irata.org). 
+9.1.5 
+Assessors shall not register Candidates they have assessed. 
+9.1.6 
+An Assessor shall not assess at more than one training venue in any one calendar day. 
+9.1.7 
+An Assessor shall not assess more than eight Candidates in any one calendar day. 
+9.1.8 
+The Assessor shall be fully conversant with the requirements of the level being assessed, 
+including any additional requirements for expired or conversion entry Candidates. 
+9.1.9 
+Assessors shall not conduct IRATA Assessments in parallel with any non-IRATA 
+Assessment or evaluation. Assessors are not permitted to conduct IRATA Assessments at 
+the same time as performing an evaluation, Assessment or examination for any other 
+certification body or qualification. Therefore, no multiple Assessments shall be undertaken 
+nor can an IRATA Assessor, or an examiner from another organisation, carry out an 
+Assessment of the same technicians during an IRATA Assessment. 
+9.1.10 
+Other activities taking place within a Trainer Member Company venue during an IRATA 
+Assessment are not precluded, providing these activities do not unduly influence the 
+outcome of the IRATA Assessment. It is the responsibility of the IRATA Assessor to make 
+this determination. 
+9.1.11 
+IRATA Assessors are required to deliver Assessments as per the Assessment requirements 
+stipulated within the ‘TACS’ [TC-101] and the ‘Delivery of IRATA Assessments’ [TC-205]. 
+ 
+ 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 62 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+9.2 
+    Assessment Area 
+9.2.1 
+The Assessor shall ensure that the Assessment area and equipment are suitable, and that 
+the Trainer Member Company has completed a hazard identification and risk assessment 
+for the facility. The ‘Pre-Training Course Checklist Internal Audit’ [FM-006] shall be verified 
+before proceeding with the Assessment. Where the Assessment/Training area falls short of 
+the guidance criteria, the Assessment shall not take place and a report shall be submitted to 
+the IRATA Training Committee with a copy of the completed checklist. 
+9.2.2 
+It is the responsibility of the Trainer Member Company, Trainer and Assessor to ensure that 
+the quality of the Assessment is not compromised by the number of Candidates being 
+assessed at any one time and that extra time is allowed as necessary. Where there are 
+communication difficulties or other factors which may affect the quality of the Assessment, 
+the Trainer Member Company and the Assessor shall liaise beforehand to agree an 
+appropriate number of Candidates, up to a maximum of eight. 
+9.2.3 
+The Trainer Member Company shall have a representative on site during the Assessment. It 
+is strongly recommended that this is the Trainer. This is for two reasons: to provide rescue 
+cover during the Assessment, and to sign off the ‘Technician Assessment Form’ [FM-025] to 
+show that the Training has been delivered in accordance with the requirements of this 
+scheme. The Trainers' presence is also valuable to explain particular equipment and 
+techniques used during Training. 
+9.3 
+    Assessment Criteria and Marking System 
+9.3.1 
+The Assessor shall explain the Assessment marking system to the Candidate before the 
+Assessment begins. 
+9.3.2 
+Each of the sections on the ‘Technician Assessment Form’ [FM-025], relevant to the level of 
+Assessment being undertaken, shall be marked in the appropriate box as follows: 
+P         -     if the Assessment is completed to an acceptable standard (P = pass); 
+Dis  -     for Minor Discrepancies (Dis = discrepancy); 
+Fail  -     if there has been a Major Discrepancy, a third Minor Discrepancy or the termination of 
+an Assessment.  
+9.3.3 
+There are two possible overall results: pass or fail. Two ways of failing are by committing 
+three Minor Discrepancies or one Major Discrepancy during the Assessment. 
+Minor Discrepancy: A Minor Discrepancy is where a Candidate has not committed a Major 
+Discrepancy, but can still be seen to have compromised their safety or the safety of others. 
+Three Minor Discrepancies constitute a fail. 
+Major Discrepancy: A Major Discrepancy is a critical safety issue, where the Candidate has 
+put them self or others at risk. One Major Discrepancy constitutes a fail. This ends the 
+Assessment. 
+The Assessor shall inform the Candidate of discrepancies and explain the safety issue(s) 
+arising from the situation, when they occur and when safe to do so. 
+9.3.4 
+Where a Candidate has either a Minor Discrepancy or is very inefficient or confused, the 
+Assessor should explore the situation more thoroughly by questioning the Candidate and, if 
+necessary, by asking the Candidate to repeat the demonstration. The Assessor should make 
+an entry in the comments box detailing the situation. As well as three Minor Discrepancies 
+constituting a fail, so would, generally, a poor performance. 
+9.3.5 
+So far as is reasonably practicable, the Assessor should be satisfied that the Candidate has 
+the aptitude to work safely at heights. 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 63 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+9.3.6 
+The overall outcome for the entire Assessment (practical and theory) is as follows: 
+• 
+Fail - Major Discrepancy 
+• 
+Fail - 3 Minor Discrepancies 
+• 
+Pass - 2 Minor Discrepancies 
+• 
+Pass - 1 Minor Discrepancy 
+• 
+Pass - no discrepancies 
+9.3.7 
+For Candidates who fail, the reason(s) for failure shall be explained to the Candidate by the 
+Assessor. The Assessor shall record the reason(s) for failure on the ‘Technician Assessment 
+Form’ [FM-025].  
+9.4 
+    Assessment Outcome 
+9.4.1 
+All IRATA Assessments shall be recorded in the rope access technician’s Logbook. The 
+record shall include the date and outcome (pass/ fail) and shall be signed by the Assessor. 
+9.4.2 
+For Candidates who fail, the reason(s) for failure shall be explained to the Candidate by the 
+Assessor. The Assessor shall record the reason(s) for failure on the ‘Technician Assessment 
+Form’ [FM-025] in the comments box and shall explain the options for re-assessment (see 
+clause 4.7). 
+9.4.3 
+Where a Candidate fails a revalidation Assessment, the Candidate’s existing Certification 
+shall not remain valid (see 9.4.6 and 9.4.7). 
+9.4.4 
+Where a Candidate fails an upgrade Assessment, the Candidate’s existing Certification 
+should remain valid until expiry (see 9.4.5). 
+9.4.5 
+Upgrade Assessments resulting in a fail, due to a Major Discrepancy or a third Minor 
+Discrepancy on any syllabus item, cannot be continued for the purpose of revalidating the 
+technician to a lower level. In such cases the technician is permitted to be reassessed at the 
+same level, or lower level, within 60 days of the failed Assessment attempt without the 
+requirement for further Training. 
+9.4.6 
+Level 2 and 3 revalidation or conversion Assessments resulting in a fail due to a third Minor 
+Discrepancy can continue, on the same calendar date, for the purpose of revalidating the 
+Candidate to a lower level, providing all the required syllabus items of the lower level are 
+passed with a maximum of two Minor Discrepancies, subject to the following: 
+a) 
+All syllabus items performed during an unsuccessful revalidation Assessment shall be 
+carried over to the downgraded Assessment unless the syllabus item is not performed 
+at the lower level. 
+b) 
+All Minor Discrepancies identified during an unsuccessful revalidation Assessment 
+shall be carried over to the downgraded Assessment unless the syllabus item is not 
+performed at the lower level. 
+c) 
+All Minor Discrepancies for syllabus items that only require awareness (A) shall not be 
+carried over to the downgraded Assessment and shall be reassessed at the 
+downgraded level. 
+9.4.7 
+Revalidation or conversion Assessments resulting in a fail, due to a Major Discrepancy on 
+any syllabus item, cannot be continued, on the same calendar date, for the purposes of 
+revalidating or converting the Candidate to a lower level. In such cases the Candidate is 
+permitted to be reassessed at the same level, or lower level, within 60 days of the failed 
+Assessment attempt without the requirement for further Training. 
+ 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 64 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+9.5 
+    Theory Knowledge 
+9.5.1 
+Level 1 and 2 Awareness 
+9.5.1.1 
+Level 1 and Level 2 Candidates shall demonstrate their theoretical knowledge of applicable 
+‘TACS’ [TC-101] syllabus items. These theory elements are designated as ‘Awareness’ items 
+on the ‘Technician Assessment Form’ [FM-025]. 
+9.5.2 
+Level 3 Theory Examination 
+9.5.2.1     The Theory Examination will cover the following: 
+a) 
+hazard identification and risk assessment (see clause 6.2.3); 
+b) 
+selection of access method (see clause 6.2.4); 
+c) 
+selection of personnel and competence (see clause 6.2.5); 
+d) 
+safety method statement (see clause 6.2.6); 
+e) 
+exclusion zones, protection of third parties and permits to work (see clause 6.2.7); 
+f) 
+planning for emergencies (see clause 6.2.8); 
+g) 
+first aid and suspension intolerance (see clause 6.2.9); 
+h) 
+equipment (see clause 6.3). 
+ 
+9.5.2.2 
+The Theory Examination and practical Assessment shall be conducted on the same 
+calendar date. The Theory Examination should be conducted first to accommodate the 
+provision of downgraded Assessments (if applicable). 
+ 
+9.5.2.3 
+The Level 3 Theory Examination shall be invigilated by the Assessor. In exceptional 
+circumstances, if the IRATA Online Examination Platform cannot be accessed, a 
+contingency paper-based theory examination shall be used. The examination papers shall 
+be provided to the Candidate for completion and subsequently be marked by the Assessor. 
+ 
+9.5.2.4 
+Level 3 Candidates shall undertake a Theory Examination and be awarded one of the 
+following outcomes for their Examination: 
+• 
+Greater than or equal to 70% - Pass 
+• 
+Greater than or equal to 50% but less than 70% - Minor Discrepancy 
+• 
+Less than 50% - Major Discrepancy 
+ 
+9.5.2.5 
+The Assessor shall notify the Level 3 Candidate of the Theory Examination outcome (see 
+clause 9.5.2.4) and record the outcome on the ‘Technician Assessment Form’ [FM-025]. 
+ 
+9.5.2.6 
+If a Candidate’s primary language is not English, a translator may be used for the 
+Assessment, provided the translator meets the requirements stipulated in the ‘Translator 
+Declaration’ [FM-294ENG] and has signed the declaration. 
+ 
+Translators must not offer or provide training, nor assist Candidates during the Theory 
+Examination, outside that of providing language translation activities. 
+9.6 
+     Permissible Accommodations for the Theory Examination 
+Eligibility for accommodations for the theory examination is detailed on the IRATA website 
+(www.irata.org). If a Candidate is eligible for an accommodation, a request shall be submitted by the 
+Trainer Member Company via the IOS ADF. 
+Due to the inherent risks associated with industrial rope access, and safety being a priority, 
+accommodations are not permitted to the defined ‘TACS’ [TC-101] requirements for the practical 
+Assessment. 
+ 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 65 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+9.7 
+    Practical Assessment 
+9.7.1 
+Assessors should consider safety, technique, use of equipment, time taken, efficiency and 
+overall competence to determine a Candidate’s Assessment outcome. 
+9.7.2 
+In any exercise or manoeuvre, Assessors should consider the time taken to complete each 
+task. Where excessive time taken may place the Candidate (and any casualty being rescued) 
+in danger, excessive time taken may be considered a Minor or Major Discrepancy, 
+depending on the circumstances.  
+9.7.3 
+During an equipment inspection, Candidates shall identify any serious/dangerous fault in 
+equipment. 
+9.7.4 
+Major Discrepancies 
+The following is a non-exhaustive list of Major Discrepancies (Fail): 
+a) 
+only one point of safety attachment while in suspension; 
+b) 
+unable to complete the task; 
+c) 
+excessive time period; 
+d) 
+no back-up to protect against a potential out-of-control swing that may cause injury or damage in 
+the event of failure of an item of equipment; 
+e) 
+harness unsecured; 
+f) 
+anchor lanyards and device lanyards, e.g. cow’s tails, tied or attached dangerously; 
+g) 
+no helmet at height; 
+h) 
+critical harness connectors unfastened or unsecured, e.g. screw links (maillon rapides); 
+i) 
+misuse causing damage to equipment; 
+j) 
+unsuitable choice of rope protection measures; 
+k) 
+uncontrolled descent during rescue; 
+l) 
+descending device threaded incorrectly and used in that manner; 
+m) 
+back-up or other devices used upside down; 
+n) 
+no safety attachment close to an exposed edge; 
+o) 
+excessive slack in connection to an ascending device used as a point of attachment; 
+p) 
+critical safety issues; 
+q) 
+a swing that could cause injury to personnel or damage to equipment or property; 
+r) 
+attaining less than 50% on the Theory Examination (Level 3 only). 
+9.7.5 
+Minor Discrepancies 
+The following is a non-exhaustive list of Minor Discrepancies (Dis): 
+a) 
+descending device not locked off or no control of the tail rope; 
+b) 
+attachment connectors not secured; 
+c) 
+critical personal fall protection equipment dropped; 
+d) 
+rope protection incorrectly placed; 
+e) 
+no braking karabiner used when required; 
+f) 
+harness incorrectly adjusted; 
+g) 
+helmet chinstrap unfastened; 
+h) 
+critical personal fall protection equipment missing from the harness set-up; 
+i) 
+tangles of Ropes; 
+j) 
+poor management of back-up device (major if critical); 
+k) 
+work positioning lanyards such as cow’s tails positioned greater than fall factor 1; 
+l) 
+excessive slack in connection to an ascending device used as a point of attachment (major if 
+critical); 
+m) 
+considerable time taken to perform the task; 
+n) 
+unconventional or untrained techniques used; 
+o) 
+a small out-of-control swing; 
+p) 
+attaining greater than or equal to 50% but less than 70% on the Theory Examination (Level 3 
+only). 
+ 
+ 
+Doc. No.: TC-101ENG 
+TRAINING, ASSESSMENT 
+AND CERTIFICATION 
+SCHEME 
+ 
+Date of Issue: 16/05/2023 
+Issue No.: 006 
+Page 66 of 67 
+         
+UNCONTROLLED WHEN PRINTED 
+ 
+9.8     Procedure to Become an IRATA International Assessor, Assessor Rules 
+and Maintenance of Status 
+The information for becoming an IRATA Assessor is detailed in the ‘Assessor Selection, Training and 
+Certification Scheme’ [TC-122ENG]. 
+ 
+9.9 
+    Conditions for Termination of a Candidate’s Assessment 
+The Assessor may terminate a Candidate’s Assessment if they: 
+a) 
+perform a Major Discrepancy; 
+b) 
+perform three Minor Discrepancies; 
+c) 
+act to endanger the safety of themselves or others; 
+d) 
+become physically unable to continue; 
+e) 
+become abusive or threatening; 
+f) 
+are obstructive or refuse to comply with reasonable requests; 
+g) 
+are in breach of the Candidate examination or Assessment rules. 
+ 
+The Candidate is entitled to terminate their Assessment at any stage during the Assessment and is not 
+obliged to provide a reason for their decision to terminate their Assessment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Published by: 
+ 
+IRATA International Eurogate Business Park, 
+1st & 2nd Floor, 
+Unit 3,  
+Ashford,  
+Kent, 
+TN24 8XW, 
+United Kingdom 
+ 
+Tel: + 44 (0) 1233 754600 
+Fax: + 44 (0) 1233 754601 
+Email: info@irata.org 
+Web: www.irata.org 
+ 
+Copyright © 2014 IRATA International                            

@@ -1,0 +1,911 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice 
+for Industrial Rope Access 
+Part 3: Informative Annexes 
+Annex T: Tensioned Lines Guidance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 2 of 17 
+26/09/2025 v001
+ 
+CONTENTS 
+1 
+SCOPE AND PURPOSE ................................................................................................................ 3 
+2 
+INTRODUCTION ............................................................................................................................. 3 
+3 
+ABBREVIATIONS ........................................................................................................................... 3 
+4 
+APPLICATIONS OF TENSIONED LINES ...................................................................................... 4 
+4.1 
+HORIZONTAL AND DIAGONAL TENSIONED LINES FOR WORK POSITIONING ................................... 4 
+4.2 
+HORIZONTAL TENSIONED LINES FOR WORK POSITIONING (VARIABLE ANCHORS) ......................... 4 
+4.3 
+DIAGONAL TENSIONED LINES .................................................................................................... 5 
+4.4 
+HORIZONTAL TENSIONED LINES FOR WORK RESTRAINT ............................................................. 6 
+4.5 
+HORIZONTAL TENSIONED LINES FOR FALL ARREST .................................................................... 7 
+4.6 
+HORIZONTAL AND DIAGONAL TENSIONED LINES FOR RESCUE .................................................... 8 
+5 
+RISKS AND HAZARDS ................................................................................................................ 10 
+5.1 
+ANCHOR FAILURE................................................................................................................... 10 
+5.2 
+EQUIPMENT FAILURE .............................................................................................................. 11 
+5.3 
+ROPE FAILURE ....................................................................................................................... 11 
+6 
+CONTROLLING RISKS AND HAZARDS .................................................................................... 13 
+7 
+ANCHORS .................................................................................................................................... 14 
+7.1 
+DESCENDERS ........................................................................................................................ 14 
+7.2 
+ANCHOR LINES ...................................................................................................................... 14 
+8 
+IRATA TRAINING AND ASSESSMENT ...................................................................................... 16 
+9 
+POTENTIAL APPLICATIONS, HAZARDS AND CONTROL MEASURES FOR TENSIONED 
+LINES ............................................................................................................................................ 17 
+10 REFERENCES .............................................................................................................................. 17 
+11 FURTHER READING .................................................................................................................... 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 3 of 17 
+26/09/2025 v001
+ 
+1 
+SCOPE AND PURPOSE 
+This Annex is intended to provide informative guidance and to raise awareness of the potential risks 
+and hazards associated with using tensioned lines in industrial rope access. It also provides information 
+that may be applied when delivering the training and assessment of tensioned lines, in accordance with 
+the IRATA ‘Training, Assessment and Certification Scheme’ (TACS) [TC-101], Section 6.4.12 - 
+‘Tensioned Lines’. 
+ 
+DISCLAIMER: The information and illustrations within this Annex are provided for informative purposes only. This 
+document is not intended to replace appropriate training, planning, competency and job specific risk assessments.  
+2 
+INTRODUCTION 
+Tensioned lines are ropes rigged between two sets of anchors (extremity or end anchors) to facilitate 
+horizontal or diagonal movement, or to provide variable/intermediate anchor points for the working and 
+backup lines, thereby enabling access to areas where there may be no other suitable or available option. 
+‘Horizontal’ tensioned lines are ropes tensioned between suitable anchors that are at the same or similar 
+elevation, and ‘Diagonal’ tensioned lines are a set of ropes tensioned between suitable anchors which 
+are at different elevations at each end.  
+ 
+Dependant on the country, region or state, tensioned lines may be referred to as Tyrolean Traverse 
+Lines (Tyroleans), Tensioned Ropes, Highlines, Zip-Lines, Telphers and Tram Ways. 
+ 
+Currently no standard refers specifically to the industrial application of tensioned lines, or the application 
+of descenders or other rope access equipment in the creation of a tensioned lines system. However, 
+existing standards and requirements may be applicable to each component and it’s use.  
+ 
+Using a descender or other rope access equipment as an adjustable anchor, or part of the anchor 
+system, may not be included in the equipment’s ‘Instructions for Use’ or ‘User Manual’; as such, 
+information regarding the suitability and use of the equipment for this purpose should be sought from 
+the manufacturer. 
+ 
+Note: Tensioned lines (used in industrial rope access) differ from pre-made/off the shelf ‘lifelines’, as tensioned 
+lines must meet the requirements of the ‘Personal Fall Protection Systems’ - EN 795 (Type C) regulation. 
+3 
+ABBREVIATIONS 
+MBL  
+Maximum Breaking Load 
+PFPE 
+Personal Fall Protection Equipment 
+SWL 
+Safe Working Load 
+WLL  
+Working Load Limit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 4 of 17 
+26/09/2025 v001
+ 
+4 
+APPLICATIONS OF TENSIONED LINES 
+Note: The applications of tensioned lines are non-exhaustive, however, the images within this Annex demonstrate 
+some possible examples.  
+4.1 Horizontal and Diagonal Tensioned Lines for Work Positioning 
+In industrial rope access, where there are potentially no suitable or available anchor points to provide 
+access to the work area, e.g. access to install lights in the middle of an atrium, bridge inspections, 
+working under a ceiling etc, tensioned lines systems are commonly used to provide positioning and 
+variable/intermediate anchor points for the working and backup lines. 
+4.2 Horizontal Tensioned Lines for Work Positioning (Variable Anchors) 
+ 
+ 
+Figure 1: Horizontal Work Positioning - A simple tensioned lines system which has been installed to 
+allow a simple connection by the technician to the system, thereby enabling them to pull themselves 
+along the system to gain access to the working area. This example is rigged releasable to allow the 
+technician to be lowered to an area of safety below (if required). 
+ 
+ 
+ 
+Figure 2: Horizontal with Variable/Intermediate Anchor - A simple tensioned lines system where the 
+anchors are rigged to enable the technician to access the work location. Consideration should be given 
+to the access techniques used to minimise any potential for shock loading. The use of tandem 
+descending devices may be considered.  
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 5 of 17 
+26/09/2025 v001
+ 
+4.3 Diagonal Tensioned Lines  
+ 
+Figure 3: Diagonal Work Positioning – A diagonal tensioned lines system which includes a required 
+control system for ascent and descent of the technician whilst they are attached. This example is rigged 
+releasable to allow the technician to be lowered to an area of safety below (if required). 
+ 
+ 
+Figure 4: Diagonal with Variable/Intermediate Anchor - A diagonal tensioned lines system where 
+the anchors are rigged to enable the technician to access the work location. Consideration should be 
+given to the equipment and techniques used to position the anchors on the tensioned lines, to maintain 
+the required location. This example is rigged releasable to allow the technician to be lowered to an area 
+of safety below (if required). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 6 of 17 
+26/09/2025 v001
+ 
+4.4 Horizontal Tensioned Lines for Work Restraint 
+Work restraint (travel restriction) is a technique where Personal Fall Protection Equipment (PFPE) is 
+used to prevent a technician from reaching areas where the risk of a fall from height exists. 
+ 
+Horizontal tensioned lines may be used to provide an anchor for work restraint equipment (e.g. fixed or 
+adjustable lanyards), enabling safe access to the work area, e.g. the edge of a roof. A single suitable 
+connection is acceptable when work restraint techniques and equipment are used correctly, therefore, 
+a single tensioned line may be used as an anchor line for the work restraint of a single technician. 
+ 
+Horizontal tensioned lines used for work restraint should restrain the technician within a safe area where 
+they remain supported by the structure, thereby mitigating against the possibility of a fall. Potential 
+snagging or stretching of the line/lines should be accounted for, especially when using long work 
+restraint lines. 
+ 
+ 
+ 
+Figure 5: Horizontal Tensioned Lines for Work Restraint - A simple restraint system rigged to 
+prevent the technician from being able to access/fall over an unprotected edge. 
+ 
+Note: The regulations and requirements for acceptable equipment and setup for work restraints may vary 
+dependant on the country, region or state, e.g. manufactured temporary horizontal safety lifeline anchorage (with 
+or without a built-in shock absorber) may be a mandatory requirement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 7 of 17 
+26/09/2025 v001
+ 
+4.5 Horizontal Tensioned Lines for Fall Arrest 
+Tensioned lines used as horizontal anchor lines for fall arrest are often referred to as lifelines. Pre-made 
+flexible horizontal lifeline systems or cable ways are available on the market and are classified under 
+the ‘Personal Fall Protection Systems’ - EN 795 (Type C) regulation. A lifeline is described as a “flexible 
+(cables or synthetic ropes) system that allows the worker to move horizontally along a structure while 
+remaining continuously connected to the fall arrest system.” Some of these systems may include a 
+shock absorber to reduce the forces generated during a fall, whilst others require the technician to 
+connect to the system by using fall arrest lanyards. 
+ 
+        When ropes are rigged with the intention to be used as lifelines, the created tensioned lines system 
+should be used with fall arrest lanyards, and be rigged at a height that is easy to reach and reduces the 
+distance of a potential fall to a minimum. 
+ 
+With both the pre-made and rope-based systems, the use of appropriate anchors is key (a minimum 15 
+kN static load required). Some manufacturers have conducted tests on falls (shock loading) on 
+tensioned lines and have published their findings which should be considered when planning and using 
+tensioned lines for fall arrest. 
+ 
+When fall arrest techniques, equipment and systems are used, suitable clearance distances and an 
+appropriate rescue/casualty retrieval plan must be in place. These considerations are often overlooked 
+or neglected. The system should be designed and installed in a manner, that should a fall occur, the 
+technician will not collide with any obstructions below. A rescue plan and fall arrest system should be 
+in place that enables the rescuer(s) to quickly bring the casualty to a place of safety. 
+ 
+ 
+ 
+Figure 6: Horizontal Tensioned Lines for Fall Arrest - A simple fall arrest system rigged above the 
+technician to minimise the potential fall distance. This example utilises twin fall arrest lanyards, where 
+both connectors are attached to both tensioned lines. 
+ 
+The following should be considered when using a tensioned lines system for fall arrest: 
+• 
+Lifelines/tensioned lines systems with an integrated shock absorber should not be used with fall 
+arrest lanyards.  
+• 
+Lifelines/tensioned lines systems without an integrated shock absorber should be used with fall 
+arrest lanyards. 
+ 
+Note: The regulations and requirements for acceptable equipment and setup for work restraints may vary 
+dependant on the country, region or state, e.g. manufactured temporary horizontal safety lifeline anchorage (with 
+or without a built-in shock absorber) may be a mandatory requirement. 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 8 of 17 
+26/09/2025 v001
+ 
+4.6 Horizontal and Diagonal Tensioned Lines for Rescue 
+A rescue plan may include the use of tensioned lines to retrieve/recover a casualty e.g. using a 
+releasable tension line to lower the casualty to an area of safety or using tensioned lines as ‘Tram 
+Ways/Zip-Lines’ alongside extra lines to move the casualty along the tensioned lines system.  
+ 
+Such rescues are classified as ‘complex’ and it is vital that the rescue team are trained and competent 
+in such techniques and are familiar with the rescue plan, and their roles in a rescue situation.  
+ 
+When planning this type of a rescue, rope stretching, snagging and the protection of the ropes and 
+anchors should be considered. 
+ 
+ 
+ 
+Figure 7: Diagonal Tensioned Lines System for Rescue – A system where the casualty can be 
+raised and lowered on the tensioned lines to adjust their position using gravity. 
+ 
+ 
+ 
+Figure 8: Horizontal Tensioned Lines System for Rescue with Multi-Directional Rigging – A 
+horizontal system which includes hauling that is positioned at both ends to enable multi-directional 
+positioning of the casualty. 
+ 
+Note: See the ‘ICOP’ [TC-102], ‘Annex R: Rescue and Evacuation Planning, and Considerations’ for additional 
+rescue information. 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 9 of 17 
+26/09/2025 v001
+ 
+4.7 Horizontal and Diagonal Tensioned Lines for Tool and Material 
+Transportation or Positioning 
+ 
+Tensioned lines may be used to move or position tools or materials. The failure of tensioned lines used 
+for this purpose can have severe consequences, e.g. tools or materials may drop causing injury or 
+death. Therefore, the system should be designed, calculated and set-up following the same principles 
+as those used for personnel. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 10 of 17 
+26/09/2025 v001
+ 
+5 
+RISKS AND HAZARDS 
+The primary hazard when rigging and using tensioned lines systems is excessive loading of the 
+components by over tensioning, or shock loading the system. Increased loads in the system are 
+inherent due to the higher rigging/loading angles created. The risk of overloading the tensioned lines 
+system is particularly great when it is used as a safety lifeline anchor system for fall arrest. 
+Technicians commonly over tension the lines to minimise sagging when the system is under tension. 
+However, tests indicate that applying high tension to the lines results in minimal change to the sag, 
+whilst significantly increasing the load on the components of the system. 
+5.1 Anchor Failure 
+Understanding the correlation between rigging angles and the loading on the extremity anchors is 
+important when planning and installing tensioned lines. Tensioning the lines results in a permanent load 
+on the anchors (and all the other components of the system), and when combined with the additional 
+weight of the technician (plus equipment and tools), and the high angle loading, this may result in 
+unacceptably high loads at the extremity anchors. Additionally, the potential loads on the extremity 
+anchors when subject to a fall arrest will be significantly higher than in an un-tensioned system.  
+When descending devices are used for tensioning the system, consideration should be given to the 
+Working Load Limit (WLL) and the determined Safe Working Load (SWL) of the device(s), to ensure 
+that the loads do not exceed these limits.  
+Descenders may not be certified as anchor devices, however, they must still meet the requirements of 
+the applicable standard(s). Some manufacturers have conducted tests on descenders that have been 
+used as adjustable anchors, and have published their findings which may highlight foreseeable forces 
+on the devices, such as different loading capacities and the applications of the devices. During testing, 
+loads have been shown to stay below the damage threshold value. However, it is important for the 
+person(s) designing and using the tensioned lines system to familiarise themselves with the test loading 
+values, test scenarios, and to ensure that these are not exceeded during operations. 
+Equal load sharing between the anchors at each end of the tensioned lines, and across the anchor 
+lines, is vital to avoid exceeding the WLL of the individual anchors and other components to minimise 
+the risk of failure. 
+Anchor failure can be catastrophic in any situation. Due to the complexity involved in calculating 
+potential loads when using a tensioned lines system, it is recommended that this type of system is only 
+used when the anchors are “unquestionably reliable”, and the system is installed by a competent 
+person(s).  
+The illustrations below are intended to demonstrate and raise awareness of the relationship between 
+loading angles and the loading on the anchors, i.e. an increase in the loading angle, increases the 
+loading on the anchors and other components of the tensioned lines system. 
+                 
+ 
+ 
+The above illustrations are based on a scenario where the lines do not stretch, and the loading angle 
+remains the same. It is important to note that ropes such as low stretch ‘kernmantle’ stretch under 
+loading, and therefore the loading angles may decrease as the downward loading on the tensioned 
+lines increases. The illustrations should be used as a guide when calculating loading on the anchor 
+lines and other components of a tensioned lines system.  
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 11 of 17 
+26/09/2025 v001
+ 
+5.2 Equipment Failure  
+• 
+Descending devices are effective and easy to use for tensioning lines as they maintain high 
+tension and are easy to release when needed, e.g. to lower a casualty or when the tensioned 
+lines are no longer needed. As descenders are designed for one or two-person loads (e.g. in 
+case of a rescue), the loading on them when used in tensioned lines systems may exceed normal 
+working loads, resulting in physical damage or loss in functionality of the descender, for example 
+a descender is required to be releasable in the event of a rescue but becomes stuck. 
+• 
+Ascending devices, rope grabs and pullies may be used to provide a mechanical advantage 
+when tensioning lines. The SWL of these devices may be exceeded if they are not used correctly 
+and in accordance with the manufacturer’s instructions. Improper use of devices must be 
+avoided; whilst this may not result in equipment failure, it may still cause damage to the device 
+itself or the anchor lines e.g. an overloaded toothed ascender may cause damage to the rope. 
+5.3 Rope Failure 
+The SWL of the ropes should be considered when designing, calculating loads, rigging and using 
+tensioned lines systems. 
+Note: The highest possible loading the system may be subjected to (worst case scenario) should be considered 
+when planning and using tensioned lines systems, e.g. two-person loading, shock loading etc. 
+Toothed devices may start damaging the outer sheath of a rope when the loading is approximately 4kN 
+- 6.5kN (depending on the type, diameter, age, condition etc. of the rope and the device). Depending 
+on their position and grip on a rope, a single person can pull 20-40 Kg with a solid stance on the ground. 
+This, combined with a 9:1 pully system, may result in the toothed device damaging the outer sheath of 
+the rope.  
+Both the path of the tensioned lines and the sag in the rope when loaded should be considered during 
+planning and rigging to avoid sharp edges, abrasions, hot surfaces and any other hazards to the lines 
+or the technicians. If contact between the lines and a hazard is unavoidable, appropriate rope protection 
+should be considered and implemented. 
+Calculating the exact amount of sag in tensioned lines is only possible in theoretical scenarios due to 
+multiple factors that contribute to sag in a real-life scenario. However, a 1m sag over a 10m long line 
+(span), under a 100Kg load, is an approximation that can be used to estimate sag as illustrated below: 
+ 
+Figure 9: This illustration provides a guide to determining sag in a horizontal tensioned lines system. 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 12 of 17 
+26/09/2025 v001
+ 
+Factors that affect sag in a tensioned lines system include the: 
+• 
+length of the tensioned lines (span) e.g. longer lines result in more sag; 
+• 
+number of lines in the system e.g. 3 lines instead of 2 lines will stretch less under the same load, 
+therefore the sag will be reduced; 
+• 
+weight of the load e.g. a heavier load will result in more sag; 
+• 
+amount of tension in the system; and 
+• 
+type, make and age of the ropes being used. 
+ 
+Note: The above list is non-exhaustive. 
+Excessive slack in the connecting lanyards between the tensioned lines and the technician’s harness, 
+present a substantial risk when used for work positioning or fall arrest. Dynamic or shock loading 
+tensioned lines has the potential to overload any or all components of the system, and may result in 
+system failure, or make it difficult or impossible to release the system by operating the descending 
+device, as the device has become seized. 
+When designing and using a tensioned line system, consideration should be given to the potential for 
+the system to be used/misused by multiple technicians simultaneously. When using or relying on the 
+same tensioned lines system there is a risk of overloading the anchors, and/or any component, leading 
+to system failure.  
+The risk of tensioned lines being damaged by a third party is often overlooked, and mitigating factors 
+are not considered. Damage to the lines may result from: 
+• 
+spilling harmful chemicals on the lines;  
+• 
+unforeseen crane operations or movement;  
+• 
+tools or other machinery being used in close proximity; 
+• 
+high temperature objects in contact with or in close proximity of the lines; and/or 
+• 
+the lines being tampered with. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 13 of 17 
+26/09/2025 v001
+ 
+6 
+CONTROLLING RISKS AND HAZARDS 
+The following non-exhaustive list includes actions and considerations which may assist in controlling 
+the hazards associated with using tensioned lines systems:   
+• 
+conducting a comprehensive risk assessment;  
+• 
+appropriate planning, e.g. anchor selection, positioning, rescue provision etc.;  
+• 
+competent design and installation of the system;  
+• 
+appropriate testing and inspection of equipment and setup, e.g. anchor bolts etc.;   
+• 
+suitable onsite management and supervision;  
+• 
+appropriate checking of the system due to complexity;   
+• 
+awareness of the work environment; and 
+• 
+awareness of human factors that may present risk, e.g. lack of knowledge, deliberate misuse, 
+complacency etc. 
+Tensioned lines should only be installed by a competent person and should be planned, calculated and 
+adequately risk assessed prior to installation and use. The use of tensioned lines should be supervised 
+with a comprehensive rescue plan in place. 
+Note: Check relevant local legislations regarding the requirements for the installation and use of tensioned lines 
+and if there is a requirement for a third party to approve such systems in the country or region of use. Some regions 
+have specific requirements regarding the training, use, and installation of fall arrest systems/equipment. 
+Effective control measures used to reduce the loading on the components of a tensioned lines system 
+to acceptable levels, include sharing the load across the anchor lines or using load sharing rigging. 
+Shock loading tensioned lines must be avoided. Using two descenders may be considered when 
+tensioned lines are used for work positioning or as an anchor system to prevent shock loading in the 
+event of a main line failure. 
+The IRATA safe system of work requires the application of the ‘principal of double protection’, whereby 
+there is an appropriate secondary connection to back up the technician should a single component of 
+the system fail. With a tensioned lines system, the complexity of the rigging and techniques used may 
+increase the potential for error, therefore increasing the importance of ensuring that double protection 
+is implemented within the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 14 of 17 
+26/09/2025 v001
+ 
+7 
+ANCHORS 
+The introduction of tension into a system applies a load to the anchors before any physical load is 
+suspended, because of this, loads are greater than those which would be applied by simply suspending 
+the load directly from the anchor.  
+ 
+When selecting, fitting and using anchors, the principle of double protection applies and, therefore, at 
+least two anchors should always be used (at each end of the tensioned lines system). 
+ 
+Rope access anchors should be of an adequate strength, bearing in mind the mass of the user including 
+any equipment worn or carried and any additional forces that may occur due to high rigging angles and 
+shock loading. 
+ 
+Note: Anchor strength is critical in tensioned lines systems because of the additional loads applied in these 
+systems. 
+The recommended combined static strength of anchors should be at least 15 kN, and the loading should 
+be shared between the independent anchors to reduce the likelihood of overloading. 
+It is important to establish foreseeable angles of loading (consider: multiplier effects caused by increase 
+in angles) and anticipate potential loads when designing and using an anchor system, such as tools, 
+two persons loading and shock loading. This will indicate whether any component of the tensioned lines 
+system is going to be overloaded during operational use or rescue. 
+Some descenders may slip under certain loading, allowing the rope to slip through, thereby introducing 
+slack into the system and reducing loading angles, which subsequently reduces the loading on the 
+anchors and all other components of the system. This function of the descender may help prevent the 
+tensioned line system from overloading. Check the manufacturers information to confirm if the device 
+can be used in this manner and has the required characteristics.  
+When using anchor slings to create the anchors, they should be protected at wear points, taking into to 
+consideration a change in position when the lines are loaded. Anchor slings (both man-made fibre and 
+wire) should be installed in such a manner so they won’t slide in any direction when the tension lines 
+are placed under loading. 
+Note: Anchor slings made from man-made fibres should have sewn joints and have a minimum static strength of 
+22 kN. Anchor slings made from wire rope should have a minimum static strength of 15 kN. Additional anchors, 
+other than those used in the tensioned lines systems may be required to facilitate work mate retrieval. 
+7.1 Descenders 
+Some equipment manufacturers have carried out testing and published instructions and 
+recommendations on using their descenders for tensioning tensioned lines (see Section 10). 
+Descenders should only be used for tensioning tensioned lines if recommended for such application by 
+the manufacturer.  
+Users should read the relevant documentation published by the manufacturer. Devices without available 
+information on their use in such a manner either shouldn’t be used (in tensioned lines systems) or the 
+manufacturer should be contacted for further information and guidance. 
+7.2 Anchor Lines 
+Ropes or anchor lines are subject to increased loads when used in tensioned lines systems. The loads 
+in these systems should be calculated by a competent person taking into consideration the SWL of the 
+rope and the weakening effect of the anchor line terminations or knots, when implementing measures 
+to ensure the system is safe.  
+Tests show that using a 3:1 mechanical advantage with a maximum of two persons pulling on it is 
+sufficient for tensioning and should not be exceeded. Even this setup will result in constant tension in 
+the system which applies a constant load to the components. This should not be high enough to 
+compromise the safety of the system when it is loaded by the weight of the technician. 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 15 of 17 
+26/09/2025 v001
+ 
+Too much sag in the system should be controlled by using either higher anchor points or increasing the 
+number of lines per technician to reduce rope stretch, as opposed to increasing the tension in the 
+system. 
+Backing up the lines to the anchors, behind the device used for tensioning, may be considered as a 
+failsafe in case of the failure of the tensioning device. However, the suitability and viability of this method 
+should be assessed in accordance with the manufacturer’s instructions and take into account the 
+potential loss of the ability to release the system should it be required.  
+The use of a single tensioned line system is acceptable when it is used for work restraint and the 
+possibility of a fall (shock loading) is eliminated. For all other applications a minimum of 2 ropes are 
+required per technician. When using a twin rope tensioned line system, always share the loading 
+between the lines; never only load a single line. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 16 of 17 
+26/09/2025 v001
+ 
+8 
+IRATA TRAINING AND ASSESSMENT 
+The IRATA ‘TACS’ [TC-101] syllabus (Levels 2 and 3) includes the training and assessment on the 
+theory, application and use of tensioned lines systems. This knowledge is the foundation for their on-
+site application and should provide sufficient knowledge to the candidates to enable them to set up and 
+use such systems safely outside of the training environment. 
+Instructors should explain that some devices may slip when subjected to certain loading, which can be 
+advantageous (but not without risk) when used in a tensioned lines system, as they reduce the rigging 
+angles and the loading on the components. 
+Note: It is also worth noting that this may introduce other hazards e.g. if the device doesn’t stop slipping after the 
+overload, and the work is being carried out over water, hot surface etc. than an unconscious user could be lowered 
+into a dangerous environment.  
+Instructors should emphasise the importance of reading, understanding, and adhering to the 
+manufacturer’s instruction(s)/publication(s), or the need to confirm with the manufacturer if the intended 
+use of the device is not covered within these documents. 
+Assessors should note that only devices that have manufacture’s guidance and information on their use 
+in a tensioned lines system should be used for this purpose, and diversion (misuse) from the 
+manufacturer’s instructions of use should result in a ‘Minor or Major Discrepancy’. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex T 
+ 
+© IRATA International 
+      Annex T: Page 17 of 17 
+26/09/2025 v001
+ 
+9 
+POTENTIAL 
+APPLICATIONS, 
+HAZARDS 
+AND 
+CONTROL 
+MEASURES FOR TENSIONED LINES 
+The table below provides examples of potential applications, and the associated hazards and control 
+measures of tensioned lines systems: 
+Application 
+Potential Hazard 
+Potential Control Measure 
+Anchor line system used for work 
+positioning 
+Overloading the anchors, resulting in 
+anchor failure 
+• Appropriate training and supervision of the 
+rope access team 
+• Correct selection of appropriate anchors (min 
+15kN) 
+• Effective planning 
+• Pre-use checks of the system 
+Work restraint system used for 
+travel restrictions 
+The system is set-up or used in a 
+manner that does not prevent the 
+technician from reaching the area 
+where a potential fall can occur  
+(accidental or deliberate misuse) 
+• Using the correct length of fixed lanyards or 
+correct use of adjustable lanyard to avoid areas 
+where falls may occur  
+• Effective planning – consider the stretching and 
+snagging of ropes 
+Fall arrest lifelines 
+The anchor is overloaded resulting in 
+anchor failure 
+• Use fall arrest lanyards to reduce the loading 
+on the system if a fall occurs 
+Fall arrest lifeline too low resulting in 
+an impact with the ground or a 
+structure in the event of a fall  
+• The tensioned lines should be set at shoulder 
+level or higher to reduce the fall distance 
+• Selection and use of appropriate PFPE which 
+takes clearance distance into consideration  
+Tensioned lines used for rescues 
+The tensioning device becomes 
+seized preventing the release of the 
+rope 
+• Check the manufacturer’s publication(s) about 
+falls (shock loading) on tensioned lines 
+systems 
+• Avoid overloading the tensioned lines system 
+Directional 
+guidelines 
+for 
+a 
+technician to descend or ascend 
+via another rope access system 
+Equipment failure 
+• Back up the lines of the tensioned lines 
+systems to the anchor points 
+Tensioned lines used for work 
+positioning, fall arrest, or moving 
+tools or materials 
+Equipment slippage 
+• Use releasable knots in tails, if recommended 
+/permitted by the manufacturer 
+10 REFERENCES 
+ICOP [TC-102]: 
+• 
+2.7.8.2 Device Lanyards and Anchor Lanyards 
+• 
+2.7.8.3 Anchor Slings 
+• 
+2.7.8.4 Selection Criteria for Device Lanyards, Anchor Lanyards and Anchor Slings 
+• 
+2.7.9 Anchors 
+• 
+2.11.2 The Anchor System (Anchors and Anchor Lines) 
+• 
+Annex L, L.2.6.7 Horizontal Anchor Lines 
+TACS [TC-101]: 
+• 
+6.4.12 Tensioned Lines 
+11 FURTHER READING 
+• 
+Skylotec publication: Sirius, Spark and Spark Tactical in Tyrolean Traverses 
+• 
+Petzl publication: Tensioning a Tyrolean with Maestro, ID, Rig 
+• 
+ISC Wales publication: Work and Rescue Descender User Manual 
+• 
+Personal Fall Protection Systems - EN 795 (Type C) 
+ 

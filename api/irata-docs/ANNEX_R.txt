@@ -1,0 +1,836 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice 
+for Industrial Rope Access 
+Part 3: Informative Annexes 
+Annex R: Rescue and Evacuation Planning, 
+and Considerations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© IRATA International 
+      Annex R: Page 2 of 21 
+03/10/2024 v001
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+1 INTRODUCTION 
+This annex provides information and guidance regarding the provision, planning, management, 
+documenting and successful implementation of an industrial rope access Rescue and Evacuation, 
+which includes access and egress. The principles within this annex may also be applied to planning 
+Rescues for alternative work at height operations. 
+In the UK, planning for Rescue and Evacuation is a legal requirement within the ‘Work at Height 
+regulations 2005’. This requirement is also mandatory in international standards such as ANSI/ASSP 
+Z359.2-2023 and other regional standards. 
+Industrial rope access operations and Rescues must be planned prior to commencing any rope access 
+works. The need to carry out a Rescue or Evacuation during rope access operations can result from an 
+unintended event or accident, and therefore effective rescue planning for such occurrences is essential 
+to enable a successful Rescue or Evacuation. It is further recommended that if rope access technicians 
+know and understand the rescue plan, before commencing any rope access activities, this should 
+increase the likelihood of a successful Rescue or Evacuation. 
+Note: For those who are not employed for the provision of Rescue, the application of rope access rescue techniques 
+learnt during training can be infrequent and relatively unpractised. These factors, in combination with Rescues being 
+rarely required in industrial rope access operational work and the potential lack of ongoing training and experience 
+in Rescues and Evacuations, can significantly impact the effectiveness of a Rescue. Consequently, it is 
+recommended that Rescue drills are practiced prior to starting any rope access operational activities. 
+Note: The information provided within this annex is intended as guidance and is not exhaustive. 
+Note: It is a requirement within the ‘IRATA Bye-Laws’ [QP-103ENG] to report incidents to IRATA which have 
+resulted in a Rescue being required.  
+1.1 Scope 
+The initial evaluation of intended rope access operations is important to identify which stages of work 
+may require a Rescue or Evacuation. For example, are there hazards present during access and egress 
+that would require an additional rescue plan to be in place and implemented to get an incapacitated 
+technician to a Safe Zone? Taking this into consideration, this annex is intended to assist with rescue 
+planning for ‘reasonably foreseeable’ Rescues at all operational stages. 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+© IRATA International 
+      Annex R: Page 3 of 21 
+03/10/2024 v001
+2 TERMS, DEFINITIONS & ABBREVIATIONS 
+BMU 
+Building Maintenance Unit 
+Casualty 
+person requiring Rescue 
+Collective Protection Measures 
+(sometimes referred to as 'passive') are protective 
+measures that involve the use of equipment, (e.g. 
+guard rails and air bags) to prevent or mitigate a fall 
+from height and do not rely on Personal Protection 
+Equipment (PPE) to ensure a safe system of work  
+Evacuation 
+a planned process for moving individuals from a 
+dangerous area to a specified area of safety 
+Ground Controlling 
+a method whereby applying more friction from below to 
+the working line slows the decent during Rescue and/or 
+using the working lines to assist in moving a Casualty 
+to a better landing zone 
+Hierarchy 
+the system or organisation in which the method for 
+decision making is ranked from the most, to the least 
+preferrable option 
+Intervention Rescue 
+a person to person Rescue that requires physical 
+contact and connection 
+MEWP 
+Mobile Elevated Work Platform 
+PFPE 
+Personal Fall Protection Equipment 
+PPE 
+Personal Protective Equipment 
+Safe Zone 
+designated area of safety to move a Casualty to for the 
+emergency services to takeover  
+Sentries 
+team members placed within or at exclusion zones to 
+control third party movement 
+Releasable Rigging 
+the process of rigging a working and safety line through 
+devices (usually suitable descenders) that allow for an 
+operative attached to the lines to be raised or lowered 
+using these devices 
+Rescue 
+the act of saving or being saved from danger or 
+difficulty 
+Remote Rescue      
+no requirement for a person to physically contact or 
+connect to the Casualty to move them to a Safe Zone 
+Rigging for Rescue 
+establishing a Remote Rescue system that enables 
+workmate retrieval to take place without the need for a 
+rescuer to descend or ascend to the rescue location 
+Worksite 
+the area where rope access operational work is to be 
+undertaken 
+© IRATA International 
+      Annex R: Page 4 of 21 
+03/10/2024 v001
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+R.1 Information
+‘ICOP’ 1.4.2.7.2 - “A rope access technician should endeavour always to be in a position such that, in 
+the event of an incident, they would be able to Rescue themself, or to be Rescued quickly and efficiently 
+by the work team or by a dedicated on-site rescue team.” 
+When planning a Rescue, techniques that allow for a Remote Rescue should be considered for use first. 
+Preference should be given to ‘simple’ Rescue options for both ‘on’ and ‘off’ rope requirements, followed 
+by non-intervention ‘Rigging for Rescue’/‘Releasable Rigging’ techniques. These techniques should be 
+considered as the preferred options as they allow the Casualty to be brought to the Safe Zone, without 
+the requirement for a rescuer to access the Casualty. 
+Note: Rope-based rescue techniques are utilised in all manner of scenarios such as mountains, mines, cliffs and 
+the built environment. However, when these rescue techniques are used in emergency situations by specialised 
+emergency rescue teams, they may not have the benefit of the forward planning that must be applied to industrial 
+rope access operational work. Because of this, specialised emergency rescue teams undergo extensive rescue 
+training to adapt their skills and knowledge, to enable an effective Rescue in various dynamic, unplanned and 
+unknown situations. 
+R.2 The Rescue Plan
+Within this annex is an example of a ‘Industrial Rope Access Rescue Plan’ [TP-374] template, that 
+includes the potential considerations (see Sections R.3 to R.15 for more information) to be made when 
+planning a Rescue and completing a rescue plan. 
+The potential considerations listed within this annex are non-exhaustive, and the rescue planner should 
+utilise their training, experience and knowledge to plan for ‘reasonably foreseeable’ rescues at all 
+operational stages. 
+R.3 
+Site Details
+A rescue plan should contain enough information regarding the rope access operational site to ensure 
+that in the event of an emergency:  
+•
+The site location and details can be communicated effectively to those who may be unfamiliar
+with the area.
+•
+A site Evacuation can be effectively executed. It is common for rope access operations to be
+conducted in areas that present additional challenges to a site Evacuation. An Evacuation may
+be entirely different to a Rescue as it involves the entire on-site rope access team being able to
+get to an area of safety.
+•
+There is an awareness of where the Safety Zone(s) is located.
+•
+Any specialist site access requirements are or have been communicated to the emergency
+services, such as the requirement for a 4-wheel drive vehicle, key codes or access through locked
+gates/doors and the presence of restricted spaces.
+•
+Any Worksite specific procedures are known e.g. contacting site security who will liaise with the
+emergency services.
+Note: Technicians are often in areas which may not have been considered when planning a standard Evacuation. 
+Consideration should be given to evacuating all team members to an area of safety, not just those on-rope. 
+R.4 Designated Safe Zone
+Safety Zone(s) details should be documented within the rescue plan. There may be multiple designated 
+Safety Zones depending on the type of operations being conducted and the environment, however, it 
+is important that the Safe Zone is clearly defined and known by all involved. 
+Any changes to the Safe Zone should be documented in the rescue plan and communicated to all 
+involved.  
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+ 
+© IRATA International 
+      Annex R: Page 5 of 21 
+03/10/2024 v001
+ 
+R.5 Task Description  
+The method statement or equivalent should contain information on the operational tasks to be 
+undertaken. It is important to include information in the rescue plan regarding aspects which may 
+impede or affect a Rescue, such as: 
+• 
+Equipment being used during hazardous operations, which may require isolations or other forms 
+of control or mitigation. 
+• 
+The identification of all exclusion zones, and how they will be utilised during a Rescue. 
+• 
+The requirement for Sentries in different areas and their potential role in assisting Rescues. 
+• 
+The potential risks introduced to others such as the public by repositioning Sentries during a 
+Rescue, e.g. having to leave an exclusion zone unattended. 
+• 
+The potential for other activities such as Evacuations, or lock outs/lock downs to affect a Rescue. 
+• 
+The requirement and positioning of rope protection/edge management for both operational work 
+and during a Rescue. 
+R.6  Access to and Egress from Worksite 
+The requirement for a Rescue or Evacuation may occur on the access or egress route to the Worksite. 
+As rope access operational work is frequently accessed through areas utilising work at height access 
+methods, this would require a rescue plan that incorporates any complications from those access 
+methods and any rescue requirements resulting from: 
+• 
+Access to the working area, e.g. ladders fixed or otherwise, access hatches onto roof tops and/or 
+plant rooms. 
+• 
+Any safety systems to be used to access the work site, e.g. temporary or permanent 
+vertical/horizontal fall arrest and/or restraint systems. 
+• 
+Collective Protection Measures used at the Worksite which may also have a rescue requirement, 
+e.g. fall arrest nets and/or airbags.  
+• 
+Confined or restrictive spaces which are, or maybe encountered during access and egress, or 
+any potential Rescue or Evacuation, this includes the suitability of rescue equipment, e.g. 
+stretchers and Evacuation chairs.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+ 
+© IRATA International 
+      Annex R: Page 6 of 21 
+03/10/2024 v001
+ 
+R.7  Identification and Evaluation of Potential Rescue Causes 
+ 
+A useful acronym when identifying and evaluating the potential causes of 
+a Rescue is “Rescue PETE”.  
+ 
+Applying the Rescue PETE principles enables a rescue planner to consider 
+the various potential causes of an incident that may require a Rescue.  
+ 
+ 
+ 
+Personnel – Personnel considerations should be evaluated, and a rescue plan prepared based upon 
+a Casualty being incapacitated or immobile. Assuming this may provide a useful baseline as it assists 
+with planning for ‘worst-case scenarios’. It can also be difficult to Rescue Casualties who are distressed 
+or panicked, and a relatively simple Rescue can be complicated by the Casualty attaching themselves 
+to a structure or object in panic.  
+Key personnel considerations include: 
+• 
+Illness   
+• 
+Inability (e.g. technical) 
+• 
+Injury  
+• 
+Fatigue 
+• 
+Incapacitation 
+• 
+Multiple Casualties 
+• 
+Distress  
+• 
+Uncooperative Casualty  
+Equipment – Equipment should be evaluated to identify how it may cause an incident, resulting in the 
+need for Rescue. All manner of equipment is used by technicians during rope access operational works, 
+as well as in tandem with rope access operations. Equipment may be hazardous for technicians, rescue 
+teams and/or third parties, and may cause damage to critical Personal Fall Protection Equipment 
+(PFPE). 
+Key equipment considerations include: 
+• 
+Direct injury by equipment including dropped or falling;  
+• 
+Failure or malfunction of equipment; 
+• 
+Mis-operation of equipment; 
+• 
+The requirement for specialist equipment and Personal Protective Equipment (PPE);  
+• 
+The use of equipment such as breathing apparatus or specialist clothing, may prohibit the 
+movement, vision, or effective operation of PFPE for both Casualties and rescuers; and 
+• 
+Remote shut off or isolation of equipment. 
+Note: Any additional PPE requirements for operational work may also be required for Rescue, e.g. equipment used 
+operationally to protect against hot works will be required in the event of a Rescue. 
+The planned Rescue may not require any additional equipment to that being used operationally, e.g. a 
+‘SR-1’ (see Section R.9) may be a simple pre-rigged system allowing the Casualty to be lowered straight 
+into a Safe Zone. This assumes that the Casualty is incapacitated, and that a Rescue is not a result of 
+equipment failure or damage.  
+ 
+If specialist equipment is required and specified in the rescue plan, it is important that all those who 
+may need to use it are competent to do so. 
+ 
+Note: Passive equipment such as rescue stretchers and Evacuation chairs require training and competence to be 
+used. 
+ 
+Note: The use of additional equipment may be helpful if available, but may introduce risks with unplanned use. 
+ 
+ 
+ 
+ 
+ 
+Personnel   
+Equipment  
+Third party 
+Environment
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+ 
+© IRATA International 
+      Annex R: Page 7 of 21 
+03/10/2024 v001
+ 
+Third Party – The actions of third parties that are not directly involved in the rope access operational 
+works should be considered, as they may be the cause of an incident which necessitates a Rescue 
+and/or may impede the effectiveness of a Rescue. 
+ 
+Key third party considerations include:  
+• 
+Malicious acts, e.g. third party’s interfering with and/or damaging PFPE;  
+• 
+Operational cross over, e.g. a third party operating machinery involved in the rope access 
+operation such as a crane or hoist; 
+• 
+Direct action, e.g. a third party’s unintentional movement of equipment, dropping objects, power 
+or lighting shutdowns, or closing a window or door which was be intended for access and egress; 
+• 
+Third party emergency procedures, e.g. smoke venting, fire doors and isolations; and 
+• 
+Parallel operations e.g. welding sparks, chemical spills. 
+ 
+Environment – Consideration should be given to environmental hazards present or occurring within 
+the operational environment, which necessitates a Rescue and/or may impede the effectiveness of a 
+Rescue.  
+Note: Industrial rope access is utilised within (or above in the case of water) most conceivable hazardous working 
+environments.  
+Key environmental considerations include: 
+• 
+Weather conditions 
+• 
+Physical environment complexity  
+• 
+Structural stability 
+• 
+Slippery surfaces 
+• 
+Fragility   
+• 
+Lighting and visibility 
+• 
+Atmospheric e.g. gas, radiation, 
+flammable and toxic) 
+• 
+Temperature extremes, which are not 
+always weather related 
+• 
+High voltage e.g. power lines, 
+rail tracks and buzz bars 
+• 
+Works over water 
+• 
+Rock fall and subsidence 
+Note: Environmental factors to be considered during rescue planning may be different to those considered during 
+the planned operational works. An environmental change which triggers the suspension of work, should be factored 
+into the rescue plan, e.g. if works are suspended because the wind speed increases to an unacceptable level, or 
+there is a power failure and mains lighting is lost.  
+Note: Not all environmental changes are foreseeable, and some may result in hindrance or termination of a planned 
+Rescue. However, the more consideration that is given to these factors at the planning stage, the greater the 
+likelihood of an effective Rescue.     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+ 
+© IRATA International 
+      Annex R: Page 8 of 21 
+03/10/2024 v001
+ 
+R.8  Rescue Categorisation & Types 
+To determine the most appropriate planned Rescue, it is recommended that the rescue is categorised 
+according to whether it is a ‘Remote Rescue’ or ‘Intervention Rescue,’ and then the rescue type 
+identified according to whether it is, ‘simple’ or ‘complex’, as detailed below: 
+Remote Rescue 
+A Rescue that is facilitated using rope access techniques and/or equipment 
+and does not require physical contact or connection with the Casualty to 
+move them to a Safe Zone. 
+Remote Rescues can be further characterised into ‘Simple’ and ‘Complex’ 
+rescue types: 
+• 
+Simple - simple lowering system, e.g. a pre-rigged system to attach to 
+and lower a Casualty to a Safe Zone (see Section R.9, SR-1). 
+• 
+Complex - hazards exist that require specialist training and/or 
+equipment to perform an effective Rescue, e.g. Mobile Elevated Works 
+Platforms (MEWPs), Mast climbers or powered access and Building 
+Maintenance Units (BMUs) (see Section R.9, CR-3). 
+Intervention Rescue 
+A Rescue that is facilitated using rope access techniques and/or equipment, 
+that does require physical contact or connection with the Casualty to move 
+them to a Safe Zone. 
+Intervention Rescues can be further characterised into ‘Simple’ and ‘Complex’ 
+rescue types. 
+• 
+Simple - minimal amount of time, equipment, personnel and 
+competency e.g. descent Rescue from descender separate ropes 
+(IRATA Level 1 Rescue). See Section R.9, SI-2. 
+• 
+Complex - increased requirement of technical competency, knowledge 
+and skills (IRATA Level 2 & 3). See Section R.9, CIR-4. 
+Note: The categories above are based on the IRATA ‘TACS’ [TC-101] syllabus. 
+The ‘Figure 1: Rescue categorisation flowchart’ may be used to assist with determining the most 
+suitable rescue categories and types. 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+© IRATA International 
+ Annex R: Page 9 of 21 
+03/10/2024 v001
+Figure 1: Rescue categorisation flowchart 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+ 
+© IRATA International 
+     Annex R: Page 10 of 21 
+03/10/2024 v001
+ 
+R.9  Hierarchy of Rescue Types 
+This section details the elements to be considered when determining the Hierarchy position of the 
+chosen rescue types. 
+ 
+As with the application of the ‘Work at Height Hierarchy’, preference should be given to the simplest 
+rescue type which presents the lowest risk. Whilst it is not always practicable to utilise these rescue 
+types, applying the Hierarchy to decision making during rescue planning, demonstrates that 
+consideration has been given to the suitability of the preferred rescue type. Justification can then be 
+provided for selecting alternative rescue types. 
+Note: Illustrations within this section are provided as examples of the rescue type and are not intended for training 
+purposes or as an example of a required technique. 
+• 
+Simple Remote Rescue (SR-1) 
+ 
+This Rescue utilises rigging methods and devices that allow an operative to access the working area. 
+In the event of a Rescue a suitably trained person(s) can control the Casualty’s descent to a Safe Zone. 
+ 
+ 
+Figure 2. An illustrative example of a simple Remote Rescue 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+ 
+© IRATA International 
+     Annex R: Page 11 of 21 
+03/10/2024 v001
+ 
+• 
+Simple Intervention Rescue (SI-2) 
+ 
+This Rescue method allows a rescuer to access the Casualty using a separate set of ropes. The rescuer 
+will establish suitable connection points to the Casualty before transferring either the Casualty on to the 
+rescuer system, or the rescuer onto the Casualty’s system, before descending to a Safe Zone. 
+ 
+ 
+ 
+ 
+ 
+Figure 3. An illustrative example of a simple Intervention Rescue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+ 
+© IRATA International 
+     Annex R: Page 12 of 21 
+03/10/2024 v001
+ 
+• 
+Complex Remote Rescue (CR-3) – Outside of IRATA Certification 
+ 
+These rescue methods utilise additional equipment and techniques to manoeuvre a Casualty to a Safe 
+Zone, without on-rope person to person intervention. 
+ 
+Note: A complex Remote Rescue may be considered preferential to other rescue types as ropes are not required, 
+however, in this Hierarchy it is not considered preferable as it does not fall within the IRATA ‘TACS’ [TC-101] 
+syllabus, and therefore additional work at height training and competencies may be required for the implementation 
+of the rescue plan outside of the IRATA ‘TACS’ [TC-101] syllabus. 
+ 
+ 
+ 
+Figure 4. An illustrative example of a complex Remote Rescue using a MEWP 
+ 
+ 
+Figure 5. An illustrative example of a complex Remote Rescue using a remotely operated winch 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+ 
+© IRATA International 
+     Annex R: Page 13 of 21 
+03/10/2024 v001
+ 
+• 
+Complex Intervention Rescue (CIR-4) 
+ 
+In this Rescue scenario the rescuer uses the existing rigging to access the Casualty, then uses additional equipment and techniques to manoeuvre the Casualty 
+to the Safe Zone. 
+ 
+ 
+ 
+Figure 6. An illustrative example of a complex Intervention Rescue 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+ 
+© IRATA International 
+       Annex R: Page 14 of 21 
+  03/10/2024 v001
+ 
+R.10 Rescue Procedure  
+The rescue procedure should contain clear instructions detailing the rescue method to be used and 
+under what circumstances. The procedure should be understood by all persons required for the Rescue. 
+Diagrams and images may be useful for providing clarity.  
+ 
+Team Requirements 
+ 
+Knowing the type of rescue provides information that assists with determining rescue team 
+requirements e.g. competencies and resources. 
+ 
+• 
+Team Competency - Competency requirements can be ascertained by reviewing the techniques 
+and equipment that are required to carry out the Rescue. The required techniques may be simple 
+as per an IRATA Level 1 Rescue, or more complex as per an IRATA Level 3 Rescue. If the 
+rescue plan utilises rescues techniques taught as per the IRATA ‘TACS’ [TC-101] syllabus, then 
+an IRATA technician’s certification level is a good indication of previous training and some 
+experience. This may be a suitable starting point for the allocation of roles and responsibilities 
+within the rescue team. 
+  
+• 
+Personnel Resource - When determining the team size, the rescue planner should consider all 
+team members and their roles and responsibilities. An example of this would be an ‘SR-1’ Rescue 
+(see ‘R9 Hierarchy of Rescue Types’), which may only require a second technician to lower a 
+Casualty into a Safe Zone below, but circumstances may also require a third person to manage 
+the Casualty at ground level. 
+ 
+Note: Whilst an SR-1 Rescue may be preferred as no intervention is required, Casualty management may be 
+difficult for a two-person team and therefore, careful evaluation of resource is required.  
+R.11 Roles and Responsibilities 
+Assigning roles and responsibilities to rescue team members is important to minimise confusion in the 
+event of a Rescue. The more complex the planned Rescue, the greater the need for clearly defined 
+roles and responsibilities. It is important to be aware that a technically simple Rescue may be more 
+complex due to other considerations such as weather, access and location.  
+ 
+It may be useful to define the following roles and responsibilities: 
+• 
+Rescue Team Supervisor(s) 
+• 
+Rescuer(s) 
+• 
+Equipment Operator(s) 
+• 
+Sentries 
+• 
+Person(s) responsible for emergency communication 
+• 
+First Aider(s) 
+ 
+Note: A two-person team may be working in tandem with a rescue plan in place, to enable them to rescue each 
+other, if required. 
+R.12 Communication Roles and Types 
+Establishing methods of communication for Rescues is essential for minimising confusion and delays. 
+ 
+Communication types may be separated into primary, secondary and tertiary if required: 
+Primary  
+direct verbal or non-verbal communication between the rescue team during a Rescue, 
+which may involve the use of radios and hand signals.  
+ 
+Secondary 
+communication between site personnel that are not directly involved in the Rescue, and 
+the emergency services (if required). 
+ 
+Tertiary 
+direct communication between the rescue team and the emergency services during a 
+Rescue. 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+ 
+© IRATA International 
+       Annex R: Page 15 of 21 
+  03/10/2024 v001
+ 
+R.13 Designated Anchors  
+When planning a Rescue consideration should be made regarding the anchors to be used. The anchors 
+may already be established for the rope access operation or may require installation. In such instances 
+installed anchors should only be used as specified in the rescue plan. 
+Note: If different anchors are required for work and Rescue, this should be highlighted within a rigging plan. 
+ 
+When planning a Rescue, consideration should be given to the potential change in loadings and anchor 
+related issues that may occur during a Rescue. Consideration should be made for: 
+• 
+Increased loading on anchors for a two-person Rescue. 
+• 
+Increased loading on a tensioned system e.g. a directional tensioned line, being used to direct a 
+Casualty and potentially a rescuer, to the Safe Zone. 
+• 
+Deployed fall arrest anchors and devices e.g. some fall arrest posts may be used as rescue 
+anchors after deployment. 
+• 
+Suitability of temporary anchor systems for Rescue, e.g. using a weighted davit arm or trolley, 
+which should be rated for a two-person Rescue load if required. 
+• 
+Increased friction loads e.g. lowering or raising a Casualty over an edge with appropriate rope 
+protection/edge management in place.  
+• 
+The need for Ground Controlling. 
+• 
+Location of anchors in relation to the most effective rescue method, e.g. rigging a second set of 
+ropes to move a Casualty effectively to a Safe Zone. 
+R.14 First Aid Provision 
+First aid requirements must be identified in a first aid needs analysis. This ensures that adequate first 
+aid provisions are available in terms of the required competent personnel, resources and equipment.  
+First aid requirements may vary depending on factors, such as the remoteness of the location and the 
+complexity of access and egress. For example, the requirement for first aid training, certification and 
+equipment for a team working in a remote location with complex access, would be greater than that of 
+a team working on a simple task, which is easily and quickly accessible by the emergency services. 
+When carrying out a first aid needs analysis, the following should be considered: 
+• 
+The operation being carried out e.g. hot works would require specific first aid kits. 
+• 
+Working in remote and complex locations may increase the competency requirement of on-site 
+First Aiders to a higher level. 
+• 
+First aid kits: 
+- 
+Are personal on harness first aid kits required? 
+- 
+Are team kits suitable if available at the Worksite? 
+- 
+Do first aid kits need to be available in more than one location? 
+• 
+How many first aiders are required in the team? For example, a potential hazard would be a small 
+team, where the only First Aider is carrying out the operational works and is putting themselves 
+at a greater risk of requiring Rescue and potential first aid. 
+R.15 Other Considerations 
+R.15.1 Rescue Preparation 
+Whilst it may be very unlikely that a Rescue will be required, ensuring the rescue team and all involved 
+are prepared in advance, may be critical to its effectiveness. For example, the time taken to locate 
+equipment and put on harnesses may be valuable time wasted in the event of a Rescue and this may 
+lead to confusion and mistakes. Rescue drills and demonstrations can be beneficial in ensuring each 
+team member is confident in what is required of them, this is especially relevant for complex Rescue 
+scenarios. 
+Note: During operational works the rescue team should always be prepared e.g. if all the required team members 
+are unavailable, then operations should cease and the Recue plan should be updated accordingly. An accident 
+may occur at any time, which requires a swift planned response. All rescue team members must be prepared and 
+ready to act, continuously throughout the full period of operations. 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex R 
+© IRATA International 
+ Annex R: Page 16 of 21 
+ 03/10/2024 v001
+R.15.2 Deviation from the Rescue Plan
+Rope access operational work may be subject to change due to weather conditions, resource or 
+environmental changes etc. In such instances, the likelihood of a Rescue being required may remain 
+unchanged, but the likelihood of a Rescue being effective may decrease significantly. 
+Note: It is important to remember that if on site changes will affect a rescue plan, then work should be stopped 
+whilst the plan is updated, and everyone involved is made aware of the changes. Short notice, short duration and 
+the unlikeliness of a rescue being required are not acceptable reasons for not having an effective rescue plan in 
+place. 
+Doc. No.: TP-374ENG 
+INDUSTRIAL ROPE 
+ACCESS RESCUE PLAN 
+TEMPLATE 
+Date of Issue: 19/09/2024 
+Issue No.: 001 
+Page 1 of 5 
+R3. Site Details 
+Address 
+Site specific 
+requirements 
+(e.g. 4-wheel drive 
+vehicle, site security, 
+site emergency 
+contacts, key codes 
+or access through 
+locked gates/doors 
+and the presence of 
+restricted spaces) 
+R4. Designated Safe Zone 
+R5. Task Description (brief description of operational work) 
+R6. Access and Egress from Worksite (requiring inclusion in the rescue plan) 
+R7. Identification and Evaluation of Potential Rescue Causes 
+Personnel 
+Equipment 
+Third Party 
+Environment 
+UNCONTROLLED WHEN PRINTED
+Doc. No.: TP-374ENG 
+INDUSTRIAL ROPE 
+ACCESS RESCUE PLAN 
+TEMPLATE 
+Date of Issue: 19/09/2024 
+Issue No.: 001 
+Page 2 of 5 
+R8. Rescue Categorisation & Types (tick as applicable) 
+Remote 
+Intervention 
+R9. Hierarchy of Rescue Types (tick as applicable) 
+Simple Remote 
+SR-1 
+Simple Intervention 
+SI-2 
+Complex Remote 
+CR-3 
+Complex Intervention 
+CIR-4 
+R10. Rescue Procedure(s) (step-by-step instructions/diagram) 
+Required 
+Competency for 
+Rescue 
+Level 1 
+Level 2 
+Level 3 
+Rescue Team 
+Size (number) 
+R11. Roles and Responsibilities (e.g. rescue team lead’s, rescuer(s), equipment operator(s), sentry(s)) 
+UNCONTROLLED WHEN PRINTED
+Doc. No.: TP-374ENG 
+INDUSTRIAL ROPE 
+ACCESS RESCUE PLAN 
+TEMPLATE 
+Date of Issue: 19/09/2024 
+Issue No.: 001 
+Page 3 of 5 
+R12. Communication Roles and Types (emergency communications) 
+Primary 
+Secondary 
+Tertiary 
+R13. Designated Anchors 
+UNCONTROLLED WHEN PRINTED
+Doc. No.: TP-374ENG 
+INDUSTRIAL ROPE 
+ACCESS RESCUE PLAN 
+TEMPLATE 
+Date of Issue: 19/09/2024 
+Issue No.: 001 
+Page 4 of 5 
+Rescue 
+Equipment 
+(include specialist 
+equipment such as 
+breathing apparatus 
+and passive 
+equipment such as 
+evacuation chairs 
+and rescue 
+stretchers) 
+Equipment 
+Specific Requirement 
+R14. First Aid Provision 
+R15. Other Considerations 
+UNCONTROLLED WHEN PRINTED
+Doc. No.: TP-374ENG 
+INDUSTRIAL ROPE 
+ACCESS RESCUE PLAN 
+TEMPLATE 
+Date of Issue: 19/09/2024 
+Issue No.: 001 
+Page 5 of 5 
+Rescue Team Acknowledgement of Rescue Plan 
+Role 
+Name (print) 
+Signature 
+Date (dd/mm/yyyy) 
+UNCONTROLLED WHEN PRINTED

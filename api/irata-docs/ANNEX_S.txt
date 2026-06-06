@@ -1,0 +1,612 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice  
+for Industrial Rope Access 
+Part 3: Informative Annexes 
+Annex S: Working Over Water 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex S 
+ 
+© IRATA International 
+Annex S: Page 2 of 10 
+    03/10/2024 v001
+ 
+ 
+1 INTRODUCTION 
+1.1 Scope and Purpose 
+Many industries and regions utilise rope access methods as an effective and appropriate means of 
+access and egress when conducting operational works over water (any activity conducted on or above 
+a body of water e.g. river, lake, sea or ocean). Regardless of the location that works are being conducted 
+e.g. offshore on an oil platform into the sea, or onshore from a bridge into a river, the primary hazard 
+remains unchanged, that being a fall from height into water, with the added risk of drowning. Taking this 
+into consideration, working safely over water may require additional permits, environmental awareness, 
+and specific safety measures, equipment and training due to the inherent risks associated with the 
+environment.  
+ 
+This annex provides information and guidance on conducting industrial rope access works over water 
+and is intended to assist with identifying associated hazards, risks and controls, and highlights the 
+requirement for additional equipment and permits. 
+ 
+The information provided within this annex is intended as guidance and is non-exhaustive. 
+ 
+Note: For further guidance refer to the relevant specialist publications listed in Section S.12.   
+2 TERMS, DEFINITIONS & ABBREVIATIONS 
+EIA  
+Environmental Impact Assessment 
+Exclusion Zone 
+designated area around a site or structure where entry is restricted 
+or prohibited to ensure safety of the workers and third parties   
+GFCI                                                  Ground Fault Circuit Interrupter 
+PFD 
+Personal Flotation Device 
+PFPE 
+Personal Fall Protection Equipment 
+PLB 
+Personal Locator Beacon  
+PPE                                                    Personal Protective Equipment 
+SAR 
+Search and Rescue 
+Splash Zone 
+refers to a specific area that is intermittently exposed to water due 
+to waves and spray 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex S 
+ 
+© IRATA International 
+Annex S: Page 3 of 10 
+    03/10/2024 v001
+ 
+S.1 Water Characteristics and Safety Considerations  
+Prior to commencing works over water it is important to conduct a risk assessment, taking into 
+consideration the potential hazards and characteristics of the water being worked over, thereby enabling 
+the identification of appropriate controls to be implemented. The table below lists potential hazards and 
+water characteristics and their associated safety considerations: 
+Potential Hazards & 
+Water Characteristics 
+Safety Considerations 
+Depth 
+Working over water of any depth requires a rapidly implementable rescue 
+plan, due to the high potential of drowning. Even in relatively shallow water, 
+this hazard may be increased due to the additional weight of Personal Fall 
+Protection Equipment (PFPE), tools and equipment associated with rope 
+access operational works. 
+Temperature 
+Sudden immersion into cold water may cause a spike in heart rate and blood 
+pressure, which may increase the risk of heart failure or stroke in some 
+casualties. Commonly, sudden immersion into water can cause a casualty 
+to panic, stress and hyperventilate, with continued exposure being likely to 
+impair a casualty’s movements, thinking and decision-making abilities. 
+Buoyancy 
+Historically, tests have demonstrated that highly aerated water (also known 
+as white or non-buoyant water), has differing effects on a casualty’s ability 
+to stay at the surface of the water. Findings also indicate that air becoming 
+trapped in a casualty’s clothing may help keep them at the surface, however, 
+highly aerated water has less resistance when a casualty tries to swim or 
+orient themselves within it; this continuous water movement and increased 
+effort will make it difficult for a casualty to become or remain calm. 
+Flow rate 
+Fast flowing water of relatively shallow depths can cause a casualty to lose 
+footing and be swept along with the current, which may hamper a rescue as 
+the location of the casualty may change very quickly. The risk of 
+entanglement also increases with more movement. 
+Tides/Currents 
+Tides and currents should be considered when attempting to anticipate the 
+movement and direction of a casualty who enters the water, e.g. the 
+positioning of a rescue boat in a location that facilitates a rapid rescue as per 
+the tide or current. 
+Contaminants 
+There may be risks associated with contaminants within the water, which 
+would require a separate risk assessment and appropriate controls. 
+Examples of risks include, waterborne diseases, Weil’s disease, stagnant 
+water, and certain types of algae which present known health risks. 
+Marine traffic 
+If the worksite (e.g. a bridge) is over a navigable waterway, prior to 
+commencing work consent may need to be acquired from the relevant 
+navigational authority to proceed, ensuring that the works will not obstruct 
+waterway navigation and will not compromise the safety of others and the 
+rope access technicians (e.g. dropped objects, rope entanglement etc.). 
+Offshore wind farms, and oil and gas installations coordinate with various 
+authorities, e.g. coast guard, International Maritime Organisation etc. and 
+are required to comply with international and national regulations, to notify 
+marine traffic about their respective offshore installations. 
+Flooding 
+Tidal rivers experience the effects of the tide from the ocean (rise and fall 
+with the ocean tides, typically twice a day). The direction of the river's flow 
+may reverse during incoming tide and be accompanied with a rise of the 
+water level (flood). Such changes in conditions should be considered in the 
+risk assessment, method statement and rescue plan when working over tidal 
+rivers. 
+Other hazards 
+Submerged obstacles which may be struck or result in entanglement. 
+Dangerous wildlife will need to be considered in certain regions. 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex S 
+ 
+© IRATA International 
+Annex S: Page 4 of 10 
+    03/10/2024 v001
+ 
+S.2 Tools and Equipment 
+Risk assessments should consider the risks associated with using tools, equipment and materials over 
+and around water, including the potential for contaminants (e.g. oils, paints, chemicals etc.) to be 
+introduced to the water and their impact on wildlife. Controls and emergency containment plans should 
+be considered to ensure that there is no or minimal impact to the environment from contaminants, in 
+line with local and international regulations.  
+Considerations to help minimise equipment risks to personnel should include: 
+a) 
+Limiting the amount of equipment 
+Reducing the amount of weight that is directly attached to the technician, will decrease the buoyancy 
+requirement that is needed, to keep a technician at the surface, having entered the water. An example 
+of this would be ensuring that where practicable any tools and equipment not related directly to the 
+technician’s PFPE are suspended independently of the technician.  
+b) 
+Control of ropes and lanyards 
+Ropes and lanyards either trailing in the water or attached to a technician may result in entanglement 
+during operations or in the event that they enter the water. The use of ropes and lanyards should be 
+given due consideration during risk assessment to ensure appropriate control measures are put in 
+place, e.g. keeping ropes bagged when working above water may prevent potential entanglement and 
+could provide a buoyant connection to a technician entering the water. However, the use of a rope bag 
+may result in additional weight that is not buoyant being connected to the technician, thereby increasing 
+the risk of being pulled under water.  
+c) 
+Using power tools near water 
+Water and especially salt water are effective at conducting electricity, therefore using power tools near 
+water can be hazardous e.g. electric shock, short circuits, tool malfunction, burns and explosions. The 
+additional risks of using power tools near water should be considered during risk assessment and 
+mitigated against in preparation for the project. 
+List of considerations (non-exhaustive): 
+• 
+corded (240V/110V) or cordless tools; 
+• 
+Ground Fault Circuit Interrupter (GFCI) or equivalent should be used. GFCI outlets/breakers can 
+detect electrical faults and shut off power to prevent a potential electrical shock; 
+• 
+water-resistant or outdoor rated tools; 
+• 
+power cords, plugs and electrical connections to be insulated (protected against water access) 
+and undamaged; and 
+• 
+appropriate PPE. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex S 
+ 
+© IRATA International 
+Annex S: Page 5 of 10 
+    03/10/2024 v001
+ 
+S.3 Personal Life-saving Appliances 
+A life jacket is designed to turn an unconscious person face up in the water, while a buoyancy aid is 
+designed to assist a conscious person to swim to safety. This must be considered when selecting the 
+right equipment for the task. 
+Note: The minimum of 275N buoyancy, twin chamber life jacket with ‘crotch’ straps may be a requirement on 
+commercial offshore installations. This is to take the extra weight e.g. tools and harness, into consideration to 
+ensure the casualty remains positively buoyant and to stop the life jacket from slipping over the wearer’s head 
+when entering the water. 
+Personal Flotation Device (PFD) 
+Offshore installations, oil and gas, offshore wind and the marine industry have specific requirements for 
+PFDs. 
+There are PFDs available which are designed and manufactured to be used in conjunction with PFPE. 
+Whilst the use of PFDs is not mandatory in certain industries, it is recommended that the use of life 
+jackets for working over water, and their compatibility with PFPE should be assessed to determine their 
+requirement and suitability for their intended use. Additionally, the decision to not use PFDs when 
+working over water requires assessment and justification. 
+Standards 
+It is important to check the PFD requirements when preparing for a project, and when being issued 
+with one, to ensure it meets site and local requirements, such as those defined by the: 
+• 
+International Maritime Organisation (IMO, SOLAS) 
+• 
+International Organisation for Standardisation (ISO) 
+• 
+European Union (EN) 
+• 
+United States Coast Guard (USCG) 
+ 
+Note: The above list is not exhaustive. 
+Note: SOLAS (International Convention for the Safety of Life at Sea, 1974), Chapter III ‘Life-saving appliances and 
+arrangements’ includes information on the requirements for life-saving appliances and arrangements, including life 
+jackets according to ship type.  
+Personal Locator Beacons (PLBs) 
+PLBs are devices to be equipped with when working at open sea. The purpose of the PLB is to aid with 
+locating a casualty if they fall into water. It is important to ensure that the PLB is ‘armed’ when first 
+received, and to check the battery status regularly (for further guidance on how to do this, refer to the 
+manufacturer’s instructions or ask the supervisor). 
+S.4 Suitable Clothing for Working Over and Around Water 
+Working over and around water can have its own environmental challenges. Working on bridges, dams 
+and offshore installations can often leave a technician more exposed to the elements than in an urban 
+environment. The extra elements of exposure include: 
+• 
+the ambient temperature given by the weather forecast or measured at ‘ground’ level may not 
+be representative of the perceived temperature at height, due to wind chill, humidity and even 
+radiation from the water. This factor should be considered when selecting appropriate clothing 
+for the task being conducted. 
+• 
+working within the Splash Zone refers to working in a specific area, that is intermittently exposed 
+to water due to waves and spray. Wet clothing can significantly increase the risk of hypothermia 
+and negatively affect a technician’s ability to concentrate. Waterproof clothing should be worn 
+when working in or near the Splash Zone. 
+Note: Working in the Splash Zone may introduce other risks and hazards, e.g. using power tools in a wet 
+environment, slippery structures and surfaces, and non-fatal/secondary drowning etc. 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex S 
+ 
+© IRATA International 
+Annex S: Page 6 of 10 
+    03/10/2024 v001
+ 
+S.5 Locating a Casualty in the Water in Low Light Conditions or Reduced 
+Visibility 
+To locate and recover a casualty from the water during the hours of darkness or in reduced visibility is 
+challenging and can take considerably longer than during the daytime and under normal visibility, 
+therefore increasing the risk of hypothermia, being swept away or into a structure, or losing sight of the 
+casualty in the water. Working over water in such conditions should be avoided, where possible, 
+however, when unavoidable extra safety measures should be taken, such as: 
+• 
+using personally issued water activated lights; 
+• 
+illuminating the immediate surrounding water surface; 
+• 
+the issuing and correct use of a PLB by the technician; 
+• 
+assigning a designated lookout/spotter; 
+• 
+the implementation of a robust Search and Rescue (SAR) procedure and collaboration with local 
+SAR teams; and 
+• 
+conducting regular head counts. 
+S.6 Exclusion Zones & Marine Traffic  
+When working at height, a suitable Exclusion Zone below the work area should be present. Offshore 
+sites and installations can implement Exclusion Zones when working over water, to stop unauthorised 
+vessels from entering the area. The size and duration of the Exclusion Zone should be communicated 
+over the radio to all the vessels operating in the area. Working over inland waters can make 
+implementing an Exclusion Zone challenging, or even impossible if marine traffic cannot be disrupted. 
+In such cases other safety measures e.g. safety netting, may be implemented to protect third party 
+personnel, vessels, and rope access technicians and their anchor lines. 
+Note: An Exclusion Zone may be a third-party requirement or could be requested by the operating company. The 
+need for an Exclusion Zone should be considered during the risk assessment. 
+S.7 Permit Requirements  
+Working over water operations may require multiple permits, from multiple authorities. These 
+requirements should be assessed in the planning stage of the project and work should only commence 
+when all the required permits are issued, to avoid fines and delays in the project.  
+Permit requirements may vary in different countries and regions. Below are examples of permit 
+requirements and types: 
+• 
+Environmental Impact Assessment (EIA): As a prerequisite to obtaining a permit and 
+depending on the scope of work, an EIA may be required to evaluate potential environmental 
+impacts and control measures. 
+• 
+Permits for water and wetlands: If a bridge spans over water bodies or wetlands, permits may 
+be required to ensure the protection of aquatic ecosystems. 
+• 
+Marine permits: When a bridge spans over navigable waters, permits may be required from 
+maritime authorities to ensure that marine traffic is not disrupted (see Section S.1). 
+• 
+Permit to Work: This type of permit system is commonly used and is a mandatory requirement 
+for high-risk activities in the oil and gas industry. The offshore wind industry also requires a 
+specific permit system to gain access to assets and to operate on them.  
+Note: For further information and guidance on Permits to Work refer to the ICOP, Sections 2.2.4.5, 2.11.7.1, 
+2.11.7.6, and 2.11.14. 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex S 
+ 
+© IRATA International 
+Annex S: Page 7 of 10 
+    03/10/2024 v001
+ 
+S.8 Overboard Procedures and Standby Rescue Vessels 
+When working over water at a remote offshore location, a standby rescue vessel should be present or 
+in the vicinity, to provide assistance and enable the retrieval of a casualty from the water. Additionally, 
+in case of a rope access rescue scenario, a rescue party may abseil straight onto the standby rescue 
+vessel without entering the water, therefore reducing the risk of drowning.   
+If using a standby rescue vessel on moving water, such as a river, the type used should be suitable for 
+the water characteristics. All involved personnel need to know how to act in an emergency, how to raise 
+the alarm and what their role is during a rescue. 
+For rescues using a standby vessel, further considerations include: 
+• 
+the requirement for additional training, e.g. sea survival; 
+• 
+the delivery of a toolbox talk covering the rescue plan, procedures and roles; and 
+• 
+establishing effective coordination and communication with the standby rescue vessel crew.  
+ 
+In moving water such as rivers, a standby vessel may not be a viable option due to the nature of the 
+water or associated costs.  Therefore, other feasible options should be considered to retrieve a casualty 
+from the water, such as deploying a brightly coloured and buoyant throw line to retrieve the casualty, or 
+the use of a grab line that can be tensioned downstream of the worksite for self-rescue purposes. 
+Suitable rescue methods should be considered and selected during planning. 
+S.9 The Effects of Water on Rope Access Equipment 
+The concentration of water vapor in the air (humidity) is closely related to the distance from bodies of 
+water. Meaning the air over or near water is more humid than in-land. Sea water introduces higher salt 
+content into the air (sea salt aerosol), which can have detrimental effects on rope access equipment 
+that is submerged in, or used or stored in close proximity. For example, salt crystals can cause physical 
+abrasion on the surface or inside manmade fibres, therefore affecting anchor lines (ropes), harnesses 
+and fabric slings etc.  
+The table below details the effects of water and salt water on materials used in rope access equipment: 
+Material 
+Potential effects of water on the material 
+Nylon 
+salt can catalyse the hydrolysis of nylon, especially under humid conditions, 
+leading to breakdown of polymer chains and a loss of strength 
+Polyester 
+relatively resistant to the chemical effect of salt; however, salt can accelerate the 
+degradation caused by UV exposure 
+Metals 
+water, moisture in the air, and salt can cause corrosion of metal items and 
+components of rope access equipment, leading to deterioration in strength and/or 
+performance 
+Steel 
+the accumulations of salt residues on steel surfaces or being in high humidity 
+conditions can promote corrosion of steel surfaces 
+Stainless steel 
+is resistant to corrosion due to an oxide layer on its surface. However, the oxide 
+layer can be compromised under mechanical stress or by damage, exposing the 
+steel underneath, allowing a route for corrosion to occur due to the accumulation 
+of salt residue and/or exposure to high humidity 
+Aluminium and 
+aluminium alloys 
+are resistant to corrosion due to an oxide layer on its surface. However, the oxide 
+layer can be compromised under mechanical stress or by damage, exposing the 
+material underneath, allowing a route for corrosion to occur due to the 
+accumulation of salt residue and/or exposure to high humidity 
+ 
+It is important to conduct regular checks of materials for pitting, uneven or rough surfaces, 
+discolouration, and changed or restricted functionality of metal items. 
+ 
+Discolouration and hardened or softened webbing of manmade fibres may be an indication of 
+contamination or damage.  
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex S 
+ 
+© IRATA International 
+Annex S: Page 8 of 10 
+    03/10/2024 v001
+ 
+Reducing the time between thorough examinations of equipment and/or interim inspections may enable 
+the early detection of corrosion or deterioration that, if mitigated against can prevent an incident. Having 
+a scheduled equipment cleaning and maintenance regime can prevent against salt accumulation. 
+Additionally, suitably environmentally controlled equipment storage spaces may provide an effective 
+method for reducing the exposure to and detrimental effects of water, when equipment is not in use. 
+S.10 Rescue Planning and Requirements 
+Rescue from a working over water situation can be complex and requires extra considerations and 
+preparation. ‘Rescue down’ is considered to be best practice and the most efficient way to get a casualty 
+to safety, whether by means of a lowering system or a simple intervention rescue. However, this may 
+not be a viable option in situations where moving water presents additional challenges, such as the 
+current moving too fast for a rescue vessel to safely manoeuvre under a casualty, too shallow for it to 
+operate and/or the local marine authority does not permit the use of the vessel due to marine traffic in 
+the area. In such cases, rescue hauling or the diagonal deviation of the casualty when lowered should 
+be considered as a means of rescue. 
+When compared to urban locations, working over water can increase exposure to the elements, which 
+should be considered when planning for the protection of technicians against environmental conditions 
+(see Section S.4). Exposure to environmental conditions may have negative effects on the affective 
+implementation of a rescue plan, and this must be considered during the risk assessment and when 
+setting environmental limits in documents.  
+Environmental considerations for rescue planning should include: 
+• 
+the maximum workable wind speed considering a rescue;  
+• 
+the effects of wind gusts on a rescue; 
+• 
+the effects of wind shear on a rescue, and how it is related to the structure; and 
+• 
+the effects of changing wind direction (natural or on the structure) on a rescue. 
+Note: More guidance can be found in Annex R: Rescue and Evacuation Planning and Considerations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex S 
+ 
+© IRATA International 
+Annex S: Page 9 of 10 
+    03/10/2024 v001
+ 
+S.11 Disembarking or Transferring  
+Some examples of fixed structures in water include wind turbines, substations, meteorological masts 
+and oil and gas platforms. Due to being exposed to harsh weather conditions, these structures require 
+regular maintenance.  
+Rope access is often used on installations as the preferred method of working at height and boats and 
+vessels are commonly used as means of transportation to such structures. Once the destination is 
+reached, technicians will have to transfer from the vessel onto the structure to carry out rope access 
+works. Transfer of technicians to and from the structure is considered a high-risk activity, that requires 
+adequate risk assessment and documented procedures. Personnel involved in such operations should 
+be physically fit, well rested and may require additional offshore operations related training.  
+Boats and vessels, like any other vehicle or machine, can break down or get damaged during operation. 
+When a vessel breaks down or gets seriously damaged, technicians may be required to transfer over 
+to another vessel. A vessel-to-vessel transfer is a high-risk activity and should be considered as a last 
+resort, requiring thorough risk assessment and planning. 
+ 
+The table below provide examples of potential hazards and controls associated with disembarking and 
+transfers: 
+Hazards 
+Control 
+Sea sickness (e.g. motion sickness). Even 
+though it is not related to disembarking or 
+transfers, it can have a negative impact on a 
+technician’s health. Sea sickness can develop 
+during transportation on water and should not be 
+disregarded. 
+Symptoms 
+may 
+include 
+frequent 
+vomiting 
+causing dehydration, inability to consume any 
+food which may lead to nutritional deficiency, 
+fatigue, weakness, and in some cases even 
+impaired 
+judgement 
+and 
+coordination. 
+Transferring and climbing a structure in such 
+condition can be dangerous. 
+Encourage people to speak up if they feel 
+seasick. 
+Sometimes 
+when 
+an 
+individual 
+experiences sea sickness the only solution is to 
+return to shore or a solid structure, removing the 
+elements that are causing the sickness. 
+Sea sickness/motion sickness tablets should be 
+used with caution as some have adverse side 
+effects. 
+Being crushed by the vessel when transferring. 
+Transferring between the vessel and a structure 
+is considered high risk as a rogue wave, wind 
+gust or loss of engine power may lead to the 
+technician being struck or crushed by the vessel. 
+Weather and sea conditions should be closely 
+and constantly monitored. If the conditions are 
+not adequate or the technician doesn’t feel safe 
+to transfer, they shouldn’t be forced to do so.  
+Certain industries i.e. wind power generation, oil 
+and gas, have strict rules regarding weather limits 
+and procedures for transferring which must be 
+adhered to. 
+Falling into the water or the possibility of it 
+should always be avoided. If the technician falls 
+into the water during transfer, they may not be 
+visible to the person piloting the vessel, which 
+may lead to the technician being struck by the 
+vessel. 
+Stepping over to or climbing structures is 
+considered as working at height, therefore 
+working at height rules apply. Technicians should 
+be protected against falls when climbing, which 
+can be achieved by using permanent fall arrest 
+systems (if the structure is equipped with it) or 
+twin fall arrest lanyards. The possibility of the 
+sudden movement of the vessel should be 
+considered when climbing with fall arrest. The 
+use of PFDs is highly recommended (may be 
+mandated by the site) even if fall arrest 
+equipment is used. 
+ 
+Vessel crews have extensive knowledge and experience of weather, sea conditions and sailing. Asking  
+for advice and following the vessel crew’s instructions, may help prevent incidents and accidents. 
+ 
+IRATA International Code of Practice for Industrial Rope Access 
+Part 3 of 4: Informative Annexes: Annex S 
+ 
+© IRATA International 
+Annex S: Page 10 of 10 
+    03/10/2024 v001
+ 
+S.12 Useful Links 
+• 
+International Maritime Organisation (IMO): International Maritime Organisation (imo.org) 
+• 
+International Organisation for Standardisation (ISO): ISO 12402-2:2020(en), Personal flotation 
+devices — Part 2: Lifejackets, performance level 275 — Safety requirements 
+• 
+European Standard (EN): ISO 12402-4:2020 (en-standard.eu) 
+• 
+United States Coast Guard (USCG): PFD Selection, Use, Wear & Care (uscg.mil) 
